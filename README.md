@@ -1,7 +1,7 @@
 Cryptoéconomie
 ==============
 
-Traduction française de *Cryptoeconomics*, écrit par [Eric Voskuil](https://twitter.com/evoskuil) et présent en libre accès sur le [wiki de Libbitcoin](https://github.com/libbitcoin/libbitcoin-system/wiki/Cryptoeconomics).
+Traduction française de l'ouvrage *Cryptoeconomics*, écrit par [Eric Voskuil](https://twitter.com/evoskuil), qui est en libre accès en [PDF](https://voskuil.org/cryptoeconomics/cryptoeconomics.pdf) et sur le [wiki de Libbitcoin](https://github.com/libbitcoin/libbitcoin-system/wiki/Cryptoeconomics).
 
 Ce dépôt est organisé comme la [traduction italienne](https://github.com/parsevalbtc/cryptoeconomics-IT-translation/) réalisée par [Parsevalbtc](https://twitter.com/parsevalbtc).
 
