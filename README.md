@@ -11,7 +11,7 @@ Ce dépôt est organisé comme la [traduction italienne](https://github.com/pars
 | ------ | ------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
 | 1      | [.](chapters/ch001-cryptoeconomics.md)                                          | [Cryptoeconomics](https://github.com/libbitcoin/libbitcoin-system/wiki/Cryptoeconomics)                   |
 | 2      | [.](chapters/ch002-foreword-by-amir-taaki.md)                                   | [Foreword by Amir Taaki](https://github.com/libbitcoin/libbitcoin-system/wiki/Foreword-by-Amir-Taaki)     |
-| 3      | [.](chapters/ch003-value-proposition.md)                                        | [Value Proposition](https://github.com/libbitcoin/libbitcoin-system/wiki/Value-Proposition)               |
+| 3      | [Proposition de valeur](chapters/ch003-value-proposition.md)                    | [Value Proposition](https://github.com/libbitcoin/libbitcoin-system/wiki/Value-Proposition)               |
 | 4      | [Axiome de résistance](chapters/ch004-axiom-of-resistance.md)                   | [Axiom of Resistance](https://github.com/libbitcoin/libbitcoin-system/wiki/Axiom-of-Resistance)           |
 | 5      | [.](chapters/ch005-money-taxonomy.md)                                           | [Money Taxonomy](https://github.com/libbitcoin/libbitcoin-system/wiki/Money-Taxonomy)                     |
 | 6      | [.](chapters/ch006-pure-bank.md)                                                | [Pure Bank](https://github.com/libbitcoin/libbitcoin-system/wiki/Pure-Bank)                               |
