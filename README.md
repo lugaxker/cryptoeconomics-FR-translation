@@ -36,7 +36,7 @@ Ce dépôt est organisé comme la [traduction italienne](https://github.com/pars
 | 25     | [.](chapters/ch025-state-banking-principle.md)                                  | [State Banking Principle](https://github.com/libbitcoin/libbitcoin-system/wiki/State-Banking-Principle)   |
 | 26     | [.](chapters/ch026-substitution-principle.md)                                   | [Substitution Principle](https://github.com/libbitcoin/libbitcoin-system/wiki/Substitution-Principle)     |
 | 27     | [.](chapters/ch027-cryptodynamic-principles.md)                                 | [Cryptodynamic Principles](https://github.com/libbitcoin/libbitcoin-system/wiki/Cryptodynamic-Principles) |
-| 28     | [.](chapters/ch028-censorship-resistance-property.md)                           | [Censorship Resistance Property](https://github.com/libbitcoin/libbitcoin-system/wiki/Censorship-Resistance-Property) |
+| 28     | [Propriété de résistance à la censure](chapters/ch028-censorship-resistance-property.md) | [Censorship Resistance Property](https://github.com/libbitcoin/libbitcoin-system/wiki/Censorship-Resistance-Property) |
 | 29     | [.](chapters/ch029-consensus-property.md)                                       | [Consensus Property](https://github.com/libbitcoin/libbitcoin-system/wiki/Consensus-Property)             |
 | 30     | [.](chapters/ch030-stability-property.md)                                       | [Stability Property](https://github.com/libbitcoin/libbitcoin-system/wiki/Stability-Property)             |
 | 31     | [.](chapters/ch031-utility-threshold-property.md)                               | [Utility Threshold Property](https://github.com/libbitcoin/libbitcoin-system/wiki/Utility-Threshold-Property) |
