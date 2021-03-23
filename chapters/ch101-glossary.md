@@ -369,15 +369,15 @@ Une [Mine](#mine) qui partage la [Récompense](#recompense) avec une autre pour 
 
 ## Déviations
 
-#### Embranchement
+#### Fork
 Une divergence dans les [Règles de consensus](#regles-de-consensus).
 
-#### Embranchement dur
-Un [Embranchement](#embranchement) qui implique une [Scission](#scission).
+#### Hard fork
+Un [Fork](#fork) qui implique une [Scission](#scission).
 > Expansion de l'ensemble des blocs potentiellement valides.
 
-#### Embranchement doux
-Un [Embranchement](#embranchement) qui implique une [Scission](#scission) à moins d'être [Appliquée](#application) par la [Puissance de hachage majoritaire](#puissance-de-hachage-majoritaire).
+#### Soft fork
+Un [Fork](#fork) qui implique une [Scission](#scission) à moins d'être [Appliquée](#application) par la [Puissance de hachage majoritaire](#puissance-de-hachage-majoritaire).
 > Contraction de l'ensemble des blocs potentiellement valides.
 
 #### Scission
