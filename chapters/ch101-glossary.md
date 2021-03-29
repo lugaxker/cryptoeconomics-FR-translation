@@ -101,13 +101,13 @@ Une moyenne des [Horodatages](#horodatages) des précédents [Blocs](#bloc).
 #### Preuve
 Marque [Valide](#validité).
 
-### Preuve de travail
+#### Preuve de travail
 [Preuve](#preuve) probabilistique d'une quantité de [Travail](#travail) effectuée (PDT).
 
-### Preuve de mémoire
+#### Preuve de mémoire
 [Preuve](#preuve) probabilistique d'une quantité mémoire de calcul utilisable (PDM).
 
-### Preuve d'enjeu
+#### Preuve d'enjeu
 [Preuve](#preuve) cryptographique d'une quantité de [Possession](#possesseur) (PDE)
 
 #### Branche
