@@ -326,11 +326,11 @@ Une [Personne](#personne) qui contrôle certaines [Unités](#unite).
 #### Développeur
 Une [Personne](#personne) qui crée une [Implémentation](#implementation).
 
-#### Demandeur
+#### Créancier
 Une [Personne](#personne) qui détient une créance sur un bien sous le contrôle d'un [Gardien](#gardien). 
 > Aussi titulaire d'un privilège, actionnaire, prêteur ou déposant.
 
-#### Gardien
+#### Dépositaire
 Une [Personne](#personne) qui contrôle le bien d'autrui. 
 
 ## Minage
