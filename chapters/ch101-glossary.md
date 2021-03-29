@@ -327,7 +327,7 @@ Une [Personne](#personne) qui contrôle certaines [Unités](#unite).
 Une [Personne](#personne) qui crée une [Implémentation](#implementation).
 
 #### Créancier
-Une [Personne](#personne) qui détient une créance sur un bien sous le contrôle d'un [Gardien](#gardien). 
+Une [Personne](#personne) qui détient une créance sur un bien sous le contrôle d'un [Dépositaire](#dépositaire). 
 > Aussi titulaire d'un privilège, actionnaire, prêteur ou déposant.
 
 #### Dépositaire
