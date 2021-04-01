@@ -108,7 +108,7 @@ Marque [Valide](#validité).
 [Preuve](#preuve) probabilistique d'une quantité mémoire de calcul utilisable (PDM).
 
 #### Preuve d'enjeu
-[Preuve](#preuve) cryptographique d'une quantité de [Possession](#possesseur) (PDE)
+[Preuve](#preuve) cryptographique d'une quantité de [Propriété](#propriétaire) (PDE)
 
 #### Branche
 Une séquence [Valide](#validite) de [Blocs](#bloc).
@@ -226,11 +226,11 @@ Ensemble de toutes les [Unités](#unite) émises.
 Augmentation des prix moyens d'[Échange](#echange) au fil du temps.
 
 #### Thésauriser
-[Posséder](#possesseur) pour un usage futur.
+[Posséder](#propriétaire) pour un usage futur.
 > Ce n'est ni de la spéculation ni de l'investissement.
 
 #### Spéculer
-[Posséder](#possesseur) dans l'attente d'une augmentation du [Prix](#prix).
+[Posséder](#propriétaire) dans l'attente d'une augmentation du [Prix](#prix).
 > Aussi, emprunter dans l'attente d'une diminution du prix.
 
 #### Prêter
@@ -319,7 +319,7 @@ Une [Personne](#personne) qui gère un [Relais](#relais).
 Une [Personne](#personne) qui accepte des [Unités](#unite) dans le [Commerce](#commerce).
 > Utilisateur est un autre nom courant pour ceci.
 
-#### Possesseur
+#### Propriétaire
 Une [Personne](#personne) qui contrôle certaines [Unités](#unite).
 > Détenteur est un autre nom courant pour ceci.
 
@@ -411,7 +411,7 @@ Indication d'un [Mineur](#mineur) par le biais des données du [Bloc](#bloc) de 
 Moyen d'associer la [Communication](#communication) à une [Personne](#personne).
 
 #### Salissure
-Détermination de la [Possession](#possesseur).
+Détermination de la [Propriété](#propriétaire).
 
 ## Sécurité
 
@@ -467,9 +467,12 @@ Tendance vers moins de [Mineurs](#miner), y compris la consolidation par [Relais
 Tendance vers moins de [Marchands](#marchand).
 > Les marchands contrôlent directement la validation.
 
+#### Décentralisation
+Tendance s'opposant à la [Centralisation](#centralisation)
+
 #### Délégation
-Tendance vers moins de [Possesseurs](#possesseur).
-> Les possesseurs contrôlent directement la dépense.
+Tendance vers moins de [Propriétaires](#propriétaire).
+> Les propriétaires contrôlent directement la dépense.
 
 #### Cloisonnement
 Tendance vers des [Cloisons](#cloison) permanentes.
