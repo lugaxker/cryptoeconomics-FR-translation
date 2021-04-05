@@ -1,0 +1,18 @@
+Paradoxe du niveau de menace
+============================
+
+Comme le laisse entendre la [Propriété de somme nulle](ch032-zero-sum-property.md), il est possible que le seul moyen de contourner les [subventions externes](https://fr.wikipedia.org/wiki/Subvention) soit de [miner](ch101-glossary.md#mine) avec une perte en capital par rapport au rendement du capital du [marché](ch101-glossary.md#marché). De même, il semble que le seul moyen de vaincre l'impôt, jusqu'à et y compris un impôt de 100% (interdiction), soit de miner hors de portée de l'autorité fiscale, par exemple en secret. Comme pour tous les [marchés noirs](https://fr.wikipedia.org/wiki/March%C3%A9_noir), le [minage surversif](https://www.theatlantic.com/magazine/archive/2017/09/big-in-venezuela/534177) a un coût accru. La concurrence avec le minage subventionné aggrave ce coût.
+
+Si l'on accepte l'[Axiome de résistance](ch004-axiom-of-resistance.md), on doit supposer que l'impôt et la subvention seront utilisés tous les deux pour réduire le coût du contrôle de Bitcoin. En utilisant le pouvoir de subventionner le minage (via les recettes fiscales), les [États](ch101-glossary.md#état) peuvent provoquer un [regroupement](ch101-glossary.md#regroupement) dans la région de la subvention. Une fois que la [puissance de hachage majoritaire](ch101-glossary.md#puissance-de-hachage-majoritaire) est concentrée, l'État peut utiliser son pouvoir fiscal (réglementaire) dans la région pour imposer la [censure](ch101-glossary.md#censure).
+
+Par conséquent, pour profiter des avantages d'un Bitcoin, il semblerait que les [gens](ch101-glossary.md#personne) devront à terme miner à perte. Cependant, la censure crée l'occasion pour d'autres de miner de manière rentable dans la mesure où les gens sont prêts à compenser ce coût par des [frais](ch101-glossary.md#frais). Ce marché noir est la résistance à la censure de Bitcoin.
+
+Les gens paient un prix plus élevé pour certaines transactions et, pour maintenir ce prix plus élevé, l'État doit également en supporter les dépenses, malgré son inefficacité.
+
+**Paradoxalement, cet outil fonctionne bien lorsque la monnaie est attaquée et mal dans le cas contraire.** S'il n'y avait pas de [pression de regroupement](ch039-pooling-pressure-risk.md) *interne*, ces situations seraient équilibrées. Cependant, la [répartition des risques](ch016-risk-sharing-principle.md) est essentielle au minage subversif et la pression de regroupement va *à l'encontre* de cette répartition. Il y a donc une [surface d'attaque](https://fr.wikipedia.org/wiki/Surface_d%27attaque) en constante expansion, qu'aucune pression ne pousse à se contracter, sauf dans le cas où les alternatives monétaires efficaces sont supprimées. La [suppression](https://fr.wikipedia.org/wiki/Contr%C3%B4le_des_changes) des alternatives augmente l'[utilité](ch101-glossary.md#utilité) de la [récompense](ch101-glossary.md#récompense) pour le mineur dans la région de la suppression. Le paradoxe s'applique également aux [pressions de centralisation](ch038-centralization-risk.md).
+
+La conséquence attendue est que Bitcoin ne sera pas bien préparé aux [attaques](ch101-glossary.md#attaque) car cela est financièrement désavantageux pour les [gens](ch101-glossary.md#personne) dans un environnement à faible menace.
+
+---
+
+Texte original : [Threat Level Paradox](https://github.com/libbitcoin/libbitcoin-system/wiki/Threat-Level-Paradox)
