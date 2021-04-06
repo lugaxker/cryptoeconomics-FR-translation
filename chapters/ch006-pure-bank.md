@@ -80,7 +80,11 @@ Le taux de rendement du créancier est en outre fonction du taux d'intérêt. Le
 taux de rendement = taux d'intérêt * prêt/emprunté
 ```
 
-Comme le montre la [Relation d'épargne](ch091-saving-relation.md), le ratio de capital est le taux d'intérêt. Le ratio de capital comprend la dépréciation des biens actuels, qui, pour l'argent, est le demeurage. Le demeurage de la banque pure est 1, donc on peut l'éliminer. En substituant le ratio de capital, on obtient un taux de rendement en matière de capital emprunté et prêté. 
+Comme le montre la [Relation d'épargne](ch091-saving-relation.md), les ratios de capital individuels déterminent entièrement le taux d'intérêt du [marché](ch101-glossary.md#marché). Lorsque nous considérons chaque personne opérant comme une banque pure, il devient clair que le ratio de capital détermine le taux d'intérêt. Un ratio de capital de 0 % pour toutes les personnes implique que le capital est gratuit et n'a pas de rendement. À des ratios de capital croissants, le taux d'intérêt augmente en conséquence. À un niveau de thésaurisation totale, le coût du capital est « infini » - aucun ne peut être obtenu pour la production.
+
+La supposition de la [relation monétaire](ch013-inflation-principle.md) est que le prix est proportionnel au rapport de l'offre à la demande. Mais comme le montre la Relation d'épargne, l'offre et la demande de capital existent dans une relation à somme nulle. Une augmentation de la [thésaurisation](ch101-glossary.md#thésauriser) implique une diminution correspondante des prêts et l'inverse implique une augmentation. De ce fait, ni le ratio de capital ni le taux d'intérêt ne sont linéaires par rapport à l'évolution du montant thésaurisé (ou prêté). Cela a conduit certains à rechercher une « [règle d'or](https://fr.wikipedia.org/wiki/R%C3%A8gle_d%27or_de_l%27accumulation) ». Pourtant, étant donné la subjectivité de la valeur, il s'agit en fin de compte d'un exercice futile.
+
+Pourtant, les ratios de capital déterminent pleinement le taux d'intérêt. Comme tous les individus tentent individuellement d'obtenir un ratio idéal basé sur leurs propres préférences, le taux d'intérêt du marché en résulte. La substitution du ratio de capital au taux d'intérêt démontre l'effet de la réserve sur la banque pure, sous l'hypothèse supplémentaire que tout le monde fonctionne comme une banque pure et avec le même ratio de capital. Le ratio de capital comprend la dépréciation actuelle des biens, ce qui, pour la monnaie, est le demeurage. Le demeurage de la banque pure est 1, donc on peut l'éliminer.
 
 ```
 taux de rendement = (réservé * ratio de demeurage / prêté) * (prêté / emprunté)
@@ -88,11 +92,11 @@ taux de rendement = (réservé / emprunté) * ratio de demeurage
 taux de rendement = réservé / emprunté
 ```
 
-**Le taux de rendement de l'investissement de la banque pure devient le ratio de réserve.**
+Le taux de rendement de l'investissement de la banque pure devient le ratio de réserve. Cela n'implique pas qu'une banque pure individuelle puisse définir son propre rendement en fixant son ratio de capital. Cela reflète simplement que le ratio de capital du marché détermine le rendement du capital. Si *tous les prêteurs* doublaient leur ratio de capital actuel, leurs rendements doubleraient nécessairement, car le coût du capital, et donc son rendement, doublerait.
 
 #### Banques réelles
 
-Les ratios de capital indépendants de toutes les personnes, basés sur la préférence temporelle individuelle, déterminent le taux d'intérêt du [marché](ch101-glossary.md#marché). La substitution ci-dessus du ratio de capital propre de la banque en tant que taux d'intérêt implique que la banque fixe le taux d'intérêt. Cependant, cela est propre au concept de préférence temporelle. Une banque peut définir le niveau d'intérêt qu'elle préfère. Il n'y a aucune hypothèse pour les banques réelles que le marché suivra, de sorte que l'intérêt du marché et, par conséquent, les rendements du marché sont présumés.
+Les ratios de capital indépendants de toutes les personnes, basés sur la préférence temporelle individuelle, déterminent le taux d'intérêt du marché. La substitution ci-dessus du ratio de capital propre de la banque en tant que taux d'intérêt implique que la banque fixe le taux d'intérêt. Cependant, cela est propre au concept de préférence temporelle. Une banque peut définir le niveau d'intérêt qu'elle préfère. Il n'y a aucune hypothèse pour les banques réelles que le marché suivra, de sorte que l'intérêt du marché et, par conséquent, les rendements du marché sont présumés.
 
 ``` 
 taux de rendement du marché = taux d'intérêt du marché * (prêts / empruntés)
