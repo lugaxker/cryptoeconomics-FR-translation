@@ -72,7 +72,7 @@ Ce dépôt est organisé comme la [traduction italienne](https://github.com/pars
 | 61     | [.](chapters/ch061-impotent-mining-fallacy.md)                                  | [Impotent Mining Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Impotent-Mining-Fallacy)   |
 | 62     | [.](chapters/ch062-inflation-fallacy.md)                                        | [Inflation Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Inflation-Fallacy)               |
 | 63     | [.](chapters/ch063-inflationary-quality-fallacy.md)                             | [Inflationary Quality Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Inflationary-Quality-Fallacy) |
-| 64     | [ .](chapters/ch064-jurisdictional-arbitrage-fallacy.md)                         | [Jurisdictional Arbitrage Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Jurisdictional-Arbitrage-Fallacy) |
+| 64     | [Sophisme de l'arbitrage juridictionnel](chapters/ch064-jurisdictional-arbitrage-fallacy.md) | [Jurisdictional Arbitrage Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Jurisdictional-Arbitrage-Fallacy) |
 | 65     | [.](chapters/ch065-lunar-fallacy.md)                                            | [Lunar Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Lunar-Fallacy)                       |
 | 66     | [.](chapters/ch066-network-effect-fallacy.md)                                   | [Network Effect Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Network-Effect-Fallacy)     |
 | 67     | [.](chapters/ch067-prisoners-dilemma-fallacy.md)                                | [Prisoner's Dilemma Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Prisoner's-Dilemma-Fallacy) |
