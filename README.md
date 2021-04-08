@@ -75,7 +75,7 @@ Ce dépôt est organisé comme la [traduction italienne](https://github.com/pars
 | 64     | [Sophisme de l'arbitrage juridictionnel](chapters/ch064-jurisdictional-arbitrage-fallacy.md) | [Jurisdictional Arbitrage Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Jurisdictional-Arbitrage-Fallacy) |
 | 65     | [.](chapters/ch065-lunar-fallacy.md)                                            | [Lunar Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Lunar-Fallacy)                       |
 | 66     | [.](chapters/ch066-network-effect-fallacy.md)                                   | [Network Effect Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Network-Effect-Fallacy)     |
-| 67     | [.](chapters/ch067-prisoners-dilemma-fallacy.md)                                | [Prisoner's Dilemma Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Prisoner's-Dilemma-Fallacy) |
+| 67     | [Sophisme du dilemme du prisonnier](chapters/ch067-prisoners-dilemma-fallacy.md)| [Prisoner's Dilemma Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Prisoner's-Dilemma-Fallacy) |
 | 68     | [.](chapters/ch068-private-key-fallacy.md)                                      | [Private Key Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Private-Key-Fallacy)           |
 | 69     | [.](chapters/ch069-proof-of-cost-fallacy.md)                                    | [Proof of Cost Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Proof-of-Cost-Fallacy)       |
 | 70     | [.](chapters/ch070-proof-of-memory-fallacy.md)                                  | [Proof of Memory Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Proof-of-Memory-Fallacy)   |
