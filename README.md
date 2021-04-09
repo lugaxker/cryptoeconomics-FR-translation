@@ -30,7 +30,7 @@ Ce dépôt est organisé comme la [traduction italienne](https://github.com/pars
 | 19     | [.](chapters/ch019-subjective-inflation-principle.md)                           | [Subjective Inflation Principle](https://github.com/libbitcoin/libbitcoin-system/wiki/Subjective-Inflation-Principle) |
 | 20     | [.](chapters/ch020-consolidation-principle.md)                                  | [Consolidation Principle](https://github.com/libbitcoin/libbitcoin-system/wiki/Consolidation-Principle)   |
 | 21     | [.](chapters/ch021-fragmentation-principle.md)                                  | [Fragmentation Principle](https://github.com/libbitcoin/libbitcoin-system/wiki/Fragmentation-Principle)   |
-| 22     | [Principe d'absence d'autorisation](chapters/ch022-permissionless-principle.md) | [Permissionless Principle](https://github.com/libbitcoin/libbitcoin-system/wiki/Permissionless-Principle) |
+| 22     | [Principe d'absence de permission](chapters/ch022-permissionless-principle.md)  | [Permissionless Principle](https://github.com/libbitcoin/libbitcoin-system/wiki/Permissionless-Principle) |
 | 23     | [.](chapters/ch023-public-data-principle.md)                                    | [Public Data Principle](https://github.com/libbitcoin/libbitcoin-system/wiki/Public-Data-Principle)       |
 | 24     | [.](chapters/ch024-social-network-principle.md)                                 | [Social Network Principle](https://github.com/libbitcoin/libbitcoin-system/wiki/Social-Network-Principle) |
 | 25     | [.](chapters/ch025-state-banking-principle.md)                                  | [State Banking Principle](https://github.com/libbitcoin/libbitcoin-system/wiki/State-Banking-Principle)   |
