@@ -5,7 +5,7 @@ Le [théorème de régression](https://wiki.mises.org/wiki/Regression_theorem) r
 
 > Nul bien ne peut être employé comme instrument d’échange si, au moment où l’on a commencé à s’en servir comme tel, il n’avait pas une valeur d’échange en raison d’autres emplois. 
 
-> Ludwig Von Mises, L'action humaine, partie 4, chapitre XVII, section 4.
+> Ludwig von Mises, L'action humaine, partie 4, chapitre XVII, section 4.
 
 Notez que la théorie ne tente pas simplement d'expliquer l'origine du concept de monnaie, mais de *tout ce qui peut être une monnaie*. En d'autres termes, si un bien ne suit pas cette progression, ce n'est pas de la monnaie.
 
