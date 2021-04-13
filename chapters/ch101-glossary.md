@@ -438,7 +438,7 @@ Utilisation de l'agression pour contrôler la [Puissance de hachage](#puissance-
 Utilisation de l'agression pour contraindre l'[Activation](#activation).
 
 #### Altération
-Agression du [Marché](#marche) qui fausse le coût du [Minage](#mine).
+Agression contre le [Marché](#marche) qui fausse le coût du [Minage](#mine).
 
 #### Variation
 Différences dans le coût des ressources de [Minage](#mine).
