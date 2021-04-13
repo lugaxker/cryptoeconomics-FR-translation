@@ -31,7 +31,7 @@ Ce dépôt est organisé comme la [traduction italienne](https://github.com/pars
 | 20     | [.](chapters/ch020-consolidation-principle.md)                                  | [Consolidation Principle](https://github.com/libbitcoin/libbitcoin-system/wiki/Consolidation-Principle)   |
 | 21     | [.](chapters/ch021-fragmentation-principle.md)                                  | [Fragmentation Principle](https://github.com/libbitcoin/libbitcoin-system/wiki/Fragmentation-Principle)   |
 | 22     | [Principe d'absence de permission](chapters/ch022-permissionless-principle.md)  | [Permissionless Principle](https://github.com/libbitcoin/libbitcoin-system/wiki/Permissionless-Principle) |
-| 23     | [.](chapters/ch023-public-data-principle.md)                                    | [Public Data Principle](https://github.com/libbitcoin/libbitcoin-system/wiki/Public-Data-Principle)       |
+| 23     | [Principe des données publiques](chapters/ch023-public-data-principle.md)       | [Public Data Principle](https://github.com/libbitcoin/libbitcoin-system/wiki/Public-Data-Principle)       |
 | 24     | [Principe de réseau social](chapters/ch024-social-network-principle.md)         | [Social Network Principle](https://github.com/libbitcoin/libbitcoin-system/wiki/Social-Network-Principle) |
 | 25     | [.](chapters/ch025-state-banking-principle.md)                                  | [State Banking Principle](https://github.com/libbitcoin/libbitcoin-system/wiki/State-Banking-Principle)   |
 | 26     | [.](chapters/ch026-substitution-principle.md)                                   | [Substitution Principle](https://github.com/libbitcoin/libbitcoin-system/wiki/Substitution-Principle)     |
