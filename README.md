@@ -53,7 +53,7 @@ Ce dépôt est organisé comme la [traduction italienne](https://github.com/pars
 | 42     | [.](chapters/ch042-balance-of-power-fallacy.md)                                 | [Balance of Power Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Balance-of-Power-Fallacy) |
 | 43     | [.](chapters/ch043-byproduct-mining-fallacy.md)                                 | [Byproduct Mining Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Byproduct-Mining-Fallacy) |
 | 44     | [.](chapters/ch044-causation-fallacy.md)                                        | [Causation Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Causation-Fallacy)               |
-| 45     | [.](chapters/ch045-cockroach-fallacy.md)                                        | [Cockroach Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Cockroach-Fallacy)               |
+| 45     | [Sophisme du cafard](chapters/ch045-cockroach-fallacy.md)                       | [Cockroach Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Cockroach-Fallacy)               |
 | 46     | [.](chapters/ch046-credit-expansion-fallacy.md)                                 | [Credit Expansion Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Credit-Expansion-Fallacy) |
 | 47     | [.](chapters/ch047-debt-loop-fallacy.md)                                        | [Debt Loop Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Debt-Loop-Fallacy)               |
 | 48     | [.](chapters/ch048-decoupled-mining-fallacy.md)                                 | [Decoupled Mining Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Decoupled-Mining-Fallacy) |
