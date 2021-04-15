@@ -73,7 +73,7 @@ Ce dépôt est organisé comme la [traduction italienne](https://github.com/pars
 | 62     | [.](chapters/ch062-inflation-fallacy.md)                                        | [Inflation Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Inflation-Fallacy)               |
 | 63     | [.](chapters/ch063-inflationary-quality-fallacy.md)                             | [Inflationary Quality Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Inflationary-Quality-Fallacy) |
 | 64     | [Sophisme de l'arbitrage juridictionnel](chapters/ch064-jurisdictional-arbitrage-fallacy.md) | [Jurisdictional Arbitrage Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Jurisdictional-Arbitrage-Fallacy) |
-| 65     | [.](chapters/ch065-lunar-fallacy.md)                                            | [Lunar Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Lunar-Fallacy)                       |
+| 65     | [Sophisme lunaire](chapters/ch065-lunar-fallacy.md)                             | [Lunar Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Lunar-Fallacy)                       |
 | 66     | [.](chapters/ch066-network-effect-fallacy.md)                                   | [Network Effect Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Network-Effect-Fallacy)     |
 | 67     | [Sophisme du dilemme du prisonnier](chapters/ch067-prisoners-dilemma-fallacy.md)| [Prisoner's Dilemma Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Prisoner's-Dilemma-Fallacy) |
 | 68     | [Sophisme de la clé privée](chapters/ch068-private-key-fallacy.md)              | [Private Key Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Private-Key-Fallacy)           |
