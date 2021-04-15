@@ -244,8 +244,7 @@ Augmentation des prix moyens d'[Échange](#echange) au fil du temps.
 Taux d'accroissement en [Utilité](#utilite) du [Prêt](#preter).
 
 #### Profit
-Retour sur la [Spéculation](#speculer).
-> Ceci exclut l'intérêt.
+Retour sur [Investissement](#investissement) au-dessus du taux de [Marché](#marché) de l'[Intérêt](#intérêt)
 
 #### Perte
 Échec d'un [Investissement](#preter) à générer des [Intérêts](#interet).
