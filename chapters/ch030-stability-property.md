@@ -1,0 +1,26 @@
+Propriété de stabilité
+======================
+
+[La valeur est subjective](https://fr.wikipedia.org/wiki/Conception_subjective_de_la_valeur) et par conséquent la constance des prix est une fiction économique. Le [prix](ch101-glossary.md#prix) de [change](ch101-glossary.md#échange) d'une monnaie est déterminé par [l'offre et la demande](https://fr.wikipedia.org/wiki/Offre_et_demande) de cette monnaie qui sont à leur tour affectées par les habitudes de demande de chaque personne pour chaque produit. La stabilité d'une monnaie n'est pas la tendance à un prix constant dans toutes les autres choses, c'est la relation d'[amortissement](https://fr.wikipedia.org/wiki/Taux_d%27amortissement_(physique)) entre la demande de monnaie et son offre.
+
+Nous pouvons ranger les monnaies en trois catégories d'offre :
+
+* L'offre de marché ([marchandise](https://fr.wikipedia.org/wiki/Marchandise) et bitcoin du début)
+* L'offre de monopole ([monopole](ch005-money-taxonomy.md))
+* L'offre fixe ([bitcoin](https://fr.wikipedia.org/wiki/Bitcoin) final)
+
+Au sein de toute monnaie, la destruction d'[unités](ch101-glossary.md#unité) diminue l'offre et augmente par conséquent la valeur des unités qui restent. Étant donné qu'il n'y a pas d'incitation financière à la perte, cela n'a pas d'incidence sur la stabilité.
+
+L'offre de monnaie de marché augmente en raison de l'incitation financière à [en produire plus](https://fr.wikipedia.org/wiki/Mine_d%27or) lorsque le prix est censé être supérieur ou égal au coût de production (coût du capital inclus). Comme le montre le [Principe d'inflation](ch013-inflation-principle.md), la relation entre l'offre et la demande (le prix) est stable bien que l'offre ne soit pas fixe. La concurrence garantit que la production de monnaie de marché est contrôlée par la demande. La rétroaction de la diminution de la demande, résultant de l'augmentation de l'offre, réduit l'incitation à la production, ce qui garantit la stabilité.
+
+En tant que monnaie de marché, l'augmentation de l'offre de bitcoin n'a aucun effet sur le prix. Pourtant, puisque son taux d'émission est fixe, sa stabilité est plutôt basée sur les changements de demande. Contrairement à la monnaie-marchandise, le coût de production du bitcoin augmente et diminue en fonction de la demande. Étant donné que le prix est la relation entre l'offre et la demande, cela a le même effet. Le but de l'inflation monétaire de bitcoin est de distribuer rationnellement les unités, et elle finit donc par être éliminée.
+
+L'offre de la monnaie de monopole est augmentée arbitrairement (ou taxée par [demeurage](https://fr.wikipedia.org/wiki/Demeurage_(finance))) par le [souverain](https://fr.wikipedia.org/wiki/Souverainet%C3%A9) en raison de la récompense financière du [seigneuriage](https://fr.wikipedia.org/wiki/Seigneuriage).
+
+Lorsque cette inflation monétaire est prévisible, elle peut être capitalisée, ce qui réduit le rendement du seigneuriage. De ce fait, les modifications de l'offre ne sont souvent [pas publiées](https://www.reuters.com/article/us-venezuela-economy/crisis-hit-venezuela-halts-publication-of-another-major-indicator-idUSKBN16S1YF). En raison de la protection du [monopole d'État](https://fr.wikipedia.org/wiki/Monopole_public) (c'est-à-dire que la production devient un crime de contrefaçon), la concurrence ne peut pas effectivement limiter les rendements. Le [profit](ch101-glossary.md#profit) souverain (impôt) qui en résulte est la récompense du seigneuriage et la [raison du monopole de la monnaie](ch017-reservation-principle.md). La protection du monopole est la seule distinction économique entre la monnaie-marchandise et la monnaie de monopole. L'augmentation de l'offre causée par le seigneuriage n'est atténuée que par les troubles politiques, car les [gens](ch101-glossary.md#personne) s'opposent à la baisse de valeur qui en résulte. Ces troubles se manifestent initialement par la [fuite des capitaux](https://fr.wikipedia.org/wiki/Fuite_des_capitaux), qui est contrée par le [contrôle des changes](https://fr.wikipedia.org/wiki/Contr%C3%B4le_des_changes).
+
+En tant que monnaie à offre fixe, le bitcoin final reste stable. Comme les frais augmentent nécessairement avec la demande, le [seuil d'utilité](ch031-utility-threshold-property.md) élimine la demande pour les [transactions](ch101-glossary.md#transaction) de valeur inférieure au seuil. Plus généralement, le niveau des frais augmente jusqu'au point où les [substituts](ch026-substitution-principle.md) monétaires deviennent plus rentables pour une transaction de valeur donnée. **La stabilité résulte par conséquent de la limitation directe de la demande, contrairement au fait de s'appuyer sur une augmentation de l'offre pour ce faire.** La stabilité implique que le prix est limité, mais il peut augmenter avec l'accroissement de la [capacité de transport](ch018-scalability-principle.md) effective de la monnaie, et avec une [utilité](ch101-glossary.md#utilité) accrue par rapport aux substituts.
+
+---
+
+Texte original : [Stability Property](https://github.com/libbitcoin/libbitcoin-system/wiki/Stability-Property)

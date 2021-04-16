@@ -38,7 +38,7 @@ Ce dépôt est organisé comme la [traduction italienne](https://github.com/pars
 | 27     | [Principes cryptodynamiques](chapters/ch027-cryptodynamic-principles.md)        | [Cryptodynamic Principles](https://github.com/libbitcoin/libbitcoin-system/wiki/Cryptodynamic-Principles) |
 | 28     | [Propriété de résistance à la censure](chapters/ch028-censorship-resistance-property.md) | [Censorship Resistance Property](https://github.com/libbitcoin/libbitcoin-system/wiki/Censorship-Resistance-Property) |
 | 29     | [Propriété de consensus](chapters/ch029-consensus-property.md)                  | [Consensus Property](https://github.com/libbitcoin/libbitcoin-system/wiki/Consensus-Property)             |
-| 30     | [.](chapters/ch030-stability-property.md)                                       | [Stability Property](https://github.com/libbitcoin/libbitcoin-system/wiki/Stability-Property)             |
+| 30     | [Propriété de stabilité](chapters/ch030-stability-property.md)                  | [Stability Property](https://github.com/libbitcoin/libbitcoin-system/wiki/Stability-Property)             |
 | 31     | [.](chapters/ch031-utility-threshold-property.md)                               | [Utility Threshold Property](https://github.com/libbitcoin/libbitcoin-system/wiki/Utility-Threshold-Property) |
 | 32     | [.](chapters/ch032-zero-sum-property.md)                                        | [Zero Sum Property](https://github.com/libbitcoin/libbitcoin-system/wiki/Zero-Sum-Property)               |
 | 33     | [Paradoxe du niveau de menace](chapters/ch033-threat-level-paradox.md)          | [Threat Level Paradox](https://github.com/libbitcoin/libbitcoin-system/wiki/Threat-Level-Paradox)         |
