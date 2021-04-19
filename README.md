@@ -17,7 +17,7 @@ Ce dépôt est organisé comme la [traduction italienne](https://github.com/pars
 | 6      | [Banque pure](chapters/ch006-pure-bank.md)                                      | [Pure Bank](https://github.com/libbitcoin/libbitcoin-system/wiki/Pure-Bank)                               |
 | 7      | [.](chapters/ch007-production-and-consumption.md)                               | [Production and Consumption](https://github.com/libbitcoin/libbitcoin-system/wiki/Production-and-Consumption) |
 | 8      | [.](chapters/ch008-labor-and-leisure.md)                                        | [Labor and Leisure](https://github.com/libbitcoin/libbitcoin-system/wiki/Labor-and-Leisure)               |
-| 9      | [.](chapters/ch009-custodial-risk-principle.md)                                 | [Custodial Risk Principle](https://github.com/libbitcoin/libbitcoin-system/wiki/Custodial-Risk-Principle) |
+| 9      | [Principe de risque custodial](chapters/ch009-custodial-risk-principle.md)      | [Custodial Risk Principle](https://github.com/libbitcoin/libbitcoin-system/wiki/Custodial-Risk-Principle) |
 | 10     | [.](chapters/ch010-dedicated-cost-principle.md)                                 | [Dedicated Cost Principle](https://github.com/libbitcoin/libbitcoin-system/wiki/Dedicated-Cost-Principle) |
 | 11     | [.](chapters/ch011-depreciation-principle.md)                                   | [Depreciation Principle](https://github.com/libbitcoin/libbitcoin-system/wiki/Depreciation-Principle)     |
 | 12     | [.](chapters/ch012-expression-principle.md)                                     | [Expression Principle](https://github.com/libbitcoin/libbitcoin-system/wiki/Expression-Principle)         |
