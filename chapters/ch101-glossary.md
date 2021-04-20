@@ -395,7 +395,7 @@ Bifurcation d'une [Monnaie](#monnaie).
 Une [Annonce](#annonce) qui promeut une [Branche faible](#faible) de la [Chaîne](#chaine).
 > Reorg est une abréviation de ceci.
 
-#### Caler
+#### Ralentissement
 Manque d'augmentation de la [Hauteur](#hauteur) au fil du temps.
 
 #### Activation
