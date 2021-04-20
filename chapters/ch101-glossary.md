@@ -417,7 +417,7 @@ Détermination de la [Propriété](#propriétaire).
 #### Pouvoir
 Niveau relatif de contrôle d'une [Personne](#personne) sur une [Chaîne](#chaine) ou une [Monnaie](#monnaie).
 
-#### Economie
+#### Économie
 Ensemble de tous les [Marchands](#marchand).
 
 #### Pouvoir économique
