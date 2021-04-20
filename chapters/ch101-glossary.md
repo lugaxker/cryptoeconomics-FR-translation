@@ -414,13 +414,13 @@ Détermination de la [Propriété](#propriétaire).
 
 ## Sécurité
 
-#### Puissance
+#### Pouvoir
 Niveau relatif de contrôle d'une [Personne](#personne) sur une [Chaîne](#chaine) ou une [Monnaie](#monnaie).
 
 #### Economie
 Ensemble de tous les [Marchands](#marchand).
 
-#### Puissance économique
+#### Pouvoir économique
 Une fraction de tous les biens offerts dans l'[Échange](#echange).
 
 #### Puissance de hachage

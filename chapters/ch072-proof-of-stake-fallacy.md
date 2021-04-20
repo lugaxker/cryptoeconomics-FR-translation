@@ -7,7 +7,7 @@ L’unique autre source d’autorité sélective dépend par conséquent de l’
 
 La différence se situe dans la déployabilité du capital. La PDT exclut le capital qui ne peut pas être converti en travail, alors que la PDE exclut tout capital qui ne peut pas acquérir des [unités](ch101-glossary.md#unité) de la [monnaie](ch101-glossary.md#monnaie). Cette différence a une conséquence importante sur la sécurité.
 
-Dans le [Principe des autres moyens](ch014-other-means-principle.md), il est montré que la résistance à la [censure](ch101-glossary.md#censure) dépend des personnes qui paient les mineurs pour [vaincre](ch101-glossary.md#puissance) le censeur. **Vaincre la censure n’est pas possible dans un système de PDE, puisque le censeur a acquis la part majoritaire et ne peut pas être évincé.** De ce fait, les systèmes de PDE ne sont pas résistants à la censure et la théorie est par conséquent invalide.
+Dans le [Principe des autres moyens](ch014-other-means-principle.md), il est montré que la résistance à la [censure](ch101-glossary.md#censure) dépend des personnes qui paient les mineurs pour [vaincre](ch101-glossary.md#pouvoir) le censeur. **Vaincre la censure n’est pas possible dans un système de PDE, puisque le censeur a acquis la part majoritaire et ne peut pas être évincé.** De ce fait, les systèmes de PDE ne sont pas résistants à la censure et la théorie est par conséquent invalide.
 
 ---
 

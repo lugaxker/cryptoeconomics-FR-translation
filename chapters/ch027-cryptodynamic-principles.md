@@ -25,7 +25,7 @@ La force de sécurité est de nature entièrement humaine. Les [gens](ch101-glos
 * [La dissipation de l'énergie](ch072-proof-of-stake-fallacy.md)
 * [La régulation de la puissance](ch028-censorship-resistance-property.md)
 
-Ces forces dépendent les unes des autres dans cet ordre. Sans partage du risque, l'énergie ne peut pas être introduite dans le système pour réguler la [puissance](ch101-glossary.md#puissance) d'un censeur. Avec ces trois forces intactes, Bitcoin peut être sécurisé. Une technologie dépourvue de l'une d'entre elles n'est pas Bitcoin.
+Ces forces dépendent les unes des autres dans cet ordre. Sans partage du risque, l'énergie ne peut pas être introduite dans le système pour réguler la [puissance](ch101-glossary.md#pouvoir) d'un censeur. Avec ces trois forces intactes, Bitcoin peut être sécurisé. Une technologie dépourvue de l'une d'entre elles n'est pas Bitcoin.
 
 On ne [peut pas supposer](ch004-axiom-of-resistance.md) que, compte tenu de l'incorporation de ces forces, une implémentation de Bitcoin soit sécurisable. En outre, l'une peut l'être plus qu'une autre. **Une technologie est un Bitcoin seulement si elle incorpore ces forces ; sans elles, ce n'est plus le cas.**
 
