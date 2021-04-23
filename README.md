@@ -95,7 +95,7 @@ Ce dépôt est organisé comme la [traduction italienne](https://github.com/pars
 | 84     | [.](chapters/ch084-thin-air-fallacy.md)                                         | [Thin Air Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Thin-Air-Fallacy)                 |
 | 85     | [.](chapters/ch085-time-preference-fallacy.md)                                  | [Time Preference Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Time-Preference-Fallacy)   |
 | 86     | [.](chapters/ch086-unlendable-money-fallacy.md)                                 | [Unlendable Money Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Unlendable-Money-Fallacy) |
-| 87     | [.](chapters/ch087-fedcoin-objectives.md)                                       | [Fedcoin Objectives](https://github.com/libbitcoin/libbitcoin-system/wiki/Fedcoin-Objectives)             |
+| 87     | [Objectifs de Fedcoin](chapters/ch087-fedcoin-objectives.md)                    | [Fedcoin Objectives](https://github.com/libbitcoin/libbitcoin-system/wiki/Fedcoin-Objectives)             |
 | 88     | [Erreur de Hearn](chapters/ch088-hearn-error.md)                                | [Hearn Error](https://github.com/libbitcoin/libbitcoin-system/wiki/Hearn-Error)                           |
 | 89     | [Tautologie du collectionnable](chapters/ch089-collectible-tautology.md)        | [Collectible Tautology](https://github.com/libbitcoin/libbitcoin-system/wiki/Collectible-Tautology)       |
 | 90     | [.](chapters/ch090-price-estimation.md)                                         | [Price Estimation](https://github.com/libbitcoin/libbitcoin-system/wiki/Price-Estimation)                 |
