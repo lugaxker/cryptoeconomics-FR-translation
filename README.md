@@ -85,7 +85,7 @@ Ce dépôt est organisé comme la [traduction italienne](https://github.com/pars
 | 74     | [Sophisme de la régression](chapters/ch074-regression-fallacy.md)               | [Regression Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Regression-Fallacy)             |
 | 75     | [.](chapters/ch075-relay-fallacy.md)                                            | [Relay Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Relay-Fallacy)                       |
 | 76     | [.](chapters/ch076-replay-protection-fallacy.md)                                | [Replay Protection Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Replay-Protection-Fallacy) |
-| 77     | [.](chapters/ch077-reserve-currency-fallacy.md)                                 | [Reserve Currency Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Reserve-Currency-Fallacy) |
+| 77     | [Sophisme de la monnaie de réserve](chapters/ch077-reserve-currency-fallacy.md) | [Reserve Currency Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Reserve-Currency-Fallacy) |
 | 78     | [.](chapters/ch078-risk-free-return-fallacy.md)                                 | [Risk Free Return Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Risk-Free-Return-Fallacy) |
 | 79     | [.](chapters/ch079-scarcity-fallacy.md)                                         | [Scarcity Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Scarcity-Fallacy)                 |
 | 80     | [.](chapters/ch080-selfish-mining-fallacy.md)                                   | [Selfish Mining Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Selfish-Mining-Fallacy)     |
