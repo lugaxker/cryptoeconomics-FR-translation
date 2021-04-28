@@ -13,7 +13,7 @@ Ce dépôt est organisé comme la [traduction italienne](https://github.com/pars
 | 2      | [.](chapters/ch002-foreword-by-amir-taaki.md)                                   | [Foreword by Amir Taaki](https://github.com/libbitcoin/libbitcoin-system/wiki/Foreword-by-Amir-Taaki)     |
 | 3      | [Proposition de valeur](chapters/ch003-value-proposition.md)                    | [Value Proposition](https://github.com/libbitcoin/libbitcoin-system/wiki/Value-Proposition)               |
 | 4      | [Axiome de résistance](chapters/ch004-axiom-of-resistance.md)                   | [Axiom of Resistance](https://github.com/libbitcoin/libbitcoin-system/wiki/Axiom-of-Resistance)           |
-| 5      | [.](chapters/ch005-money-taxonomy.md)                                           | [Money Taxonomy](https://github.com/libbitcoin/libbitcoin-system/wiki/Money-Taxonomy)                     |
+| 5      | [Taxonomie des monnaies](chapters/ch005-money-taxonomy.md)                      | [Money Taxonomy](https://github.com/libbitcoin/libbitcoin-system/wiki/Money-Taxonomy)                     |
 | 6      | [Banque pure](chapters/ch006-pure-bank.md)                                      | [Pure Bank](https://github.com/libbitcoin/libbitcoin-system/wiki/Pure-Bank)                               |
 | 7      | [.](chapters/ch007-production-and-consumption.md)                               | [Production and Consumption](https://github.com/libbitcoin/libbitcoin-system/wiki/Production-and-Consumption) |
 | 8      | [.](chapters/ch008-labor-and-leisure.md)                                        | [Labor and Leisure](https://github.com/libbitcoin/libbitcoin-system/wiki/Labor-and-Leisure)               |
