@@ -436,7 +436,7 @@ Utilisation de l'agression pour contrôler la [Puissance de hachage](#puissance-
 #### Coercition
 Utilisation de l'agression pour contraindre l'[Activation](#activation).
 
-#### Altération
+#### Distorsion
 Agression contre le [Marché](#marché) qui fausse le coût du [Minage](#mine).
 
 #### Variation
