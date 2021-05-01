@@ -29,7 +29,7 @@ Ce dépôt est organisé comme la [traduction italienne](https://github.com/pars
 | 18     | [Principe de scalabilité](chapters/ch018-scalability-principle.md)              | [Scalability Principle](https://github.com/libbitcoin/libbitcoin-system/wiki/Scalability-Principle)       |
 | 19     | [.](chapters/ch019-subjective-inflation-principle.md)                           | [Subjective Inflation Principle](https://github.com/libbitcoin/libbitcoin-system/wiki/Subjective-Inflation-Principle) |
 | 20     | [Principe de consolidation](chapters/ch020-consolidation-principle.md)          | [Consolidation Principle](https://github.com/libbitcoin/libbitcoin-system/wiki/Consolidation-Principle)   |
-| 21     | [.](chapters/ch021-fragmentation-principle.md)                                  | [Fragmentation Principle](https://github.com/libbitcoin/libbitcoin-system/wiki/Fragmentation-Principle)   |
+| 21     | [Principe de fragmentation](chapters/ch021-fragmentation-principle.md)          | [Fragmentation Principle](https://github.com/libbitcoin/libbitcoin-system/wiki/Fragmentation-Principle)   |
 | 22     | [Principe d'absence de permission](chapters/ch022-permissionless-principle.md)  | [Permissionless Principle](https://github.com/libbitcoin/libbitcoin-system/wiki/Permissionless-Principle) |
 | 23     | [Principe des données publiques](chapters/ch023-public-data-principle.md)       | [Public Data Principle](https://github.com/libbitcoin/libbitcoin-system/wiki/Public-Data-Principle)       |
 | 24     | [Principe de réseau social](chapters/ch024-social-network-principle.md)         | [Social Network Principle](https://github.com/libbitcoin/libbitcoin-system/wiki/Social-Network-Principle) |
