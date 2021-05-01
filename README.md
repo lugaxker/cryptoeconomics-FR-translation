@@ -47,7 +47,7 @@ Ce dépôt est organisé comme la [traduction italienne](https://github.com/pars
 | 36     | [.](chapters/ch036-proximity-premium-flaw.md)                                   | [Proximity Premium Flaw](https://github.com/libbitcoin/libbitcoin-system/wiki/Proximity-Premium-Flaw)     |
 | 37     | [.](chapters/ch037-variance-discount-flaw.md)                                   | [Variance Discount Flaw](https://github.com/libbitcoin/libbitcoin-system/wiki/Variance-Discount-Flaw)     |
 | 38     | [Risque de centralisation](chapters/ch038-centralization-risk.md)               | [Centralization Risk](https://github.com/libbitcoin/libbitcoin-system/wiki/Centralization-Risk)           |
-| 39     | [.](chapters/ch039-pooling-pressure-risk.md)                                    | [Pooling Pressure Risk](https://github.com/libbitcoin/libbitcoin-system/wiki/Pooling-Pressure-Risk)       |
+| 39     | [Risque de pression de regroupement](chapters/ch039-pooling-pressure-risk.md)   | [Pooling Pressure Risk](https://github.com/libbitcoin/libbitcoin-system/wiki/Pooling-Pressure-Risk)       |
 | 40     | [.](chapters/ch040-asic-monopoly-fallacy.md)                                    | [ASIC Monopoly Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/ASIC-Monopoly-Fallacy)       |
 | 41     | [.](chapters/ch041-auditability-fallacy.md)                                     | [Auditability Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Auditability-Fallacy)         |
 | 42     | [.](chapters/ch042-balance-of-power-fallacy.md)                                 | [Balance of Power Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Balance-of-Power-Fallacy) |
