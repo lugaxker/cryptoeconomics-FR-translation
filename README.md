@@ -40,7 +40,7 @@ Ce dépôt est organisé comme la [traduction italienne](https://github.com/pars
 | 29     | [Propriété de consensus](chapters/ch029-consensus-property.md)                  | [Consensus Property](https://github.com/libbitcoin/libbitcoin-system/wiki/Consensus-Property)             |
 | 30     | [Propriété de stabilité](chapters/ch030-stability-property.md)                  | [Stability Property](https://github.com/libbitcoin/libbitcoin-system/wiki/Stability-Property)             |
 | 31     | [Propriété de seuil d'utilité](chapters/ch031-utility-threshold-property.md)    | [Utility Threshold Property](https://github.com/libbitcoin/libbitcoin-system/wiki/Utility-Threshold-Property) |
-| 32     | [.](chapters/ch032-zero-sum-property.md)                                        | [Zero Sum Property](https://github.com/libbitcoin/libbitcoin-system/wiki/Zero-Sum-Property)               |
+| 32     | [Propriété de somme nulle](chapters/ch032-zero-sum-property.md)                 | [Zero Sum Property](https://github.com/libbitcoin/libbitcoin-system/wiki/Zero-Sum-Property)               |
 | 33     | [Paradoxe du niveau de menace](chapters/ch033-threat-level-paradox.md)          | [Threat Level Paradox](https://github.com/libbitcoin/libbitcoin-system/wiki/Threat-Level-Paradox)         |
 | 34     | [.](chapters/ch034-miner-business-model.md)                                     | [Miner Business Model](https://github.com/libbitcoin/libbitcoin-system/wiki/Miner-Business-Model)         |
 | 35     | [Modèle de sécurité qualitatif](chapters/ch035-qualitative-security-model.md)   | [Qualitative Security Model](https://github.com/libbitcoin/libbitcoin-system/wiki/Qualitative-Security-Model) |
