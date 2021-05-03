@@ -1,0 +1,14 @@
+Faux-semblant de la preuve de mémoire
+=====================================
+
+Il a été [proposé](https://eprint.iacr.org/2017/893.pdf) que la [preuve de mémoire](ch101-glossary.md#preuve-de-mémoire) (PDM) puisse remplacer une partie du coût énergétique de la [preuve de travail](ch101-glossary.md#preuve-de-travail) (PDT) par du matériel, et même s'appuyer sur des dispositifs de mémoire existants. Comme le montre le [Sophisme du gaspillage d'énergie](ch053-energy-waste-fallacy.md), un niveau de sécurité constant nécessite une dépense constante et continue. Par conséquent, un tel système nécessiterait un niveau comparable de consommation de matériel pour compenser toute réduction du coût énergétique. **En d'autres termes, la consommation totale d'énergie ne peut pas être réduite, elle ne peut être transférée qu'à la fabrication, à l'exploitation et à la gestion du matériel.**
+
+En décembre 2017, le coût annualisé estimé de l'énergie consommée dans le minage de bitcoin était de 1 628 000 000 $, sur la base des approximations de 32,56 térawattheures consommées à un coût énergétique moyen de 0,05 $ par kilowattheure. À la même époque, ce niveau de coût équivalait à la consommation de 32 560 000 téraoctets à un prix moyen de 50 $ par lecteur. L'utilisation de la mémoire sous-utilisée existante réduit le coût unitaire et augmente par conséquent l'exigence de taille de manière comparable.
+
+Il vaut la peine de considérer le comportement économique d'un système théorique dans lequel la PDM est déterminée par un agrégat de mémoire fixe existant (gratuit) sans expiration ni coûts opérationnels. Puisque le coût du [minage](ch101-glossary.md#minage) est nul, les récompenses abondent sans dépense en proportion de la mémoire (en ne supposant aucune [pression de regroupement](ch039-pooling-pressure-risk.md)). Toute augmentation des frais moyens augmente cette récompense pour la mémoire. Le capital [investi](ch101-glossary.md#prêter) est nul et par conséquent le taux d'[intérêt](ch101-glossary.md#intérêt) est éternellement infini. En dépit d'une incitation illimitée, l'hypothèse d'une expansion nulle exclut la concurrence. Mais comme la preuve est extériorisée, la concurrence ne peut pas en réalité être restreinte. Dans un système réel, la fabrication de matériel augmente perpétuellement pour un niveau de [frais](ch101-glossary.md#frais) donné, et cette expansion s'accélère avec l'augmentation du niveau des frais.
+
+La preuve de mémoire est égale à la preuve de travail en ce qui concerne la consommation de ressources et il n'y a aucune raison de supposer une composante énergétique réduite de ce coût. Le matériel agit comme une batterie de preuve, représentant l'énergie consommée de manière démontrable lors de sa fabrication. Il s'agit d'une façade analogue à la voiture à batterie « zéro émission ».
+
+---
+
+Texte original : [Proof of Memory Façade](https://github.com/libbitcoin/libbitcoin-system/wiki/Proof-of-Memory-Fallacy)

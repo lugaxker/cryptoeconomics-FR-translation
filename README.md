@@ -78,7 +78,7 @@ Ce dépôt est organisé comme la [traduction italienne](https://github.com/pars
 | 67     | [Sophisme du dilemme du prisonnier](chapters/ch067-prisoners-dilemma-fallacy.md)| [Prisoner's Dilemma Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Prisoner's-Dilemma-Fallacy) |
 | 68     | [Sophisme de la clé privée](chapters/ch068-private-key-fallacy.md)              | [Private Key Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Private-Key-Fallacy)           |
 | 69     | [.](chapters/ch069-proof-of-cost-fallacy.md)                                    | [Proof of Cost Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Proof-of-Cost-Fallacy)       |
-| 70     | [.](chapters/ch070-proof-of-memory-fallacy.md)                                  | [Proof of Memory Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Proof-of-Memory-Fallacy)   |
+| 70     | [Faux-semblant de la preuve de mémoire](chapters/ch070-proof-of-memory-fallacy.md) | [Proof of Memory Façade](https://github.com/libbitcoin/libbitcoin-system/wiki/Proof-of-Memory-Fallacy) |
 | 71     | [.](chapters/ch071-proof-of-ownership-fallacy.md)                               | [Proof of Ownership Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Proof-of-Ownership-Fallacy) |
 | 72     | [Sophisme de la preuve d'enjeu](chapters/ch072-proof-of-stake-fallacy.md)       | [Proof of Stake Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Proof-of-Stake-Fallacy)     |
 | 73     | [Sophisme de la preuve de travail](chapters/ch073-proof-of-work-fallacy.md)     | [Proof of Work Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Proof-of-Work-Fallacy)       |
