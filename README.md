@@ -107,6 +107,6 @@ Ce dépôt est organisé comme la [traduction italienne](https://github.com/pars
 | 96     | [Étiquettes de Bitcoin](chapters/ch096-bitcoin-labels.md)                       | [Bitcoin Labels](https://github.com/libbitcoin/libbitcoin-system/wiki/Bitcoin-Labels)                     |
 | 97     | [Usurpation de marque](chapters/ch097-brand-arrogation.md)                      | [Brand Arrogation](https://github.com/libbitcoin/libbitcoin-system/wiki/Brand-Arrogation)                 |
 | 98     | [.](chapters/ch098-reserve-definition.md)                                       | [Reserve Definition](https://github.com/libbitcoin/libbitcoin-system/wiki/Reserve-Definition)             |
-| 99     | [.](chapters/ch099-maximalism-definition.md)                                    | [Maximalism Definition](https://github.com/libbitcoin/libbitcoin-system/wiki/Maximalism-Definition)       |
+| 99     | [Définition du maximalisme](chapters/ch099-maximalism-definition.md)            | [Maximalism Definition](https://github.com/libbitcoin/libbitcoin-system/wiki/Maximalism-Definition)       |
 | 100    | [.](chapters/ch100-shitcoin-definition.md)                                      | [Shitcoin Definition](https://github.com/libbitcoin/libbitcoin-system/wiki/Shitcoin-Definition)           |
 | 101    | [Lexique](chapters/ch101-glossary.md)                                           | [Glossary](https://github.com/libbitcoin/libbitcoin-system/wiki/Glossary)                                 |
