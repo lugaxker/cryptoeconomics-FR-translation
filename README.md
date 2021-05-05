@@ -101,7 +101,7 @@ Ce dépôt est organisé comme la [traduction italienne](https://github.com/pars
 | 90     | [.](chapters/ch090-price-estimation.md)                                         | [Price Estimation](https://github.com/libbitcoin/libbitcoin-system/wiki/Price-Estimation)                 |
 | 91     | [.](chapters/ch091-saving-relation.md)                                          | [Savings Relation](https://github.com/libbitcoin/libbitcoin-system/wiki/Savings-Relation)                 |
 | 92     | [.](chapters/ch092-speculative-consumption.md)                                  | [Speculative Consumption](https://github.com/libbitcoin/libbitcoin-system/wiki/Speculative-Consumption)   |
-| 93     | [.](chapters/ch093-spam-misnomer.md)                                            | [Spam Misnomer](https://github.com/libbitcoin/libbitcoin-system/wiki/Spam-Misnomer)                       |
+| 93     | [Appellation impropre du spam](chapters/ch093-spam-misnomer.md)                 | [Spam Misnomer](https://github.com/libbitcoin/libbitcoin-system/wiki/Spam-Misnomer)                       |
 | 94     | [.](chapters/ch094-efficiency-paradox.md)                                       | [Efficiency Paradox](https://github.com/libbitcoin/libbitcoin-system/wiki/Efficiency-Paradox)             |
 | 95     | [.](chapters/ch095-split-speculator-dilemma.md)                                 | [Split Speculator Dilemma](https://github.com/libbitcoin/libbitcoin-system/wiki/Split-Speculator-Dilemma) |
 | 96     | [.](chapters/ch096-bitcoin-labels.md)                                           | [Bitcoin Labels](https://github.com/libbitcoin/libbitcoin-system/wiki/Bitcoin-Labels)                     |
