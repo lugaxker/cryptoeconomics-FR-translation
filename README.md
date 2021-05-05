@@ -104,7 +104,7 @@ Ce dépôt est organisé comme la [traduction italienne](https://github.com/pars
 | 93     | [Appellation impropre du spam](chapters/ch093-spam-misnomer.md)                 | [Spam Misnomer](https://github.com/libbitcoin/libbitcoin-system/wiki/Spam-Misnomer)                       |
 | 94     | [.](chapters/ch094-efficiency-paradox.md)                                       | [Efficiency Paradox](https://github.com/libbitcoin/libbitcoin-system/wiki/Efficiency-Paradox)             |
 | 95     | [.](chapters/ch095-split-speculator-dilemma.md)                                 | [Split Speculator Dilemma](https://github.com/libbitcoin/libbitcoin-system/wiki/Split-Speculator-Dilemma) |
-| 96     | [.](chapters/ch096-bitcoin-labels.md)                                           | [Bitcoin Labels](https://github.com/libbitcoin/libbitcoin-system/wiki/Bitcoin-Labels)                     |
+| 96     | [Étiquettes de Bitcoin](chapters/ch096-bitcoin-labels.md)                       | [Bitcoin Labels](https://github.com/libbitcoin/libbitcoin-system/wiki/Bitcoin-Labels)                     |
 | 97     | [.](chapters/ch097-brand-arrogation.md)                                         | [Brand Arrogation](https://github.com/libbitcoin/libbitcoin-system/wiki/Brand-Arrogation)                 |
 | 98     | [.](chapters/ch098-reserve-definition.md)                                       | [Reserve Definition](https://github.com/libbitcoin/libbitcoin-system/wiki/Reserve-Definition)             |
 | 99     | [.](chapters/ch099-maximalism-definition.md)                                    | [Maximalism Definition](https://github.com/libbitcoin/libbitcoin-system/wiki/Maximalism-Definition)       |
