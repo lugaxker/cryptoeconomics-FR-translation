@@ -1,0 +1,10 @@
+Paradoxe de l'efficacité
+========================
+
+Le [minage](ch101-glossary.md#mine) de bitcoin dans son ensemble ne peut pas être rendu plus efficace en ce qui concerne le coût réel. Étant donné que tous les coûts se réduisent à de l'énergie, cela pourrait être reformulé en : Bitcoin ne peut pas être rendu plus économe en énergie. [Paradoxalement](https://fr.wikipedia.org/wiki/Paradoxe), quelle que soit l'amélioration technologique introduite, le coût de la [confirmation](ch101-glossary.md#confirmation) des [transactions](ch101-glossary.md#transaction) reste la somme des [récompenses](ch101-glossary.md#récompense) pour la confirmation.
+
+**Cette contradiction apparente découle du fait que la récompense détermine à terme le coût.** Une augmentation du [taux de hachage](ch101-glossary.md#taux-de-hachage) pour le même coût entraîne une augmentation de la [difficulté](ch101-glossary.md#difficulté) à maintenir la [période](ch101-glossary.md#période) de [bloc](ch101-glossary.md#bloc), ce qui augmente le coût en conséquence. Le minage de bitcoin doit toujours consommer en coût le montant de sa récompense présente.
+
+---
+
+Texte original : [Efficiency Paradox](https://github.com/libbitcoin/libbitcoin-system/wiki/Efficiency-Paradox)
