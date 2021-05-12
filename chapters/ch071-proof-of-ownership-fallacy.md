@@ -1,0 +1,20 @@
+Sophisme de la blockchain
+=========================
+
+Il existe une théorie selon laquelle la [propriété](ch101-glossary.md#propriétaire) des biens peut être garantie par une conservation immuable des [créances](ch101-glossary.md#créancier), à la fois contre la perte de créances et contre le [Risque custodial](ch009-custodial-risk-principle.md).
+
+Étant donné que la créance n'est pas en elle-même le bien, le contrôle du bien incombe au [dépositaire](ch101-glossary.md#dépositaire) contre qui la créance est faite. Un dépositaire a la capacité de céder ou de conserver le bien et est par conséquent un [tiers de confiance](https://fr.wikipedia.org/wiki/Tiers_de_confiance). La possibilité de l'abrogation d'une créance par son dépositaire est toujours contrebalancée par la signature, cryptographique ou autre, de ce dépositaire, l'exécution de la créance étant laissée à son titulaire.
+
+La théorie affirme que la conservation immuable des créances constitue une garantie contre la perte de la créance par son propriétaire, car personne d'autre n'aurait d'intérêt dans la perte. Toutefois, afin de racheter la créance, son propriétaire doit fournir une preuve de propriété au dépositaire. Cela exige que le propriétaire ne perde pas le secret qui prouve cette propriété. De ce fait, la garantie de la créance contre la perte n'est pas du tout contrebalancée, elle change simplement de forme. La théorie est par conséquent invalide en ce qui concerne la prévention des pertes.
+
+Le stockage d'une référence forte à la créance peut réduire la taille, et donc le coût, de son stockage immuable. La créance peut prendre la forme d'un [contrat](ch101-glossary.md#contrat) [humain](ch101-glossary.md#personne) ou [automatique](ch101-glossary.md#machine), et être référencée comme une [empreinte à sens unique](https://fr.wikipedia.org/wiki/Fonction_de_hachage_cryptographique). Dans les deux cas, la [validation](ch101-glossary.md#validation) et l'exécution du contrat sont nécessaires pour que le transfert de propriété soit effectué par le dépositaire. Par conséquent, une créance de contrat référencée aggrave le risque de perte avec des données supplémentaires, le contrat.
+
+Comme le montre le [Principe de partage du risque](ch016-risk-sharing-principle.md), les gens sont toujours la base de la sécurité. Les gens peuvent agir collectivement pour protéger l'immuabilité d'une monnaie, et donc toute donnée de créance associée au contrôle de la monnaie.
+
+Cependant, un dépositaire est un tiers de confiance. Les créances immuables n'atténuent en aucun cas les attaques directes contre un dépositaire, ou par celui-ci. Lorsque le dépositaire est l'[État](ch101-glossary.md#état) ou est soumis à son contrôle, la créance n'offre aucune [garantie](https://fr.wikipedia.org/wiki/Executive_Order_6102) contre le remplacement de l'autorité de l'État à la place de la propriété prouvée de toute créance. La théorie est donc également invalide en ce qui concerne la défaillance des dépositaires.
+
+Bitcoin en tant que [monnaie](ch005-money-taxonomy.md) n'est pas custodial. Ses [unités](ch101-glossary.md#unité) ne représentent pas un actif détenu par un tiers de confiance. La monnaie est échangée directement entre le client et le [marchand](ch101-glossary.md#marchand). En ce sens, *tous les marchands* sont les dépositaires de la [valeur](ch101-glossary.md#valeur) du bitcoin. **Le sophisme de la blockchain découle d'une méconnaissance du modèle de sécurité de Bitcoin, attribuant la sécurité à sa technologie par opposition à la distribution de ses marchands.** Le terme « technologie blockchain » renforce cette erreur, en laissant entendre que c'est principalement la structure de données de Bitcoin qui le sécurise.
+
+---
+
+[Blockchain Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Blockchain-Fallacy)
