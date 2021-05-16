@@ -187,7 +187,7 @@ Une [Transaction](#transaction) qui [transfère](#transfert) une [Récompense](#
 #### Maturité
 [Profondeur](#profondeur) à laquelle la [Sortie](#sortie) d'une [Base de pièce](#base-de-pièce) devient [Transférable](#transfert).
 
-#### Réduction de moitié
+#### Halving
 Réduction du taux de [Subvention](#subvention) (de moitié).
 
 #### Difficulté
