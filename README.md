@@ -51,7 +51,7 @@ Ce dépôt est organisé comme la [traduction italienne](https://github.com/pars
 | 40     | [.](chapters/ch040-asic-monopoly-fallacy.md)                                    | [ASIC Monopoly Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/ASIC-Monopoly-Fallacy)       |
 | 41     | [.](chapters/ch041-auditability-fallacy.md)                                     | [Auditability Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Auditability-Fallacy)         |
 | 42     | [Sophisme de l'équilibre des pouvoirs](chapters/ch042-balance-of-power-fallacy.md) | [Balance of Power Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Balance-of-Power-Fallacy) |
-| 43     | [.](chapters/ch043-byproduct-mining-fallacy.md)                                 | [Byproduct Mining Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Byproduct-Mining-Fallacy) |
+| 43     | [Sophisme du minage par sous-produits](chapters/ch043-byproduct-mining-fallacy.md) | [Byproduct Mining Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Byproduct-Mining-Fallacy) |
 | 44     | [.](chapters/ch044-causation-fallacy.md)                                        | [Causation Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Causation-Fallacy)               |
 | 45     | [Sophisme du cafard](chapters/ch045-cockroach-fallacy.md)                       | [Cockroach Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Cockroach-Fallacy)               |
 | 46     | [.](chapters/ch046-credit-expansion-fallacy.md)                                 | [Credit Expansion Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Credit-Expansion-Fallacy) |
