@@ -27,7 +27,7 @@ La proposition n'offre aucune explication rationnelle sur la façon dont les gen
 
 Il existe un argument selon lequel le bitcoin est un indice objectif alors que l'or ne l'est pas. Ceci est basé sur l'offre inflationniste de l'or contrairement à l'offre fixe du bitcoin. Cela suppose que l'inflation monétaire implique une monnaie instable alors que l'offre fixe implique une monnaie stable. Comme le montre la Propriété de stabilité, les deux monnaies sont stables. L'argument ne reconnaît pas que la valeur, comme l'indique l'indice, est à la fois une conséquence de l'offre et une conséquence de la demande. La demande d'or est stabilisée par l'inflation et la demande de bitcoin est stabilisée par les frais.
 
-La théorie est par conséquent invalide. Soit la monnaie fiat cesse d'exister, soit elle perçoit l'impôt. Les États ne renoncent à cet impôt que sous une contrainte extrême, et dans ce cas, seulement brièvement. Si on peut affirmer quoi que ce soit, c'est que le bitcoin sera la « monnaie idéale » et qu'il ne s'échangera pas librement avec les monnaies étatiques (dans la mesure où elles subsitent).
+La théorie est par conséquent invalide. Soit la monnaie fiat cesse d'exister, soit elle perçoit l'impôt. Les États ne renoncent à cet impôt que sous une contrainte extrême, et dans ce cas, seulement brièvement. Si on peut affirmer quoi que ce soit, c'est que le bitcoin sera cette « monnaie idéale » mais qu'il ne s'échangera pas librement avec les monnaies étatiques (dans la mesure où elles subsistent).
 
 ---
 
