@@ -1,0 +1,22 @@
+Sophisme du monopole des ASIC
+=============================
+
+Il existe une théorie selon laquelle le prix des [ASIC](https://fr.wikipedia.org/wiki/Application-specific_integrated_circuit) de Bitcoin est contrôlé par un [cartel](https://mises.org/library/man-economy-and-state-power-and-market/html/p/1059) de [mineurs](ch101-glossary.md#mineur), créant un avantage disproportionné pour les partenaires [miniers](ch101-glossary.md#mine) du cartel.
+
+Il n'y a pas de différence économique entre un cartel et une organisation unique. L'évolution de la taille d'organisation est un résultat du [marché](ch101-glossary.md#marché) libre qui est observable à mesure que le capital recherche une [économie d'échelle](https://fr.wikipedia.org/wiki/%C3%89conomie_d%27%C3%A9chelle) optimale. Si les partenaires reçoivent des ASIC à un prix qui produit un rendement du capital inférieur au marché, cela équivaut à une subvention interne entre partenaires. Il en va de même pour un prix qui produit un rendement du capital supérieur au marché, la subvention allant dans la direction opposée. De ce fait, il n'y a aucun avantage net à un tel rabais entre partenaires.
+
+La production est généralement fixée à un niveau destiné à produire un [taux de rendement](https://fr.wikipedia.org/wiki/Rendement_(finance)) maximal du capital. Pour un producteur, le seul moyen économiquement rationnel d'augmenter ses prix est de limiter la production en dessous de cet optimum. Sinon, un prix plus élevé impliquerait des stocks invendus, ce qui entraînerait une baisse des rendements nets. Cela implique que la production doit être limitée par l'entente afin d'augmenter le [prix unitaire](https://en.wikipedia.org/wiki/Unit_price) pour les non-partenaires.
+
+La limitation de la production laisse à d'autres producteurs la possibilité de capter les clients tirant une [utilité marginale](https://fr.wikipedia.org/wiki/Utilit%C3%A9_marginale) moindre du produit, car ces clients ne seraient pas servis autrement. Ainsi, la concurrence fait baisser les prix jusqu'à ce que le marché compense. Un marché libre recherche le prix de compensation qui produit le rendement global du capital (l'[intérêt](ch101-glossary.md#intérêt)). Un prix courant au-dessus de ce niveau augmente la production et un prix en dessous diminue la production. C'est la [préférence temporelle](https://www.wikiberal.org/wiki/Pr%C3%A9f%C3%A9rence_temporelle) qui détermine le taux d'intérêt.
+
+À moins que la production ne soit soumise de manière disproportionnée aux forces hostiles au marché, telles que les impôts ou les subventions, tout le monde a la même possibilité de mobiliser des capitaux et d'être compétitif dans la production.
+
+S'il n'y a pas de concurrence, cela signifie que les rendements de ce secteur d'activité sont au moins conformes aux rendements moyens du marché. Les impôts et les subventions provoquent des [distorsions](ch101-glossary.md#distorsion) régionales mais n'éliminent pas la concurrence. **En d'autres termes, le prix de monopole ne peut être atteint que si l'État octroie un pouvoir de monopole.**
+
+Une théorie apparentée affirme que l'achat d'ASIC auprès de ce cartel augmente sa [puissance de hachage](ch101-glossary.md#puissance-de-hachage). Ceci est invalide sur la base de l'explication de la tarification monopolistique ci-dessus. Le capital du producteur recherchera le même rendement dans n’importe quel secteur d’activité ou d’investissement. Il n'y a aucune raison de croire que le rendement des ASIC sera disproportionné.
+
+Une théorie apparentée affirme que l'algorithme de [preuve de travail](ch101-glossary.md#preuve-de-travail) de Bitcoin produit une [pression de regroupement](ch039-pooling-pressure-risk.md), en conséquence de la supposée cartellisation. Si les gens croient vraiment que les ASIC sont surévalués, la réponse rationnelle est de lever des capitaux et de produire des ASIC. Mais dans tous les cas, seules les forces du marché et les forces ([étatiques](ch101-glossary.md#état)) hostiles au marché contrôlent la production de puces et, de ce fait, ne constituent pas une pression de [regroupement](ch101-glossary.md#regroupement) découlant du protocole.
+
+---
+
+Texte original : [ASIC Monopoly Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/ASIC-Monopoly-Fallacy)
