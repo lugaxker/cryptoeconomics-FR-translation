@@ -56,7 +56,7 @@ Ce dépôt est organisé comme la [traduction italienne](https://github.com/pars
 | 45     | [Sophisme du cafard](chapters/ch045-cockroach-fallacy.md)                       | [Cockroach Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Cockroach-Fallacy)               |
 | 46     | [.](chapters/ch046-credit-expansion-fallacy.md)                                 | [Credit Expansion Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Credit-Expansion-Fallacy) |
 | 47     | [.](chapters/ch047-debt-loop-fallacy.md)                                        | [Debt Loop Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Debt-Loop-Fallacy)               |
-| 48     | [.](chapters/ch048-decoupled-mining-fallacy.md)                                 | [Decoupled Mining Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Decoupled-Mining-Fallacy) |
+| 48     | [Sophisme du minage découplé](chapters/ch048-decoupled-mining-fallacy.md)       | [Decoupled Mining Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Decoupled-Mining-Fallacy) |
 | 49     | [Sophisme de la vente à bas prix](chapters/ch049-dumping-fallacy.md)            | [Dumping Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Dumping-Fallacy)                   |
 | 50     | [.](chapters/ch050-empty-block-fallacy.md)                                      | [Empty Block Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Empty-Block-Fallacy)           |
 | 51     | [Sophisme de l'épuisement d'énergie](chapters/ch051-energy-exhaustion-fallacy.md) | [Energy Exhaustion Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Energy-Exhaustion-Fallacy) |
