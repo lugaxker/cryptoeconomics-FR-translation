@@ -90,7 +90,7 @@ Ce dépôt est organisé comme la [traduction italienne](https://github.com/pars
 | 79     | [.](chapters/ch079-scarcity-fallacy.md)                                         | [Scarcity Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Scarcity-Fallacy)                 |
 | 80     | [.](chapters/ch080-selfish-mining-fallacy.md)                                   | [Selfish Mining Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Selfish-Mining-Fallacy)     |
 | 81     | [Sophisme des frais annexes](chapters/ch081-side-fee-fallacy.md)                | [Side Fee Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Side-Fee-Fallacy)                 |
-| 82     | [.](chapters/ch082-split-credit-expansion-fallacy.md)                           | [Split Credit Expansion Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Split-Credit-Expansion-Fallacy) |
+| 82     | [Sophisme de l'expansion du crédit par la scission](chapters/ch082-split-credit-expansion-fallacy.md) | [Split Credit Expansion Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Split-Credit-Expansion-Fallacy) |
 | 83     | [.](chapters/ch083-stock-to-flow-fallacy.md)                                    | [Stock to Flow Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Stock-to-Flow-Fallacy)       |
 | 84     | [.](chapters/ch084-thin-air-fallacy.md)                                         | [Thin Air Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Thin-Air-Fallacy)                 |
 | 85     | [.](chapters/ch085-time-preference-fallacy.md)                                  | [Time Preference Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Time-Preference-Fallacy)   |

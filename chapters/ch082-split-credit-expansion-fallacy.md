@@ -1,0 +1,14 @@
+Sophisme de l'expansion du crédit par la scission
+=================================================
+
+Il existe une théorie selon laquelle l'augmentation d'[unités](ch101-glossary.md#unité) monétaires, comme dans le cas d'une [scission](ch101-glossary.md#scission) ou d'une nouvelle [monnaie](ch101-glossary.md#monnaie), crée du crédit. Il s'agit d'une erreur qui est vraisemblablement une conséquence de l'hypothèse selon laquelle l'[expansion du crédit](ch046-credit-expansion-fallacy.md) entraînée par l'expansion monétaire de l'[État](ch101-glossary.md#état) est une force du [marché](ch101-glossary.md#marché). Cette hypothèse ne tient pas compte du fait que la [monnaie de marché](ch005-money-taxonomy.md) ne peut pas produire de [seigneuriage](https://fr.wikipedia.org/wiki/Seigneuriage).
+
+Le seigneuriage est une taxe. Les unités monétaires créées ne représentent pas un nouveau capital mais plutôt la dilution des unités existantes par l'État, en transférant au souverain la propriété du capital qu'elles représentent. Comme ce capital est utilisé dans la subvention de [prêts](ch101-glossary.md#prêter) par le cartel de la [banque d'État](ch025-state-banking-principle.md), sous forme de [monnaie moins chère](https://www.frbdiscountwindow.org) et d'[assurances](https://www.fdic.gov/resources/deposit-insurance/), le coût du capital pour les clients de la banque est réduit.
+
+**Cette soi-disante expansion du crédit n'est pas simplement le résultat de la réserve fractionnaire en tant que force du marché, c'est la conséquence de l'État qui favorise les débiteurs au détriment des épargnants.** Dans un marché bancaire libre, les banques sont simplement des *fonds d'investissement*. Les investisseurs obtiennent en moyenne un rendement du capital conforme au marché, et en supportent le risque. Dans le modèle de la banque d'État, le risque, et par conséquent le capital, sont réorganisés en fonction d'objectifs [politiques](ch101-glossary.md#politique). 
+
+L'expansion du crédit sur le [marché](ch101-glossary.md#marché) est une augmentation du prêt de capital, par opposition à la [thésaurisation](ch101-glossary.md#thésauriser). L'augmentation des taux de prêt est une conséquence de la réduction de la [préférence temporelle](ch085-time-preference-fallacy.md), et réduit le coût du capital. Il est impossible de démontrer que la création d'une scission ou d'une nouvelle monnaie (ou de quoi que ce soit d'autre) réduit la préférence temporelle. De ce fait, c'est une erreur de supposer que ces créations augmentent la disponibilité du capital ou réduisent son coût.
+
+---
+
+Texte original : [Split Credit Expansion Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Split-Credit-Expansion-Fallacy)
