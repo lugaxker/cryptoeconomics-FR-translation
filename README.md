@@ -63,7 +63,7 @@ Ce dépôt est organisé comme la [traduction italienne](https://github.com/pars
 | 52     | [Sophisme du stockage d'énergie](chapters/ch052-energy-store-fallacy.md)        | [Energy Store Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Energy-Store-Fallacy)         |
 | 53     | [Sophisme du gaspillage d'énergie](chapters/ch053-energy-waste-fallacy.md)      | [Energy Waste Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Energy-Waste-Fallacy)         |
 | 54     | [Sophisme de la récupération des frais](chapters/ch054-fee-recovery-fallacy.md) | [Fee Recovery Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Fee-Recovery-Fallacy)         |
-| 55     | [.](chapters/ch055-genetic-purity-fallacy.md)                                   | [Genetic Purity Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Genetic-Purity-Fallacy)     |
+| 55     | [Sophisme de la pureté génétique](chapters/ch055-genetic-purity-fallacy.md)     | [Genetic Purity Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Genetic-Purity-Fallacy)     |
 | 56     | [.](chapters/ch056-full-reserve-fallacy.md)                                     | [Full Reserve Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Full-Reserve-Fallacy)         |
 | 57     | [Sophisme du halving](chapters/ch057-halving-fallacy.md)                        | [Halving Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Halving-Fallacy)                   |
 | 58     | [Sophisme de la thésaurisation](chapters/ch058-hoarding-fallacy.md)             | [Hoarding Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Hoarding-Fallacy)                 |
