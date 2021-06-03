@@ -88,7 +88,7 @@ Ce dépôt est organisé comme la [traduction italienne](https://github.com/pars
 | 77     | [Sophisme de la monnaie de réserve](chapters/ch077-reserve-currency-fallacy.md) | [Reserve Currency Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Reserve-Currency-Fallacy) |
 | 78     | [.](chapters/ch078-risk-free-return-fallacy.md)                                 | [Risk Free Return Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Risk-Free-Return-Fallacy) |
 | 79     | [.](chapters/ch079-scarcity-fallacy.md)                                         | [Scarcity Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Scarcity-Fallacy)                 |
-| 80     | [.](chapters/ch080-selfish-mining-fallacy.md)                                   | [Selfish Mining Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Selfish-Mining-Fallacy)     |
+| 80     | [Sophisme du minage égoïste](chapters/ch080-selfish-mining-fallacy.md)          | [Selfish Mining Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Selfish-Mining-Fallacy)     |
 | 81     | [Sophisme des frais annexes](chapters/ch081-side-fee-fallacy.md)                | [Side Fee Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Side-Fee-Fallacy)                 |
 | 82     | [Sophisme de l'expansion du crédit par la scission](chapters/ch082-split-credit-expansion-fallacy.md) | [Split Credit Expansion Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Split-Credit-Expansion-Fallacy) |
 | 83     | [.](chapters/ch083-stock-to-flow-fallacy.md)                                    | [Stock to Flow Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Stock-to-Flow-Fallacy)       |
