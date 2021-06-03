@@ -1,0 +1,24 @@
+Sophisme du relais
+==================
+
+Le réseau [pair-à-pair](ch101-glossary.md#pair-à-pair) diffuse les [blocs](ch101-glossary.md#bloc) et les [transactions](ch101-glossary.md#transaction) [non confirmées](ch101-glossary.md#non-confirmée). Le [protocole](ch101-glossary.md#protocole) lui-même permet aux [nœuds](ch101-glossary.md#nœud) de se protéger contre les [dénis de service](ch101-glossary.md#déni-de-service). Par conséquent, cette [communication](ch101-glossary.md#communication) ne nécessite aucune [identité](ch101-glossary.md#identité). C'est grâce à cette protection que le réseau évite de requérir une autorisation pour participer.
+
+Cependant, cette protection a un coût en termes de [latence](ch101-glossary.md#latence) d'[annonce](ch101-glossary.md#annonce), et en raison de l'[avantage de proximité](ch036-proximity-premium-flaw.md), une latence plus faible se traduit par une [puissance de hachage](ch101-glossary.md#puissance-de-hachage) apparente plus élevée. Par conséquent, les [mineurs](ch101-glossary.md#mineur) sont en concurrence pour obtenir une latence réduite. Une façon de réduire la latence est le [regroupement](ch101-glossary.md#regroupement), une autre est l'utilisation d'un réseau de diffusion plus efficace. Étant donné que le regroupement cède le [pouvoir](ch101-glossary.md#pouvoir) à l'opérateur, on peut supposer que cette dernière option est préférable.
+
+Une façon d'améliorer la diffusion est d'*optimiser* le réseau pair-à-pair. L'autre consiste à rejoindre un réseau distinct, appelé [relais](ch101-glossary.md#relais), qui présente une latence plus faible en raison de l'élimination des protections contre le déni de service, par [exemple](http://bitcoinfibre.org) :
+
+> Le format du message cmpctblock a été conçu pour qu'il s'intègre parfaitement dans un mécanisme de relais basé sur UDP-FEC. La seule différence est que nous l'envoyons par UDP avec une FEC. [...] De cette façon, les sauts supplémentaires n'introduisent pas plus de latence. Malheureusement, en raison de la nature de notre encodage de la FEC, nous ne pouvons pas savoir si les paquets individuels font partie d'un bloc légitime, ou de n'importe quel bloc, et nous ne permettons donc cette optimisation qu'entre les nœuds gérés par le même groupe.
+>
+> bitcoinfibre.org
+
+Le relais accepte la [communication](ch101-glossary.md#communication) d'un ensemble de mineurs, par le biais du protocole pair-à-pair ou d'un autre. Le relais est constitué d'un ensemble de [machines](ch101-glossary.md#machine) sous le contrôle du [relayeur](ch101-glossary.md#relayeur). Il communique les annonces au sein de son [réseau interne](https://bitcoinmagazine.com/technical/blockstream-satellite-broadcasting-bitcoin-space) et finalement aux mineurs associés.
+
+L'observation importante en matière de sécurité est que la communication au sein du relais est sous le contrôle du relayeur. En raison de la suppression des protections contre le déni de service, un contrôle central est *nécessaire* au système. Le relais peut retarder certains blocs en fonction du mineur, de la région, du [signal](ch101-glossary.md#signal), du non-paiement, etc. Un relais vend de la latence réduite, et fait par conséquent partie du secteur d'activité du minage. Du point de vue de la sécurité, il importe peu que ce service soit offert gratuitement. Les mineurs peuvent de la même manière offrir aux [hacheurs](ch101-glossary.md#hacheur) une latence et une [variance](ch101-glossary.md#variance) réduites et gratuites.
+
+Les relais sont des [agrégations](ch101-glossary.md#agrégation) de mineurs et les mineurs sont des agrégations de hacheurs. Plus l'agrégation de la puissance de hachage est grande, plus la mine est rentable, tout comme le relais. On peut considérer que les hacheurs sont libres de quitter les mines et que les mineurs sont libres de quitter les relais, et il est bien sûr possible pour un hacheur de gérer sa propre mine et son propre relais. Mais les agrégations plus importantes sont plus rentables, donc quitter le plus grand relais ou la plus grande mine [fait augmenter le coût relatif](ch032-zero-sum-property.md).
+
+Une théorie soutient que les relais réduisent la pression de regroupement. C'est une erreur. **Toute réduction du regroupement causée par un relais ne disparaît pas, mais est transférée au relais sous forme d'une augmentation du regroupement.** Les statistiques sur les relais ne sont généralement pas présentées aux côtés des statistiques sur le minage, ce qui masque le transfert de pouvoir. Cela peut amener les gens à croire que le minage est moins fortement regroupé que ce n'est le cas.
+
+---
+
+Texte original : [Relay Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Relay-Fallacy)
