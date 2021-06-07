@@ -1,0 +1,18 @@
+Sophisme de la protection contre la rediffusion
+===============================================
+
+Il existe une théorie selon laquelle la protection contre la rediffusion appliquée sur une [chaîne](ch101-glossary.md#chaîne) issue d'une scission augmente l'[utilité](ch101-glossary.md#utilité) relative de la chaîne originale. La protection contre la rediffusion est une [règle](ch101-glossary.md#règle) conçue par rapport à une autre chaîne et avec un comportement directionnel. La protection rend les [transactions](ch101-glossary.md#transaction) de la chaîne protégée [invalides](ch101-glossary.md#validité) sur l'autre.
+
+Même sans protection, il est possible pour un [propriétaire](ch101-glossary.md#propriétaire) de [dépenser](ch101-glossary.md#dépense) de manière à empêcher la rediffusion dans un sens ou dans l'autre, bien qu'il y ait des frais et / ou un coût de complexité pour le faire. Une scission peut réduire, mais pas éliminer, ce coût dans une ou deux directions en [activant](ch101-glossary.md#activation) des règles que les [dépenses](ch101-glossary.md#dépense) peuvent utiliser de manière sélective. C'est ce qu'on appelle la protection optionnelle contre la rediffusion, par opposition à la protection obligatoire contre la rediffusion. La protection optionnelle contre la rediffusion réduit le coût mais ne l'élimine pas, alors que la protection obligatoire peut l'éliminer.
+
+La rediffusion d'une dépense sur une autre chaîne n'a pas d'effet [dilutif](https://fr.wikipedia.org/wiki/Dilution_(finance)). La [sortie](ch101-glossary.md#sortie) commune peut être dépensée sur l'une ou l'autre chaîne, avec ou sans protection contre la rediffusion. **La seule distinction apportée par la protection est que les dépenses peuvent toujours être distinctes sur chaque chaîne sans coût supplémentaire pour celui qui dépense.** L'[offre](ch101-glossary.md#offre) au sein de chaque chaîne n'est pas affectée par la protection.
+
+C'est une curieuse erreur de perception que de penser qu'une chaîne peut en quelque sorte absorber les transactions d'une autre en cas de scission. Toutes les sorties du [segment](ch101-glossary.md#segment) commun restent dépensables sur les deux chaînes. La protection contre la rediffusion ne fait que réduire le coût de leur dépense sur la chaîne protégée.
+
+On pourrait supposer que l'absence de protection rend un propriétaire moins enclin à dépenser sur la chaîne non protégée, limitant ainsi l'offre et augmentant le [prix](ch101-glossary.md#prix) d'[échange](ch101-glossary.md#échange). Cependant, cela suppose que la demande n'est pas affectée par ce qui revient à une augmentation du coût d'[échange](ch101-glossary.md#commerce). Si le propriétaire n'échange pas en raison de l'augmentation du coût de l'échange, l'utilité de la pièce n'augmente pas mais diminue.
+
+Le coût d'autoprotection équivaut à un [demeurage](https://fr.wikipedia.org/wiki/Demeurage_(finance)) unique qui persiste jusqu'à ce qu'une protection soit appliquée aux [unités](ch101-glossary.md#unité) non protégées, intentionnellement ou non. Ce coût est une [réduction](https://fr.wikipedia.org/wiki/Valeur_actuelle_nette) de l'utilité d'une chaîne non protégée par rapport à la même chaîne hypothétique munie d'une protection. Cela implique une *plus grande* utilité d'une chaîne protégée par rapport à la chaîne qui n'est pas protégée contre l'autre côté de la scission comme ce serait le cas autrement. La théorie est donc invalide.
+
+---
+
+Texte original : [Replay Protection Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Replay-Protection-Fallacy)

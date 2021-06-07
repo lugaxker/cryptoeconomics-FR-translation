@@ -84,7 +84,7 @@ Ce dépôt est organisé comme la [traduction italienne](https://github.com/pars
 | 73     | [Sophisme de la preuve de travail](chapters/ch073-proof-of-work-fallacy.md)     | [Proof of Work Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Proof-of-Work-Fallacy)       |
 | 74     | [Sophisme de la régression](chapters/ch074-regression-fallacy.md)               | [Regression Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Regression-Fallacy)             |
 | 75     | [Sophisme du relais](chapters/ch075-relay-fallacy.md)                           | [Relay Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Relay-Fallacy)                       |
-| 76     | [.](chapters/ch076-replay-protection-fallacy.md)                                | [Replay Protection Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Replay-Protection-Fallacy) |
+| 76     | [Sophisme de la protection contre la rediffusion](chapters/ch076-replay-protection-fallacy.md) | [Replay Protection Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Replay-Protection-Fallacy) |
 | 77     | [Sophisme de la monnaie de réserve](chapters/ch077-reserve-currency-fallacy.md) | [Reserve Currency Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Reserve-Currency-Fallacy) |
 | 78     | [.](chapters/ch078-risk-free-return-fallacy.md)                                 | [Risk Free Return Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Risk-Free-Return-Fallacy) |
 | 79     | [.](chapters/ch079-scarcity-fallacy.md)                                         | [Scarcity Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Scarcity-Fallacy)                 |
