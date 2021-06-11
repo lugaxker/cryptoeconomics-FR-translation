@@ -49,7 +49,7 @@ Ce dépôt est organisé comme la [traduction italienne](https://github.com/pars
 | 38     | [Risque de centralisation](chapters/ch038-centralization-risk.md)               | [Centralization Risk](https://github.com/libbitcoin/libbitcoin-system/wiki/Centralization-Risk)           |
 | 39     | [Risque de pression de regroupement](chapters/ch039-pooling-pressure-risk.md)   | [Pooling Pressure Risk](https://github.com/libbitcoin/libbitcoin-system/wiki/Pooling-Pressure-Risk)       |
 | 40     | [Sophisme du monopole des ASIC](chapters/ch040-asic-monopoly-fallacy.md)        | [ASIC Monopoly Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/ASIC-Monopoly-Fallacy)       |
-| 41     | [.](chapters/ch041-auditability-fallacy.md)                                     | [Auditability Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Auditability-Fallacy)         |
+| 41     | [Sophisme de l'auditabilité](chapters/ch041-auditability-fallacy.md)            | [Auditability Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Auditability-Fallacy)         |
 | 42     | [Sophisme de l'équilibre des pouvoirs](chapters/ch042-balance-of-power-fallacy.md) | [Balance of Power Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Balance-of-Power-Fallacy) |
 | 43     | [Sophisme du minage par sous-produits](chapters/ch043-byproduct-mining-fallacy.md) | [Byproduct Mining Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Byproduct-Mining-Fallacy) |
 | 44     | [Sophisme de la causalité](chapters/ch044-causation-fallacy.md)                 | [Causation Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Causation-Fallacy)               |
