@@ -60,8 +60,8 @@ ratio d'endettement = emprunté / (emprunté - prêté)
 #### Ratio d'épargne
 
 ```
-> ratio d'épargne = prêt / réservé
-> ratio d'épargne = prêté / (emprunté - prêté)
+ratio d'épargne = prêt / réservé
+ratio d'épargne = prêté / (emprunté - prêté)
 ```
 
 #### Bilan
