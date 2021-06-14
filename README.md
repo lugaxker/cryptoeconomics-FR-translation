@@ -21,7 +21,7 @@ Ce dépôt est organisé comme la [traduction italienne](https://github.com/pars
 | 10     | [Principe des coûts dédiés](chapters/ch010-dedicated-cost-principle.md)         | [Dedicated Cost Principle](https://github.com/libbitcoin/libbitcoin-system/wiki/Dedicated-Cost-Principle) |
 | 11     | [.](chapters/ch011-depreciation-principle.md)                                   | [Depreciation Principle](https://github.com/libbitcoin/libbitcoin-system/wiki/Depreciation-Principle)     |
 | 12     | [.](chapters/ch012-expression-principle.md)                                     | [Expression Principle](https://github.com/libbitcoin/libbitcoin-system/wiki/Expression-Principle)         |
-| 13     | [.](chapters/ch013-inflation-principle.md)                                      | [Inflation Principle](https://github.com/libbitcoin/libbitcoin-system/wiki/Inflation-Principle)           |
+| 13     | [Principe d'inflation](chapters/ch013-inflation-principle.md)                   | [Inflation Principle](https://github.com/libbitcoin/libbitcoin-system/wiki/Inflation-Principle)           |
 | 14     | [Principe des autres moyens](chapters/ch014-other-means-principle.md)           | [Other Means Principle](https://github.com/libbitcoin/libbitcoin-system/wiki/Other-Means-Principle)       |
 | 15     | [Principe de résistance aux brevets](chapters/ch015-patent-resistance-principle.md) | [Patent Resistance Principle](https://github.com/libbitcoin/libbitcoin-system/wiki/Patent-Resistance-Principle) |
 | 16     | [Principe de partage du risque](chapters/ch016-risk-sharing-principle.md)       | [Risk Sharing Principle](https://github.com/libbitcoin/libbitcoin-system/wiki/Risk-Sharing-Principle)     |
