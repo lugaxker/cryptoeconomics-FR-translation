@@ -27,7 +27,7 @@ Ce dépôt est organisé comme la [traduction italienne](https://github.com/pars
 | 16     | [Principe de partage du risque](chapters/ch016-risk-sharing-principle.md)       | [Risk Sharing Principle](https://github.com/libbitcoin/libbitcoin-system/wiki/Risk-Sharing-Principle)     |
 | 17     | [Principe de réserve](chapters/ch017-reservation-principle.md)                  | [Reservation Principle](https://github.com/libbitcoin/libbitcoin-system/wiki/Reservation-Principle)       |
 | 18     | [Principe de scalabilité](chapters/ch018-scalability-principle.md)              | [Scalability Principle](https://github.com/libbitcoin/libbitcoin-system/wiki/Scalability-Principle)       |
-| 19     | [.](chapters/ch019-subjective-inflation-principle.md)                           | [Subjective Inflation Principle](https://github.com/libbitcoin/libbitcoin-system/wiki/Subjective-Inflation-Principle) |
+| 19     | [Principe d'inflation subjective](chapters/ch019-subjective-inflation-principle.md) | [Subjective Inflation Principle](https://github.com/libbitcoin/libbitcoin-system/wiki/Subjective-Inflation-Principle) |
 | 20     | [Principe de consolidation](chapters/ch020-consolidation-principle.md)          | [Consolidation Principle](https://github.com/libbitcoin/libbitcoin-system/wiki/Consolidation-Principle)   |
 | 21     | [Principe de fragmentation](chapters/ch021-fragmentation-principle.md)          | [Fragmentation Principle](https://github.com/libbitcoin/libbitcoin-system/wiki/Fragmentation-Principle)   |
 | 22     | [Principe d'absence de permission](chapters/ch022-permissionless-principle.md)  | [Permissionless Principle](https://github.com/libbitcoin/libbitcoin-system/wiki/Permissionless-Principle) |
