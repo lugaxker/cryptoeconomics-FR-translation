@@ -1,5 +1,5 @@
 Principe d'inflation
---------------------
+====================
 
 Une [monnaie](ch005-money-taxonomy.md) est [supposée](https://mises.org/library/man-economy-and-state-power-and-market/html/p/1107) changer de [pouvoir d'achat](https://fr.wikipedia.org/wiki/Pouvoir_d%27achat) en proportion de la demande de biens qu'elle représente. En d'autres termes, avec une quantité de monnaie deux fois plus importante, chaque [unité](ch101-glossary.md#unité) de monnaie s'[échangera](ch101-glossary.md#commerce) contre la moitié de la quantité de biens qu'elle représentait auparavant, car l'augmentation des biens implique une baisse de la demande pour ceux-ci. Il s'agit d'une [relation proportionnelle](https://fr.wikipedia.org/wiki/Proportionnalit%C3%A9) entre l'[inflation monétaire](https://fr.wikipedia.org/wiki/Inflation) et l'[inflation](https://fr.wikipedia.org/wiki/Inflation) (ou la déflation) des prix. Cette [relation monétaire](https://mises.org/library/human-action-0/html/pp/778) est une expression de [la loi de l'offre et de la demande](https://fr.wikipedia.org/wiki/Offre_et_demande).
 
