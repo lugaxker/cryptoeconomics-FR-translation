@@ -70,7 +70,7 @@ Ce dépôt est organisé comme la [traduction italienne](https://github.com/pars
 | 59     | [Sophisme du minage hybride](chapters/ch059-hybrid-mining-fallacy.md)           | [Hybrid Mining Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Hybrid-Mining-Fallacy)       |
 | 60     | [Sophisme de la monnaie idéale](chapters/ch060-ideal-money-fallacy.md)          | [Ideal Money Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Ideal-Money-Fallacy)           |
 | 61     | [Sophisme du minage impuissant](chapters/ch061-impotent-mining-fallacy.md)      | [Impotent Mining Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Impotent-Mining-Fallacy)   |
-| 62     | [.](chapters/ch062-inflation-fallacy.md)                                        | [Inflation Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Inflation-Fallacy)               |
+| 62     | [Sophisme de l'inflation](chapters/ch062-inflation-fallacy.md)                  | [Inflation Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Inflation-Fallacy)               |
 | 63     | [.](chapters/ch063-inflationary-quality-fallacy.md)                             | [Inflationary Quality Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Inflationary-Quality-Fallacy) |
 | 64     | [Sophisme de l'arbitrage juridictionnel](chapters/ch064-jurisdictional-arbitrage-fallacy.md) | [Jurisdictional Arbitrage Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Jurisdictional-Arbitrage-Fallacy) |
 | 65     | [Sophisme lunaire](chapters/ch065-lunar-fallacy.md)                             | [Lunar Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Lunar-Fallacy)                       |
