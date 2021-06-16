@@ -36,4 +36,6 @@ Il existe une théorie apparentée selon laquelle la préférence temporelle est
 
 L'épargne est la *source* de tout investissement, mais seul l'investissement réel exprime une préférence temporelle. Une réserve peut certainement changer de valeur marchande. **Mais considérer qu'une plus grande réserve constitue une expression d'une préférence temporelle plus basse est une mauvaise interprétation familière de la signification économique du terme.** Cela inverse sa signification, conduisant à des conclusions telles que le fait qu'une thésaurisation totale exprime une préférence temporelle nulle. Pourtant, avec une thésaurisation totale, les taux d'intérêt sont infinis, et un intérêt infini reflète une préférence temporelle infinie. Cette contradiction directe expose le fait que le sens du terme « préférence temporelle » a été inversé, ce qui invalide la théorie.
 
+---
+
 Texte original : [Time Preference Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Time-Preference-Fallacy)
