@@ -15,7 +15,7 @@ Ce dépôt est organisé comme la [traduction italienne](https://github.com/pars
 | 4      | [Axiome de résistance](chapters/ch004-axiom-of-resistance.md)                   | [Axiom of Resistance](https://github.com/libbitcoin/libbitcoin-system/wiki/Axiom-of-Resistance)           |
 | 5      | [Taxonomie des monnaies](chapters/ch005-money-taxonomy.md)                      | [Money Taxonomy](https://github.com/libbitcoin/libbitcoin-system/wiki/Money-Taxonomy)                     |
 | 6      | [Banque pure](chapters/ch006-pure-bank.md)                                      | [Pure Bank](https://github.com/libbitcoin/libbitcoin-system/wiki/Pure-Bank)                               |
-| 7      | [.](chapters/ch007-production-and-consumption.md)                               | [Production and Consumption](https://github.com/libbitcoin/libbitcoin-system/wiki/Production-and-Consumption) |
+| 7      | [Production et consommation](chapters/ch007-production-and-consumption.md)      | [Production and Consumption](https://github.com/libbitcoin/libbitcoin-system/wiki/Production-and-Consumption) |
 | 8      | [.](chapters/ch008-labor-and-leisure.md)                                        | [Labor and Leisure](https://github.com/libbitcoin/libbitcoin-system/wiki/Labor-and-Leisure)               |
 | 9      | [Principe de risque custodial](chapters/ch009-custodial-risk-principle.md)      | [Custodial Risk Principle](https://github.com/libbitcoin/libbitcoin-system/wiki/Custodial-Risk-Principle) |
 | 10     | [Principe des coûts dédiés](chapters/ch010-dedicated-cost-principle.md)         | [Dedicated Cost Principle](https://github.com/libbitcoin/libbitcoin-system/wiki/Dedicated-Cost-Principle) |
