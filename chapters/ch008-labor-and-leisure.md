@@ -1,0 +1,42 @@
+Travail et loisir
+=================
+
+Le travail et le loisir sont des [actions humaines](https://www.wikiberal.org/wiki/L%27Action_humaine) complémentaires qui se rapportent à [la production et la consommation](ch007-production-and-consumption.md) de [biens économiques](https://fr.wikipedia.org/wiki/Biens_et_services). Le travail est le processus de consommation visant à produire un bien économique (production). Le loisir est le processus de consommation qui ne produit pas de bien économique. La consommation sans utilité est le processus de [gaspillage](https://fr.wikipedia.org/wiki/Gaspillage). Selon [Murray Rothbard](https://fr.wikipedia.org/wiki/Murray_Rothbard), dans son ouvrage [*L'Homme, l'Économie et l'État*](https://mises.org/library/man-economy-and-state-power-and-market/html/p/926) :
+
+> le travail implique toujours le renoncement au loisir, un bien désirable. 
+>
+> Murray Rothbard, L'Homme, l'Économie et l'État, 1, 8.
+
+Cette erreur subtile implique que le travail et le loisir sont tous deux des biens économiques. Or, seules les [actions créent ou consomment des biens](ch012-expression-principle.md). Le travail (production de biens économiques) et le loisir (production de biens non économiques) sont des actions humaines qui créent et consomment des biens au cours du temps. Au sens le plus élémentaire, la production implique la consommation du corps de l'acteur, tandis que la consommation implique sa production.
+
+> À chaque heure, il consacrera son effort à produire le bien dont le produit marginal est le plus élevé sur son échelle de valeur. S'il doit renoncer à une heure de travail, il renoncera à une unité du bien dont l'utilité marginale est la plus faible sur son échelle de valeur. À chaque point, il comparera l'utilité du produit sur son échelle de valeur et la désutilité d'un travail supplémentaire. Nous savons que l'utilité marginale des biens fournis par l'effort d'un homme diminuera à mesure que sa dépense d'effort augmentera. D'autre part, à chaque nouvelle dépense d'effort, la désutilité marginale de l'effort continue d'augmenter. Par conséquent, un homme dépensera son travail aussi longtemps que l'utilité marginale du rendement sera supérieure à la désutilité marginale de l'effort de travail. Un homme cessera de travailler lorsque la désutilité marginale du travail sera supérieure à l'utilité marginale de l'augmentation des biens fournis par l'effort.
+> 
+> Puis, au fur et à mesure que sa consommation de loisir augmentera, l'utilité marginale du loisir diminuera, tandis que l'utilité marginale des biens abandonnés s'accroîtra, jusqu'à ce que finalement l'utilité des produits marginaux abandonnés devienne supérieure à l'utilité marginale du loisir, et l'acteur reprendra le travail à nouveau.
+>
+> Cette analyse des lois de l'effort de travail est déduite des implications de l'axiome d'action et de l'hypothèse selon laquelle le loisir est un bien de consommation.
+
+Il n'est ni correct ni nécessaire de supposer que le loisir est un bien et, ce faisant, d'impliquer que le travail est un anti-bien. De même, il n'est pas nécessaire de construire l'artifice de l'utilité négative (« désutilité »). La valeur est simplement une préférence pour une utilité supérieure à une utilité inférieure. Le travail et le loisir produisent tous deux des biens d'utilité (positive).
+
+C'est la [préférence temporelle](ch085-time-preference-fallacy.md) qui implique que l'utilité du loisir est supérieure à celle du travail. En considérant correctement le corps d'une personne comme un bien, la « préférence pour le loisir » découle directement de la préférence temporelle. Comme l'indique la citation ci-dessus, c'est le résultat d'un [échange](ch101-glossary.md#commerce) de temps sans son corps (temps de travail) contre la quantité d'[intérêt](ch101-glossary.md#intérêt) qui compense la valeur que l'on attribue au temps avec son corps (temps de loisir).
+
+Le temps, l'espace et les biens sont les facteurs de toute production, tandis que le travail est le processus de production. **Le travail / le loisir et la production sont des noms distincts pour la même action humaine.** L'acte de produire est un travail ou un loisir ; l'acte de travailler ou d'apprécier un loisir est une production. La [banque pure](ch006-pure-bank.md) fournit le modèle de toute production. Ce cycle est clairement évident dans le cas du travail indépendant, qui n'est que l'exemple de la production. Dans le cas du salariat, il y a deux producteurs : l'employé et l'employeur.
+
+Un salarié pur obtient un capital [emprunté](ch101-glossary.md#emprunter) et échange ainsi sa nourriture, son éducation et son équipement, comme l'exige son emploi. Une fraction de son capital est [thésaurisée](ch101-glossary.md#thésauriser) et le reste est [prêté](ch101-glossary.md#prêter) à l'employeur. L'employeur verse à l'employé un [intérêt](ch101-glossary.md#intérêt) (salaire) pendant la durée de ce prêt. L'employé récupère son capital déprécié et son salaire à la fin du travail.
+
+Le taux de salaire compense à la fois la préférence temporelle pour le montant prêté (taux d'intérêt nominal) et la dépréciation du capital pendant la durée du prêt. Le montant du capital et de l'intérêt, moins la dépréciation de la fraction réservée, est restitué au créancier de l'employé. Dans le cas où son investissement en capital est emprunté sur sa propre réserve, l'employé est son propre créancier. Le rendement est alors thésaurisé ou réinvesti dans le travail futur (ou autrement).
+
+Un employeur et un employé réels obtiennent chacun un taux d'intérêt du [marché](ch101-glossary.md#marché). Le taux d'intérêt de l'employé est son taux de salaire moins ses frais de production. Le taux d'intérêt de l'employeur est le [prix](ch101-glossary.md#prix) obtenu pour le produit du travail pendant la durée de sa production, moins ses frais de production. Les frais de production de l'employeur sont la consommation de son capital emprunté, [réservé](ch017-reservation-principle.md) pendant cette période, tout comme pour l'employé. Le montant par lequel l'intérêt dépasse la dépréciation est [l'augmentation de la richesse](ch011-depreciation-principle.md) des deux parties.
+
+Le taux d'intérêt obtenu par les deux classes de production est le même. La différence de rendement est strictement fonction de la quantité de capital investi, soit dans la production individuelle (employé), soit dans la gestion de la production collective (employeur). La valorisation maximale qu'une personne donne au loisir peut être déduite du taux de salaire qu'elle accepte, en [escomptant](https://fr.wikipedia.org/wiki/Valeur_actuelle_nette) le capital impliqué par le taux d'intérêt du marché.
+
+```
+taux-salaire = taux-loisir * (1 + taux-intérêt + taux-dépréciation-corporelle)
+```
+
+L'employé échange du temps de loisir contre du temps de travail dans la mesure où il valorise le montant de l'intérêt plus que la valeur qu'il attribue au temps de loisir. La préférence pour le loisir est une reformulation de la préférence temporelle, où le propre corps d'une personne est le bien économique prêté à la production en échange d'un intérêt.
+
+La richesse monétaire est généralement plus faible à un jeune âge, ce qui implique une préférence temporelle pour l'argent plus élevée. Avec le temps, la richesse s'accumule et la préférence temporelle diminue. Mais l'inverse est vrai pour la préférence pour le loisir. L'argent et le corps d'une personne ne sont pas la même chose, et ne sont généralement pas échangeables. À un jeune âge, la préférence pour le loisir est la plus faible. Au fur et à mesure que le corps se déprécie avec l'âge, la quantité de celui-ci diminue malgré la richesse monétaire, ce qui augmente la préférence pour le loisir. Pour compenser cette préférence, il faut éventuellement un taux d'intérêt supérieur à celui du marché, ce qui conduit à la retraite. La préférence temporelle pour l'argent et la préférence pour le loisir s'influencent mutuellement car elles ont tendance à évoluer dans des directions opposées. Dans la mesure où l'objectif du travail est d'accroître la richesse, une quantité moindre de richesse diminue la préférence temporelle pour le loisir et une quantité plus élevée l'augmente. Cela peut également conduire à la retraite.
+
+---
+
+Texte original : [Labor and Leisure](https://github.com/libbitcoin/libbitcoin-system/wiki/Labor-and-Leisure)
