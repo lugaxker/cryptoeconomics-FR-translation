@@ -10,13 +10,13 @@ La richesse, définie comme le capital accumulé, est la somme des produits. Tou
 Le taux de croissance de la richesse est la différence entre le taux d'intérêt et le taux de dépréciation.
 
 ```
-taux-croissance = taux-intéret - taux-dépréciation
+taux-croissance = taux-intérêt - taux-dépréciation
 ```
 
 Les exemples suivants montrent l'effet de la dépréciation sur la croissance :
 
 ```
-taux-croissance = taux-intéret - taux-dépréciation
+taux-croissance = taux-intérêt - taux-dépréciation
   5 % = 10 % - 5 %
 -10 % = 10 % - 20 %
 ```
@@ -25,9 +25,9 @@ Le taux de dépréciation est toujours positif, car tous les biens se déprécie
 
 ```
 taux-dépréciation > 0
-taux-intéret - taux-croissance = taux-dépréciation
-taux-intéret - taux-croissance > 0
-taux-intéret > taux-croissance
+taux-intérêt - taux-croissance = taux-dépréciation
+taux-intérêt - taux-croissance > 0
+taux-intérêt > taux-croissance
 ```
 
 **Toutes les biens se déprécient, ce qui implique que l'intérêt économique est toujours supérieur à la croissance économique.**
@@ -47,7 +47,7 @@ Le taux de dépréciation peut être dérivé du taux d'intérêt et du [taux de
 Dans ce cas, un taux d'intérêt de 10,2 % est compensé par une dépréciation de 7,6 % pour obtenir une croissance de 2,6 %.
 
 ```
-taux-dépréciation = taux-intéret - taux-croissance 
+taux-dépréciation = taux-intérêt - taux-croissance 
 taux-dépréciation = 10,2 % - 2,6 % = 7,6 %
 ```
 
