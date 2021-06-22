@@ -7,7 +7,7 @@ En tant que monnaie, Bitcoin forme un graphe social. Seule une [personne](ch101-
 
 **Dans la terminologie des systèmes distribués, un « nœud » Bitcoin est une personne et le système est une monnaie.** Peu importe le nombre de [machines](ch101-glossary.md#machine) que la personne contrôle, la perte de cette personne est une perte d'un nœud dans le système (y compris toutes les machines de la personne).
 
-Une monnaie centralisée ne peut pas supporter la perte d'une personne. Si cette personne change ses règles, la monnaie d'origine cesse d'exister. Comme le montre le [Principe de partage du risque](ch023-risk-sharing-principle.md), Bitcoin s'appuie sur la [décentralisation](ch101-glossary.md#décentralisation) pour permettre aux gens de [résister](ch004-axiom-of-resistance.md) à l'autorité. Cette décentralisation augmente la capacité de la monnaie à supporter la perte de plus de personnes face aux attaques [étatiques](ch101-glossary.md#état). Une perte dans ce sens est le refus de la personne d'échanger dans la monnaie concernée.
+Une monnaie centralisée ne peut pas supporter la perte d'une personne. Si cette personne change ses règles, la monnaie d'origine cesse d'exister. Comme le montre le [Principe de partage des risques](ch023-risk-sharing-principle.md), Bitcoin s'appuie sur la [décentralisation](ch101-glossary.md#décentralisation) pour permettre aux gens de [résister](ch004-axiom-of-resistance.md) à l'autorité. Cette décentralisation augmente la capacité de la monnaie à supporter la perte de plus de personnes face aux attaques [étatiques](ch101-glossary.md#état). Une perte dans ce sens est le refus de la personne d'échanger dans la monnaie concernée.
 
 ---
 

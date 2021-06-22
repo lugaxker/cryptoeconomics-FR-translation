@@ -24,7 +24,7 @@ Ce dépôt est organisé comme la [traduction italienne](https://github.com/pars
 | 13     | [Principe d'inflation](chapters/ch013-inflation-principle.md)                   | [Inflation Principle](https://github.com/libbitcoin/libbitcoin-system/wiki/Inflation-Principle)           |
 | 14     | [Principe des autres moyens](chapters/ch014-other-means-principle.md)           | [Other Means Principle](https://github.com/libbitcoin/libbitcoin-system/wiki/Other-Means-Principle)       |
 | 15     | [Principe de résistance aux brevets](chapters/ch015-patent-resistance-principle.md) | [Patent Resistance Principle](https://github.com/libbitcoin/libbitcoin-system/wiki/Patent-Resistance-Principle) |
-| 16     | [Principe de partage du risque](chapters/ch016-risk-sharing-principle.md)       | [Risk Sharing Principle](https://github.com/libbitcoin/libbitcoin-system/wiki/Risk-Sharing-Principle)     |
+| 16     | [Principe de partage des risques](chapters/ch016-risk-sharing-principle.md)     | [Risk Sharing Principle](https://github.com/libbitcoin/libbitcoin-system/wiki/Risk-Sharing-Principle)     |
 | 17     | [Principe de réserve](chapters/ch017-reservation-principle.md)                  | [Reservation Principle](https://github.com/libbitcoin/libbitcoin-system/wiki/Reservation-Principle)       |
 | 18     | [Principe de scalabilité](chapters/ch018-scalability-principle.md)              | [Scalability Principle](https://github.com/libbitcoin/libbitcoin-system/wiki/Scalability-Principle)       |
 | 19     | [Principe d'inflation subjective](chapters/ch019-subjective-inflation-principle.md) | [Subjective Inflation Principle](https://github.com/libbitcoin/libbitcoin-system/wiki/Subjective-Inflation-Principle) |
