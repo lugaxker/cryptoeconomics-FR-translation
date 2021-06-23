@@ -57,7 +57,7 @@ Ce résultat est conforme aux estimations de la dépréciation du capital. Alors
 > 
 > OCDE, Estimating Depreciation Rates
 
-Dans la mesure où la [monnaie](ch005-money-taxonomy.md) présente une [valeur d'usage](https://fr.wikipedia.org/wiki/Valeur_d%27usage), elle se déprécie comme n'importe quel [bien](https://fr.wikipedia.org/wiki/Bien_(%C3%A9conomie)). La monnaie fiat, telle que le bitcoin ou le dollar étasunien, est présumée n'avoir aucune valeur d'usage. Une monnaie pure ne présente aucune croissance en raison du [coût d'opportunité](https://fr.wikipedia.org/wiki/Co%C3%BBt_d%27opportunit%C3%A9) de l'intérêt abandonné. En d'autres termes, l'intérêt est la capture de la valeur du temps et la dépréciation de la monnaie inclut l'échec à capturer cette valeur.
+Dans la mesure où la [monnaie](ch005-money-taxonomy.md) présente une [valeur d'usage](https://fr.wikipedia.org/wiki/Valeur_d%27usage), elle se déprécie comme n'importe quel [bien](https://fr.wikipedia.org/wiki/Bien_(%C3%A9conomie)). La monnaie fiduciaire, telle que le bitcoin ou le dollar étasunien, est présumée n'avoir aucune valeur d'usage. Une monnaie pure ne présente aucune croissance en raison du [coût d'opportunité](https://fr.wikipedia.org/wiki/Co%C3%BBt_d%27opportunit%C3%A9) de l'intérêt abandonné. En d'autres termes, l'intérêt est la capture de la valeur du temps et la dépréciation de la monnaie inclut l'échec à capturer cette valeur.
 
 ```
 taux-croissance-monnaie-pure = taux-intérêt - taux-intérêt
