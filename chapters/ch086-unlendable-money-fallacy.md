@@ -1,7 +1,7 @@
 Sophisme de la monnaie imprêtable
 =================================
 
-L'[équation de Fisher](https://fr.wikipedia.org/wiki/%C3%89quation_de_Fisher) doit être utilisée pour intégrer un taux de croissance dans une monnaie qui est elle-même soumise à l'[inflation](https://fr.wikipedia.org/wiki/Cr%C3%A9ation_mon%C3%A9taire), car la dépréciation se produit dans la monnaie future. Le taux d'intérêt nominal est ainsi ajusté pour obtenir le taux d'intérêt réel. La présentation est simplifiée par l'utilisation de ratios à la place des taux. Comme le montre le [Principe de dépréciation](ch011-depreciation-principle.md), le taux de croissance de la monnaie marchandise est de 0 %, soit un ratio de croissance de 100 %.
+L'[équation de Fisher](https://fr.wikipedia.org/wiki/%C3%89quation_de_Fisher) doit être utilisée pour intégrer un taux de croissance dans une monnaie qui est elle-même soumise à l'[inflation](https://fr.wikipedia.org/wiki/Cr%C3%A9ation_mon%C3%A9taire), car la dépréciation se produit dans la monnaie future. Le taux d'intérêt nominal est ainsi ajusté pour obtenir le taux d'intérêt réel. La présentation est simplifiée par l'utilisation de ratios à la place des taux. Comme le montre le [Principe de dépréciation](ch011-depreciation-principle.md), le taux de croissance de la monnaie-marchandise est de 0 %, soit un ratio de croissance de 100 %.
 
 La [monnaie de monopole](ch005-money-taxonomy.md) présente une dépréciation due au [seigneuriage](https://fr.wikipedia.org/wiki/Seigneuriage).
 
