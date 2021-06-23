@@ -33,7 +33,7 @@ Ce dépôt est organisé comme la [traduction italienne](https://github.com/pars
 | 22     | [Principe d'absence de permission](chapters/ch022-permissionless-principle.md)  | [Permissionless Principle](https://github.com/libbitcoin/libbitcoin-system/wiki/Permissionless-Principle) |
 | 23     | [Principe des données publiques](chapters/ch023-public-data-principle.md)       | [Public Data Principle](https://github.com/libbitcoin/libbitcoin-system/wiki/Public-Data-Principle)       |
 | 24     | [Principe de réseau social](chapters/ch024-social-network-principle.md)         | [Social Network Principle](https://github.com/libbitcoin/libbitcoin-system/wiki/Social-Network-Principle) |
-| 25     | [.](chapters/ch025-state-banking-principle.md)                                  | [State Banking Principle](https://github.com/libbitcoin/libbitcoin-system/wiki/State-Banking-Principle)   |
+| 25     | [Principe de la banque d'État](chapters/ch025-state-banking-principle.md)       | [State Banking Principle](https://github.com/libbitcoin/libbitcoin-system/wiki/State-Banking-Principle)   |
 | 26     | [Principe de substitution](chapters/ch026-substitution-principle.md)            | [Substitution Principle](https://github.com/libbitcoin/libbitcoin-system/wiki/Substitution-Principle)     |
 | 27     | [Principes cryptodynamiques](chapters/ch027-cryptodynamic-principles.md)        | [Cryptodynamic Principles](https://github.com/libbitcoin/libbitcoin-system/wiki/Cryptodynamic-Principles) |
 | 28     | [Propriété de résistance à la censure](chapters/ch028-censorship-resistance-property.md) | [Censorship Resistance Property](https://github.com/libbitcoin/libbitcoin-system/wiki/Censorship-Resistance-Property) |
