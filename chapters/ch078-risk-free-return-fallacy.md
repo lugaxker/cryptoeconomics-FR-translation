@@ -1,5 +1,5 @@
-Le sophisme du rendement sans risque
-====================================
+Sophisme du rendement sans risque
+=================================
 
 Le concept hypothétique de [taux de rendement sans risque](https://en.wikipedia.org/wiki/Risk-free_interest_rate) est le taux d'[intérêt](ch101-glossary.md#intérêt) économique qu'il est possible d'obtenir avec un rendement garanti du principal du [prêt](ch101-glossary.md#prêt). Il existe une théorie selon laquelle Bitcoin permet à ce concept d'exister dans la pratique en imposant le remboursement du principal. Un corollaire de cette théorie est que cette capacité peut limiter l'[expansion du crédit](ch046-credit-expansion-fallacy.md) de manière générale.
 

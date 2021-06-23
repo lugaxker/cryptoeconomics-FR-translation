@@ -86,7 +86,7 @@ Ce dépôt est organisé comme la [traduction italienne](https://github.com/pars
 | 75     | [Sophisme du relais](chapters/ch075-relay-fallacy.md)                           | [Relay Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Relay-Fallacy)                       |
 | 76     | [Sophisme de la protection contre la rediffusion](chapters/ch076-replay-protection-fallacy.md) | [Replay Protection Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Replay-Protection-Fallacy) |
 | 77     | [Sophisme de la monnaie de réserve](chapters/ch077-reserve-currency-fallacy.md) | [Reserve Currency Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Reserve-Currency-Fallacy) |
-| 78     | [Le sophisme du rendement sans risque](chapters/ch078-risk-free-return-fallacy.md) | [Risk Free Return Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Risk-Free-Return-Fallacy) |
+| 78     | [Sophisme du rendement sans risque](chapters/ch078-risk-free-return-fallacy.md) | [Risk Free Return Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Risk-Free-Return-Fallacy) |
 | 79     | [Sophisme de la rareté](chapters/ch079-scarcity-fallacy.md)                     | [Scarcity Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Scarcity-Fallacy)                 |
 | 80     | [Sophisme du minage égoïste](chapters/ch080-selfish-mining-fallacy.md)          | [Selfish Mining Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Selfish-Mining-Fallacy)     |
 | 81     | [Sophisme des frais annexes](chapters/ch081-side-fee-fallacy.md)                | [Side Fee Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Side-Fee-Fallacy)                 |
