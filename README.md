@@ -98,7 +98,7 @@ Ce dépôt est organisé comme la [traduction italienne](https://github.com/pars
 | 87     | [Objectifs de Fedcoin](chapters/ch087-fedcoin-objectives.md)                    | [Fedcoin Objectives](https://github.com/libbitcoin/libbitcoin-system/wiki/Fedcoin-Objectives)             |
 | 88     | [Erreur de Hearn](chapters/ch088-hearn-error.md)                                | [Hearn Error](https://github.com/libbitcoin/libbitcoin-system/wiki/Hearn-Error)                           |
 | 89     | [Tautologie du collectionnable](chapters/ch089-collectible-tautology.md)        | [Collectible Tautology](https://github.com/libbitcoin/libbitcoin-system/wiki/Collectible-Tautology)       |
-| 90     | [.](chapters/ch090-price-estimation.md)                                         | [Price Estimation](https://github.com/libbitcoin/libbitcoin-system/wiki/Price-Estimation)                 |
+| 90     | [Estimation du prix](chapters/ch090-price-estimation.md)                        | [Price Estimation](https://github.com/libbitcoin/libbitcoin-system/wiki/Price-Estimation)                 |
 | 91     | [.](chapters/ch091-saving-relation.md)                                          | [Savings Relation](https://github.com/libbitcoin/libbitcoin-system/wiki/Savings-Relation)                 |
 | 92     | [.](chapters/ch092-speculative-consumption.md)                                  | [Speculative Consumption](https://github.com/libbitcoin/libbitcoin-system/wiki/Speculative-Consumption)   |
 | 93     | [Appellation impropre du spam](chapters/ch093-spam-misnomer.md)                 | [Spam Misnomer](https://github.com/libbitcoin/libbitcoin-system/wiki/Spam-Misnomer)                       |
