@@ -54,7 +54,7 @@ Ce dépôt est organisé comme la [traduction italienne](https://github.com/pars
 | 43     | [Sophisme du minage par sous-produits](chapters/ch043-byproduct-mining-fallacy.md) | [Byproduct Mining Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Byproduct-Mining-Fallacy) |
 | 44     | [Sophisme de la causalité](chapters/ch044-causation-fallacy.md)                 | [Causation Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Causation-Fallacy)               |
 | 45     | [Sophisme du cafard](chapters/ch045-cockroach-fallacy.md)                       | [Cockroach Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Cockroach-Fallacy)               |
-| 46     | [.](chapters/ch046-credit-expansion-fallacy.md)                                 | [Credit Expansion Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Credit-Expansion-Fallacy) |
+| 46     | [Sophisme de l'expansion du crédit](chapters/ch046-credit-expansion-fallacy.md) | [Credit Expansion Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Credit-Expansion-Fallacy) |
 | 47     | [.](chapters/ch047-debt-loop-fallacy.md)                                        | [Debt Loop Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Debt-Loop-Fallacy)               |
 | 48     | [Sophisme du minage découplé](chapters/ch048-decoupled-mining-fallacy.md)       | [Decoupled Mining Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Decoupled-Mining-Fallacy) |
 | 49     | [Sophisme de la vente à bas prix](chapters/ch049-dumping-fallacy.md)            | [Dumping Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Dumping-Fallacy)                   |
