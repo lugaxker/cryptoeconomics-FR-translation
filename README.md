@@ -39,7 +39,7 @@ Ce dépôt est organisé comme la [traduction italienne](https://github.com/pars
 | 28     | [Propriété de résistance à la censure](chapters/ch028-censorship-resistance-property.md) | [Censorship Resistance Property](https://github.com/libbitcoin/libbitcoin-system/wiki/Censorship-Resistance-Property) |
 | 29     | [Propriété de consensus](chapters/ch029-consensus-property.md)                  | [Consensus Property](https://github.com/libbitcoin/libbitcoin-system/wiki/Consensus-Property)             |
 | 30     | [Propriété de stabilité](chapters/ch030-stability-property.md)                  | [Stability Property](https://github.com/libbitcoin/libbitcoin-system/wiki/Stability-Property)             |
-| 31     | [Propriété de seuil d'utilité](chapters/ch031-utility-threshold-property.md)    | [Utility Threshold Property](https://github.com/libbitcoin/libbitcoin-system/wiki/Utility-Threshold-Property) |
+| 31     | [Propriété du seuil d'utilité](chapters/ch031-utility-threshold-property.md)    | [Utility Threshold Property](https://github.com/libbitcoin/libbitcoin-system/wiki/Utility-Threshold-Property) |
 | 32     | [Propriété de somme nulle](chapters/ch032-zero-sum-property.md)                 | [Zero Sum Property](https://github.com/libbitcoin/libbitcoin-system/wiki/Zero-Sum-Property)               |
 | 33     | [Paradoxe du niveau de menace](chapters/ch033-threat-level-paradox.md)          | [Threat Level Paradox](https://github.com/libbitcoin/libbitcoin-system/wiki/Threat-Level-Paradox)         |
 | 34     | [Modèle économique du mineur](chapters/ch034-miner-business-model.md)           | [Miner Business Model](https://github.com/libbitcoin/libbitcoin-system/wiki/Miner-Business-Model)         |

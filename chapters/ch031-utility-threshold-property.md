@@ -1,4 +1,4 @@
-Propriété de seuil d'utilité
+Propriété du seuil d'utilité
 ============================
 
 L'[utilité](ch101-glossary.md#utilité) est exprimée par la préférence de la [monnaie](ch101-glossary.md#utilité) par rapport à ses substituts, pour des [transferts](ch101-glossary.md#transfert) d'une [valeur](ch101-glossary.md#valeur) comparable. Une utilité croissante implique une augmentation du niveau des [frais](ch101-glossary.md#frais), étant donné la présomption d'augmentation du volume des transactions. La concurrence pour les [confirmations](ch101-glossary.md#confirmation) fait grimper les frais. Compte tenu des différences dans les [prix](ch101-glossary.md#prix) des frais de [marché](ch101-glossary.md#marché) au fil du temps, on peut offrir des frais non concurrentiels dans l'attente d'un délai de confirmation plus long. D'autres n'effectueront pas de transactions sur la [chaîne](ch101-glossary.md#chaîne), se reposant plutôt sur des substituts.
