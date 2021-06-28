@@ -100,7 +100,7 @@ Ce dépôt est organisé comme la [traduction italienne](https://github.com/pars
 | 89     | [Tautologie du collectionnable](chapters/ch089-collectible-tautology.md)        | [Collectible Tautology](https://github.com/libbitcoin/libbitcoin-system/wiki/Collectible-Tautology)       |
 | 90     | [Estimation du prix](chapters/ch090-price-estimation.md)                        | [Price Estimation](https://github.com/libbitcoin/libbitcoin-system/wiki/Price-Estimation)                 |
 | 91     | [Relation d'épargne](chapters/ch091-savings-relation.md)                        | [Savings Relation](https://github.com/libbitcoin/libbitcoin-system/wiki/Savings-Relation)                 |
-| 92     | [.](chapters/ch092-speculative-consumption.md)                                  | [Speculative Consumption](https://github.com/libbitcoin/libbitcoin-system/wiki/Speculative-Consumption)   |
+| 92     | [Consommation spéculative](chapters/ch092-speculative-consumption.md)           | [Speculative Consumption](https://github.com/libbitcoin/libbitcoin-system/wiki/Speculative-Consumption)   |
 | 93     | [Appellation impropre du spam](chapters/ch093-spam-misnomer.md)                 | [Spam Misnomer](https://github.com/libbitcoin/libbitcoin-system/wiki/Spam-Misnomer)                       |
 | 94     | [Paradoxe de l'efficacité](chapters/ch094-efficiency-paradox.md)                | [Efficiency Paradox](https://github.com/libbitcoin/libbitcoin-system/wiki/Efficiency-Paradox)             |
 | 95     | [Dilemme du spéculateur de scission](chapters/ch095-split-speculator-dilemma.md)| [Split Speculator Dilemma](https://github.com/libbitcoin/libbitcoin-system/wiki/Split-Speculator-Dilemma) |
