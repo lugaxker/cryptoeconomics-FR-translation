@@ -90,10 +90,10 @@ Ce dépôt est organisé comme la [traduction italienne](https://github.com/pars
 | 79     | [Sophisme de la rareté](chapters/ch079-scarcity-fallacy.md)                     | [Scarcity Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Scarcity-Fallacy)                 |
 | 80     | [Sophisme du minage égoïste](chapters/ch080-selfish-mining-fallacy.md)          | [Selfish Mining Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Selfish-Mining-Fallacy)     |
 | 81     | [Sophisme des frais annexes](chapters/ch081-side-fee-fallacy.md)                | [Side Fee Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Side-Fee-Fallacy)                 |
-| 82     | [Sophisme de l'expansion du crédit par la scission](chapters/ch082-split-credit-expansion-fallacy.md) | [Split Credit Expansion Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Split-Credit-Expansion-Fallacy) |
+| 82     | [Sophisme de l'expansion du crédit par scission](chapters/ch082-split-credit-expansion-fallacy.md) | [Split Credit Expansion Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Split-Credit-Expansion-Fallacy) |
 | 83     | [Sophisme du ratio stock-flux](chapters/ch083-stock-to-flow-fallacy.md)         | [Stock to Flow Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Stock-to-Flow-Fallacy)       |
 | 84     | [Sophisme de la création ex nihilo](chapters/ch084-thin-air-fallacy.md)         | [Thin Air Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Thin-Air-Fallacy)                 |
-| 85     | [Sophisme de la préférence temporelle](chapters/ch085-time-preference-fallacy.md) | [Time Preference Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Time-Preference-Fallacy)   |
+| 85     | [Sophisme de la préférence temporelle](chapters/ch085-time-preference-fallacy.md) | [Time Preference Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Time-Preference-Fallacy) |
 | 86     | [Sophisme de la monnaie imprêtable](chapters/ch086-unlendable-money-fallacy.md) | [Unlendable Money Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Unlendable-Money-Fallacy) |
 | 87     | [Objectifs de Fedcoin](chapters/ch087-fedcoin-objectives.md)                    | [Fedcoin Objectives](https://github.com/libbitcoin/libbitcoin-system/wiki/Fedcoin-Objectives)             |
 | 88     | [Erreur de Hearn](chapters/ch088-hearn-error.md)                                | [Hearn Error](https://github.com/libbitcoin/libbitcoin-system/wiki/Hearn-Error)                           |

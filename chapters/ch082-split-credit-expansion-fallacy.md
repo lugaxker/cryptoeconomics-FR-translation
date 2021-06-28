@@ -1,5 +1,5 @@
-Sophisme de l'expansion du crédit par la scission
-=================================================
+Sophisme de l'expansion du crédit par scission
+==============================================
 
 Il existe une théorie selon laquelle l'augmentation d'[unités](ch101-glossary.md#unité) monétaires, comme dans le cas d'une [scission](ch101-glossary.md#scission) ou d'une nouvelle [monnaie](ch101-glossary.md#monnaie), crée du crédit. Il s'agit d'une erreur qui est vraisemblablement une conséquence de l'hypothèse selon laquelle l'[expansion du crédit](ch046-credit-expansion-fallacy.md) entraînée par l'expansion monétaire de l'[État](ch101-glossary.md#état) est une force du [marché](ch101-glossary.md#marché). Cette hypothèse ne tient pas compte du fait que la [monnaie de marché](ch005-money-taxonomy.md) ne peut pas produire de [seigneuriage](https://fr.wikipedia.org/wiki/Seigneuriage).
 
