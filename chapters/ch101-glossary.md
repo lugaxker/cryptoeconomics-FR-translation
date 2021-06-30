@@ -17,13 +17,13 @@ Ensemble des principes qui sécurisent une [Monnaie](#monnaie) contre l'[État](
 Accord entre les [Personnes](#personne). Aussi, l'ensemble des gens qui participent à un accord.
 
 #### Monnaie
-Un [Consensus](#consensus) concernant un moyen mutuellement acceptable pour le [Commerce](#commerce). BTC est une Monnaie. On emploie également les termes « cryptomonnaie » et « *coin* ».
+[Consensus](#consensus) concernant un moyen mutuellement acceptable pour le [Commerce](#commerce). BTC est une Monnaie. On emploie également les termes « cryptomonnaie » et « *coin* ».
 
 #### Règles de consensus
 Ensemble de contraintes qui définissent une [Monnaie](#monnaie).
 
 #### Règle
-Un sous-ensemble des [Règles de consensus](#règles-de-consensus).
+Sous-ensemble des [Règles de consensus](#règles-de-consensus).
 
 #### Validité
 Conformité aux [Règles de consensus](#règles-de-consensus).
@@ -37,17 +37,16 @@ Acte de rejeter une donnée [Invalide](#validité).
 ## Objets
 
 #### Unité
-Un montant minimal transférable de propriété biens représenté par une [Monnaie](#monnaie).
-> Le Satoshi est l'unité de Bitcoin.
+Montant minimal transférable de biens représentés par une [Monnaie](#monnaie). Le satoshi est l'unité de Bitcoin.
 
 #### Transfert
-Changement de contrôle sur certaines [Unités](#unité).
+Modification du contrôle sur certaines [Unités](#unité).
 
 #### Transaction
 Trace écrite [Valide](#validité) d'un [Transfert](#transfert).
 
 #### Bloc
-Un ensemble [Valide](#validité) de [Transactions](#transaction) avec un [Horodatage](#horodatage) et une [Preuve](#preuve).
+Ensemble [Valide](#validité) de [Transactions](#transaction) avec un [Horodatage](#horodatage) et une [Preuve](#preuve).
 
 #### Chaîne
 La [Branche](#branche) ayant le plus de [Preuve](#preuve) cumulée.
@@ -55,19 +54,19 @@ La [Branche](#branche) ayant le plus de [Preuve](#preuve) cumulée.
 ## Transactions
 
 #### Script
-Un ensemble d'[Opérations](#opération) qui autorisent un [Transfert](#transfert).
+Ensemble d'[Opérations](#opération) autorisant un [Transfert](#transfert).
 
 #### Opération
-Une déclaration d'intention insécable.
+Déclaration d'intention insécable.
 
 #### Contrat
-Un [Script](#script) qui exprime des conditions de [Transfert](#transfert). Parfois désigné par le terme anachronique « script de clé publique ».
+[Script](#script) qui exprime des conditions de [Transfert](#transfert). Parfois désigné par le terme anachronique « script de clé publique ».
 
 #### Approbation
-Un [Script](#script) qui satisfait un [Contrat](#contrat). Parfois désignée par le terme anachronique « script de signature ».
+[Script](#script) qui satisfait un [Contrat](#contrat). Parfois désignée par le terme anachronique « script de signature ».
 
 #### Point
-Une référence à une [Sortie](#sortie) ou une [Entrée](#entrée).
+Référence à une [Sortie](#sortie) ou une [Entrée](#entrée).
 
 #### Sortie
 Un [Transfert](#transfert) explicite et un [Contract](#contrat).
@@ -79,18 +78,18 @@ Un [Point](#point) de [Sortie](#sortie) et une [Approbation](#approbation).
 [Sortie](#sortie) à laquelle se réfère une [Entrée](#entrée).
 
 #### Temps de verrouillage
-Une expression de la plus ancienne [Validité](#validité) de la [Transaction](#transaction).
+Expression de la plus ancienne [Validité](#validité) de la [Transaction](#transaction).
 
 #### Poussière
-Un nombre insuffisant d'[Unités](#unité) pour le [Transfert](#transfert) par une [Sortie](#sortie). Les [Règles de consensus](#règles-de-consensus) de BTC interdisent le transfert de moins d'une unité.
+Nombre insuffisant d'[Unités](#unité) pour le [Transfert](#transfert) par une [Sortie](#sortie). Les [Règles de consensus](#règles-de-consensus) de BTC interdisent le transfert de moins d'une unité.
 
 ## Blocs
 
 #### Horodatage
-Une déclaration du temps de la production du [Bloc](#bloc).
+Déclaration du temps de la production du [Bloc](#bloc).
 
 #### Temps passé médian
-Une moyenne des [Horodatages](#horodatage) des précédents [Blocs](#bloc).
+Moyenne des [Horodatages](#horodatage) des précédents [Blocs](#bloc).
 
 #### Preuve
 Marque [Valide](#validité).
@@ -105,11 +104,10 @@ Marque [Valide](#validité).
 [Preuve](#preuve) cryptographique d'une quantité de [Propriété](#propriétaire) (PDE)
 
 #### Branche
-Une séquence [Valide](#validité) de [Blocs](#bloc).
+Séquence [Valide](#validité) de [Blocs](#bloc).
 
 #### Faible
-Une [Branche](#branche) avec moins de [Preuve](#preuve) cumulée qu'une autre.
-> Orphelin est un abus de langage pour ceci.
+Une [Branche](#branche) avec moins de [Preuve](#preuve) cumulée qu'une autre. Aussi appelée « orpheline » par abus de langage.
 
 #### Forte
 Une [Branche](#branche) avec plus de [Preuve](#preuve) cumulée qu'une autre.
@@ -120,11 +118,10 @@ Une [Branche](#branche) avec plus de [Preuve](#preuve) cumulée qu'une autre.
 Inclusion d'une [Transaction](#transaction) dans un [Bloc](#bloc).
 
 #### Non confirmée
-Une [Transaction](#transaction) qui n'existe pas dans un [Bloc](#bloc).
+Une [Transaction](#transaction) qui n'existe pas dans un [Bloc](#bloc) de la [Chaîne](#chaîne).
 
 #### Réserve des transactions
-Ensemble des [Transactions non confirmées](#non-confirmée).
-> Zone mémoire est un abus de langage pour ceci.
+Ensemble des [Transactions non confirmées](#non-confirmée). Aussi appelée « zone mémoire » par abus de langage.
 
 #### Réserve des blocs
 Ensemble des [Blocs faibles](#faible). Aussi appelée « réserve des orphelins » par abus de langage.
@@ -139,10 +136,10 @@ Premier [Bloc](#bloc) de toutes les [Branches](#branche) d'une [Monnaie](#monnai
 Nombre de [Blocs](#bloc) précédents dans une [Branche](#branche).
 
 #### Segment
-Un sous-ensemble contigu d'une [Branche](#branche).
+Sous-ensemble contigu d'une [Branche](#branche).
 
 #### Coordination
-Une [Annonce](#annonce) ajoutant un [Bloc](#bloc) à la [Chaîne](#chaîne).
+[Annonce](#annonce) ajoutant un [Bloc](#bloc) à la [Chaîne](#chaîne).
 
 #### Période
 Temps moyen entre les [Coordinations](#coordination).
@@ -165,17 +162,16 @@ Publication initiale d'une [Transaction](#transaction).
 Émission de nouvelles [Unités](#unité) pour un [Mineur](#mineur).
 
 #### Inflation
-Augmentation de l'[Offre](#offre) résultant de la [Subvention](#subvention).
-> Aussi inflation monétaire, à ne pas confondre avec l'inflation des prix.
+Augmentation de l'[Offre](#offre) résultant de la [Subvention](#subvention). Aussi appelée inflation monétaire, à ne pas confondre avec l'[Inflation des prix](#inflation-des-prix).
 
 #### Frais
-Un [Transfert](#transfert) implicite à un [Mineur](#mineur).
+[Unités](#unité) [Transférées](#transfert) implicitement à un [Mineur](#mineur).
 
 #### Récompense
 Somme de la [Subvention](#subvention) et des [Frais](#frais) pour un [Bloc](#bloc).
 
 #### Base de pièce
-Une [Transaction](#transaction) qui [transfère](#transfert) une [Récompense](#récompense).
+[Transaction](#transaction) qui [transfère](#transfert) une [Récompense](#récompense).
 
 #### Maturité
 [Profondeur](#profondeur) à laquelle la [Sortie](#sortie) d'une [Base de pièce](#base-de-pièce) devient [Transférable](#transfert).
@@ -187,13 +183,13 @@ Réduction du taux de [Subvention](#subvention) (de moitié).
 Niveau de [Preuve](#preuve) requis pour la [Validité](#validité).
 
 #### Ajustement
-Un changement de la [Difficulté](#difficulté).
+Changement de la [Difficulté](#difficulté).
 
 #### Plafond
 Limite définitive de l'[Offre](#offre).
 
 #### Prix
-Une moyenne mobile du taux de [Échange](#échange).
+Moyenne mobile du taux d'[Échange](#échange).
 
 #### Capitalisation
 Produit du [Prix](#prix) et de l'[Offre](#offre).
@@ -201,7 +197,7 @@ Produit du [Prix](#prix) et de l'[Offre](#offre).
 ## Économie
 
 #### Commerce
-Un troc volontaire de biens entre deux [Personnes](#personne).
+Troc volontaire de biens entre deux [Personnes](#personne).
 
 #### Utilité
 Caractère utile d'un certain bien pour une [Personne](#personne).
@@ -216,19 +212,16 @@ Ensemble de toutes les [Unités](#unité) émises.
 [Commerce](#commerce) d'[Unités](#unité) pour un autre bien.
 
 #### Inflation des prix
-Augmentation des prix moyens d'[Échange](#échange) au fil du temps.
+Augmentation des [Prix](#prix) au fil du temps.
 
 #### Thésauriser
 [Posséder](#propriétaire) pour un usage futur.
-> Ce n'est ni de la spéculation ni de l'investissement.
 
 #### Spéculer
-[Posséder](#propriétaire) dans l'attente d'une augmentation du [Prix](#prix).
-> Aussi, emprunter dans l'attente d'une diminution du prix.
+[Posséder](#propriétaire) dans l'attente d'une augmentation du [Prix](#prix). Aussi, [Emprunter](#emprunter) dans l'attente d'une diminution du prix.
 
 #### Prêter
-[Commercer](#commerce) du temps sans [Unité](#unité) contre un bien de plus grande [Utilité](#utilité).
-> Investir est un autre nom pour ceci.
+[Échanger](#commerce) du temps sans [Unité](#unité) contre un bien de plus grande [Utilité](#utilité). « Investir » est un synonyme.
 
 #### Emprunter
 [Échanger](#commerce) du temps en possession d'[Unités](#unité) contre un bien de plus grande [Utilité](#utilité) pour le [Prêteur](#prêter).
@@ -240,8 +233,7 @@ Taux d'accroissement en [Utilité](#utilité) du [Prêt](#prêter).
 Retour sur [Investissement](#investissement) au-dessus du taux de [Marché](#marché) de l'[Intérêt](#intérêt)
 
 #### Perte
-Échec d'un [Investissement](#prêter) à générer des [Intérêts](#intérêt).
-> C'est du profit négatif.
+Échec d'un [Investissement](#prêter) à générer un [Intérêt](#intérêt) au-dessus du taux du [Marché](#marché).
 
 #### Volatilité
 Variation du [Prix](#prix) au fil du temps.
@@ -255,7 +247,7 @@ Variation du [Prix](#prix) au fil du temps.
 Transfert de données entre des [Machines](#machine).
 
 #### Protocole
-Un ensemble de conventions de [Communication](#communication).
+Ensemble de conventions de [Communication](#communication).
 
 #### Pair-à-pair
 Un [Protocole](#protocole) symétrique.
@@ -267,7 +259,7 @@ Un [Protocole](#protocole) asymétrique.
 Délai inhérent à la [Communication](#communication).
 
 #### Cloison
-Une incapacité de certains [Nœuds](#noeud) à [Communiquer](#communication).
+Incapacité de certains [Nœuds](#noeud) à [Communiquer](#communication).
 
 #### Déni de service
 Utiliser la [Communication](#communication) pour exploiter les défauts du [Protocole](#protocole) ou de l'[Implémentation](#implémentation) afin de dégrader leur performance. Couramment appelé DoS.
@@ -275,53 +267,51 @@ Utiliser la [Communication](#communication) pour exploiter les défauts du [Prot
 ## Composants
 
 #### Mine
-Un [Outil](#outil) qui effectue du [Travail](#travail).
+[Outil](#outil) qui effectue du [Travail](#travail).
 
 #### Hacheuse
-Un [Outil](#outil) qui effectue du [Hachage](#hachage).
+[Outil](#outil) qui effectue du [Hachage](#hachage).
 
 #### Relais
-Un [Outil](#outil) qui diffuse les nouveaux [Blocs](#bloc).
+[Outil](#outil) qui diffuse les nouveaux [Blocs](#bloc).
 
 #### Nœud
-Un [Outil](#outil) qui effectue la [Validation](#validation).
+[Outil](#outil) qui réalise la [Validation](#validation).
 
 #### Portefeuille
-Un [Outil](#outil) qui crée les [Transactions](#transaction).
+[Outil](#outil) qui crée les [Transactions](#transaction).
 
 #### Outil
-Un ensemble d'instructions de [Machine](#machine).
+Ensemble d'instructions de [Machine](#machine).
 
 #### Implémentation
-Un ensemble spécifique d'[Outils](#outil).
+Ensemble spécifique d'[Outils](#outil).
 
 ## Acteurs
 
 #### Mineur
-Une [Personne](#personne) qui gère une [Mine](#mine).
+[Personne](#personne) qui gère une [Mine](#mine).
 
 #### Hacheur
-Une [Personne](#personne) qui gère une [Hacheuse](#hacheuse).
+[Personne](#personne) qui gère une [Hacheuse](#hacheuse).
 
 #### Relayeur
-Une [Personne](#personne) qui gère un [Relais](#relais).
+[Personne](#personne) qui gère un [Relais](#relais).
 
 #### Marchand
-Une [Personne](#personne) qui accepte des [Unités](#unité) dans le [Commerce](#commerce).
-> Utilisateur est un autre nom courant pour ceci.
+[Personne](#personne) qui accepte des [Unités](#unité) dans le [Commerce](#commerce). Un autre nom courant est « utilisateur ».
 
 #### Propriétaire
-Une [Personne](#personne) qui contrôle certaines [Unités](#unité).
-> Détenteur est un autre nom courant pour ceci.
+[Personne](#personne) qui contrôle certaines [Unités](#unité). Un autre nom courant est « détenteur ».
 
 #### Développeur
-Une [Personne](#personne) qui crée une [Implémentation](#implémentation).
+[Personne](#personne) qui crée une [Implémentation](#implémentation).
 
 #### Créancier
-Une [Personne](#personne) qui détient une créance sur un bien sous le contrôle d'un [Dépositaire](#dépositaire). On aprle aussi de titulaire de privilège, d'actionnaire, de [prêteur](#prêter) ou de déposant.
+[Personne](#personne) qui détient une créance sur un bien sous le contrôle d'un [Dépositaire](#dépositaire). On parle aussi de titulaire de privilège, d'actionnaire, de [prêteur](#prêter) ou de déposant.
 
 #### Dépositaire
-Une [Personne](#personne) qui contrôle le bien d'autrui d'un commun accord.
+[Personne](#personne) qui contrôle le bien d'autrui d'un commun accord.
 
 ## Minage
 
@@ -329,10 +319,10 @@ Une [Personne](#personne) qui contrôle le bien d'autrui d'un commun accord.
 Procédé de production de [Blocs](#bloc).
 
 #### Candidat
-Un [Bloc](#bloc) potentiel avec une [Preuve](#preuve) indéterminée.
+[Bloc](#bloc) potentiel avec une [Preuve](#preuve) indéterminée.
 
 #### Hachage
-Un calcul insécable pour [Prouver](#preuve) la [Validité](#validité) d'un [Candidat](#candidat).
+Calcul insécable permettant de [Prouver](#preuve) la [Validité](#validité) d'un [Candidat](#candidat).
 
 #### Taux de hachage
 Vitesse de [Hachage](#hachage).
@@ -341,11 +331,10 @@ Vitesse de [Hachage](#hachage).
 Une fraction de [Blocs](#bloc) dans un [Segment](#segment) de [Chaîne](#chaîne). Les estimations publiques de la [Puissance de hachage](#puissance-de-hachage) d'un [Mineur](#mineur) spécifique sont basées là-dessus.
 
 #### Puissance de hachage majoritaire
-Un sous-ensemble de [Mineurs](#mineur) avec suffisamment de [Puissance de hachage](#puissance-de-hachage) pour exécuter une [Attaque](#attaque) soutenue.
-> 51 % est une approximation courante de la puissance suffisante.
+Sous-ensemble de [Mineurs](#mineur) avec suffisamment de [Puissance de hachage](#puissance-de-hachage) pour exécuter une [Attaque](#attaque) soutenue. 51 % est une approximation courante de la puissance suffisante.
 
 #### Optimisation
-Un changement [Outil](#outil) qui réduit le coût du [Minage](#mine).
+Changement d'[Outil](#outil) qui réduit le coût du [Minage](#mine).
 
 #### Annonce
 Première [Communication](#communication) d'un [Bloc](#bloc) à une autre [Personne](#personne).
@@ -368,22 +357,19 @@ Une [Mine](#mine) qui partage la [Récompense](#récompense) avec une autre pour
 ## Déviations
 
 #### Fork
-Une divergence dans les [Règles de consensus](#règles-de-consensus).
+Divergence dans les [Règles de consensus](#règles-de-consensus).
 
 #### Hard fork
-Un [Fork](#fork) qui implique une [Scission](#scission).
-> Expansion de l'ensemble des blocs potentiellement valides.
+[Fork](#fork) qui implique une [Scission](#scission). Expansion de l'ensemble des [Blocs](#bloc) potentiellement [Valides](#validité).
 
 #### Soft fork
-Un [Fork](#fork) qui implique une [Scission](#scission) à moins d'être [Appliquée](#application) par la [Puissance de hachage majoritaire](#puissance-de-hachage-majoritaire).
-> Contraction de l'ensemble des blocs potentiellement valides.
+[Fork](#fork) qui implique une [Scission](#scission) à moins d'être [Appliqué](#application) par la [Puissance de hachage majoritaire](#puissance-de-hachage-majoritaire). Contraction de l'ensemble des [Blocs](#bloc) potentiellement [Valides](#validité).
 
 #### Scission
 Bifurcation d'une [Monnaie](#monnaie).
 
 #### Recoordination
-Une [Annonce](#annonce) qui promeut une [Branche faible](#faible) de la [Chaîne](#chaîne).
-> Reorg est une abréviation de ceci.
+[Annonce](#annonce) qui promeut une [Branche](#branche) [Faible](#faible) de la [Chaîne](#chaîne). On utilise aussi le terme « réorganisation » et son abréviation « réorg ».
 
 #### Ralentissement
 Manque d'augmentation de la [Hauteur](#hauteur) au fil du temps.
@@ -397,7 +383,7 @@ Indication d'un [Mineur](#mineur) par le biais des données du [Bloc](#bloc) de 
 ## Confidentialité
 
 #### Identité
-Moyen d'associer la [Communication](#communication) à une [Personne](#personne).
+Moyen d'associer une [Communication](#communication) à une [Personne](#personne).
 
 #### Salissure
 Détermination de la [Propriété](#propriétaire).
@@ -411,10 +397,10 @@ Niveau relatif de contrôle d'une [Personne](#personne) sur une [Chaîne](#chaî
 Ensemble de tous les [Marchands](#marchand).
 
 #### Pouvoir économique
-Une fraction de tous les biens offerts dans l'[Échange](#échange).
+Fraction de tous les biens offerts dans l'[Échange](#échange).
 
 #### Puissance de hachage
-Une fraction du [Taux de hachage](#taux-de-hachage) de toutes les [Mines](#mine).
+Fraction du [Taux de hachage](#taux-de-hachage) de toutes les [Mines](#mine).
 
 #### Attaque
 Utilisation de la [Puissance de hachage](#puissance-de-hachage) pour permettre la [Double dépense](#double-dépense).
@@ -435,8 +421,7 @@ Différences dans le coût des ressources de [Minage](#mine).
 [Confirmation](#confirmation) subjective.
 
 #### État
-Ensemble de [Personnes](#personne) qui utilisent l'agression à la place du [Commerce](#commerce).
-> Opère typiquement en toute impunité au sein de frontières géographiques.
+Ensemble de [Personnes](#personne) utilisant l'agression à la place du [Commerce](#commerce). Opère typiquement en toute impunité au sein de frontières géographiques.
 
 #### Politique
 Qui concerne les actions des [États](#état).
@@ -447,8 +432,7 @@ Qui concerne les actions des [États](#état).
 Tendance à une participation réduite dans le [Minage](#mine) ou la [Validation](#validation). Implique un [Regroupement](#regroupement) ou une [Centralisation](#centralisation). 
 
 #### Regroupement
-Tendance vers moins de [Mineurs](#miner), y compris la consolidation par [Relais](#relais).
-> Connivence est un autre nom courant pour ceci.
+Tendance vers moins de [Mineurs](#miner), ce qui inclue la consolidation par [Relais](#relais).
 
 #### Centralisation
 Tendance vers moins de [Marchands](#marchand). Les marchands contrôlent directement la [Validation](#validation). Peut aussi concerner le [Regroupement](#regroupement).
@@ -461,7 +445,6 @@ Tendance vers moins de [Propriétaires](#propriétaire). Les propriétaires cont
 
 #### Cloisonnement
 Tendance vers des [Cloisons](#cloison) permanentes.
-> L'identité implique l'exclusion.
 
 #### Corrélation
 Capacité à [Salir](#salissure) en utilisant l'analyse statistique de [Chaîne](#chaîne).
