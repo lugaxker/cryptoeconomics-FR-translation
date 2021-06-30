@@ -11,16 +11,13 @@ Un suiveur d'instructions.
 ## Accord
 
 #### Bitcoin
-Ensemble des principes qui sécurisent une [Monnaie](#monnaie) contre l'[État](état).
-> Le terme et les principes sont définis par Satoshi dans « Bitcoin: A Peer-to-Peer Electronic Cash System ».
+Ensemble des principes qui sécurisent une [Monnaie](#monnaie) contre l'[État](état). Le terme et les principes sont définis par Satoshi dans « Bitcoin: A Peer-to-Peer Electronic Cash System ».
 
 #### Consensus
-Un accord entre les [Personnes](#personne).
-> Aussi l'ensemble des gens qui participent dans un accord.
+Accord entre les [Personnes](#personne). Aussi, l'ensemble des gens qui participent à un accord.
 
 #### Monnaie
-Un [Consensus](#consensus) concernant un moyen mutuellement acceptable pour le [Commerce](#commerce).
-> BTC est une Monnaie.
+Un [Consensus](#consensus) concernant un moyen mutuellement acceptable pour le [Commerce](#commerce). BTC est une Monnaie. On emploie également les termes « cryptomonnaie » et « *coin* ».
 
 #### Règles de consensus
 Ensemble de contraintes qui définissent une [Monnaie](#monnaie).
@@ -50,7 +47,7 @@ Changement de contrôle sur certaines [Unités](#unité).
 Trace écrite [Valide](#validité) d'un [Transfert](#transfert).
 
 #### Bloc
-Une ensemble [Valide](#validité) de [Transactions](#transaction) avec [Horodatage](#horodatage) et une [Preuve](#preuve).
+Un ensemble [Valide](#validité) de [Transactions](#transaction) avec un [Horodatage](#horodatage) et une [Preuve](#preuve).
 
 #### Chaîne
 La [Branche](#branche) ayant le plus de [Preuve](#preuve) cumulée.
@@ -64,12 +61,10 @@ Un ensemble d'[Opérations](#opération) qui autorisent un [Transfert](#transfer
 Une déclaration d'intention insécable.
 
 #### Contrat
-Un [Script](#script) qui exprime des conditions de [Transfert](#transfert).
-> Script de clé publique (scriptPubKey) est un anachronisme pour ceci.
+Un [Script](#script) qui exprime des conditions de [Transfert](#transfert). Parfois désigné par le terme anachronique « script de clé publique ».
 
 #### Approbation
-Un [Script](#script) qui satisfait un [Contrat](#contrat).
-> Script de signature (scriptSig) est un anachronisme pour ceci.
+Un [Script](#script) qui satisfait un [Contrat](#contrat). Parfois désignée par le terme anachronique « script de signature ».
 
 #### Point
 Une référence à une [Sortie](#sortie) ou une [Entrée](#entrée).
@@ -87,8 +82,7 @@ Un [Point](#point) de [Sortie](#sortie) et une [Approbation](#approbation).
 Une expression de la plus ancienne [Validité](#validité) de la [Transaction](#transaction).
 
 #### Poussière
-Un nombre insuffisant d'[Unités](#unité) pour le [Transfert](#transfert) par une [Sortie](#sortie).
-> Les règles de consensus de BTC interdisent le transfert de moins d'une unité.
+Un nombre insuffisant d'[Unités](#unité) pour le [Transfert](#transfert) par une [Sortie](#sortie). Les [Règles de consensus](#règles-de-consensus) de BTC interdisent le transfert de moins d'une unité.
 
 ## Blocs
 
@@ -133,8 +127,7 @@ Ensemble des [Transactions non confirmées](#non-confirmée).
 > Zone mémoire est un abus de langage pour ceci.
 
 #### Réserve des blocs
-Ensemble des [Blocs faibles](#faible)
-> Réserve des orphelins est un abus de langage pour ceci.
+Ensemble des [Blocs faibles](#faible). Aussi appelée « réserve des orphelins » par abus de langage.
 
 #### Genèse
 Premier [Bloc](#bloc) de toutes les [Branches](#branche) d'une [Monnaie](#monnaie).
@@ -197,7 +190,7 @@ Niveau de [Preuve](#preuve) requis pour la [Validité](#validité).
 Un changement de la [Difficulté](#difficulté).
 
 #### Plafond
-Limite de l'[Offre](#offre) de tous temps.
+Limite définitive de l'[Offre](#offre).
 
 #### Prix
 Une moyenne mobile du taux de [Échange](#échange).
@@ -238,7 +231,7 @@ Augmentation des prix moyens d'[Échange](#échange) au fil du temps.
 > Investir est un autre nom pour ceci.
 
 #### Emprunter
-[Commercer](#commerce) du temps avec des [Unités](#unité) contre un bien de plus grande [Utilité](#utilité) pour le [Prêteur](#prêter).
+[Échanger](#commerce) du temps en possession d'[Unités](#unité) contre un bien de plus grande [Utilité](#utilité) pour le [Prêteur](#prêter).
 
 #### Intérêt
 Taux d'accroissement en [Utilité](#utilité) du [Prêt](#prêter).
@@ -277,8 +270,7 @@ Délai inhérent à la [Communication](#communication).
 Une incapacité de certains [Nœuds](#noeud) à [Communiquer](#communication).
 
 #### Déni de service
-Utiliser la [Communication](#communication) pour exploiter les défauts du [Protocole](#protocole) ou de l'[Implémentation](#implémentation) afin de dégrader leur performance.
-> Couramment appelé DoS.
+Utiliser la [Communication](#communication) pour exploiter les défauts du [Protocole](#protocole) ou de l'[Implémentation](#implémentation) afin de dégrader leur performance. Couramment appelé DoS.
 
 ## Composants
 
@@ -326,11 +318,10 @@ Une [Personne](#personne) qui contrôle certaines [Unités](#unité).
 Une [Personne](#personne) qui crée une [Implémentation](#implémentation).
 
 #### Créancier
-Une [Personne](#personne) qui détient une créance sur un bien sous le contrôle d'un [Dépositaire](#dépositaire). 
-> Aussi titulaire d'un privilège, actionnaire, prêteur ou déposant.
+Une [Personne](#personne) qui détient une créance sur un bien sous le contrôle d'un [Dépositaire](#dépositaire). On aprle aussi de titulaire de privilège, d'actionnaire, de [prêteur](#prêter) ou de déposant.
 
 #### Dépositaire
-Une [Personne](#personne) qui contrôle le bien d'autrui. 
+Une [Personne](#personne) qui contrôle le bien d'autrui d'un commun accord.
 
 ## Minage
 
@@ -347,8 +338,7 @@ Un calcul insécable pour [Prouver](#preuve) la [Validité](#validité) d'un [Ca
 Vitesse de [Hachage](#hachage).
 
 #### Puissance de hachage apparente
-Une fraction de [Blocs](#bloc) dans un [Segment](#segment) de [Chaîne](#chaîne).
-> Les estimations publiques de la puissance de hachage sont basée là-dessus.
+Une fraction de [Blocs](#bloc) dans un [Segment](#segment) de [Chaîne](#chaîne). Les estimations publiques de la [Puissance de hachage](#puissance-de-hachage) d'un [Mineur](#mineur) spécifique sont basées là-dessus.
 
 #### Puissance de hachage majoritaire
 Un sous-ensemble de [Mineurs](#mineur) avec suffisamment de [Puissance de hachage](#puissance-de-hachage) pour exécuter une [Attaque](#attaque) soutenue.
@@ -358,7 +348,7 @@ Un sous-ensemble de [Mineurs](#mineur) avec suffisamment de [Puissance de hachag
 Un changement [Outil](#outil) qui réduit le coût du [Minage](#mine).
 
 #### Annonce
-Première communication d'un [Bloc](#bloc) à une autre [Personne](#personne).
+Première [Communication](#communication) d'un [Bloc](#bloc) à une autre [Personne](#personne).
 
 #### Retenue
 Retard intentionnel de l'[Annonce](#annonce).
@@ -428,7 +418,6 @@ Une fraction du [Taux de hachage](#taux-de-hachage) de toutes les [Mines](#mine)
 
 #### Attaque
 Utilisation de la [Puissance de hachage](#puissance-de-hachage) pour permettre la [Double dépense](#double-dépense).
-> L'entrave de la confirmation est un cas de permission de double dépense.
 
 #### Cooptation
 Utilisation de l'agression pour contrôler la [Puissance de hachage](#puissance-de-hachage).
@@ -455,23 +444,20 @@ Qui concerne les actions des [États](#état).
 ## Faiblesses
 
 #### Agrégation
-Tendance à une participation réduite dans le [Minage](#mine) ou la [Validation](#validation).
-> Implique un regroupement ou une centralisation. 
+Tendance à une participation réduite dans le [Minage](#mine) ou la [Validation](#validation). Implique un [Regroupement](#regroupement) ou une [Centralisation](#centralisation). 
 
 #### Regroupement
 Tendance vers moins de [Mineurs](#miner), y compris la consolidation par [Relais](#relais).
 > Connivence est un autre nom courant pour ceci.
 
 #### Centralisation
-Tendance vers moins de [Marchands](#marchand).
-> Les marchands contrôlent directement la validation.
+Tendance vers moins de [Marchands](#marchand). Les marchands contrôlent directement la [Validation](#validation). Peut aussi concerner le [Regroupement](#regroupement).
 
 #### Décentralisation
 Tendance s'opposant à la [Centralisation](#centralisation)
 
 #### Délégation
-Tendance vers moins de [Propriétaires](#propriétaire).
-> Les propriétaires contrôlent directement la dépense.
+Tendance vers moins de [Propriétaires](#propriétaire). Les propriétaires contrôlent directement la [Dépense](#dépense).
 
 #### Cloisonnement
 Tendance vers des [Cloisons](#cloison) permanentes.
