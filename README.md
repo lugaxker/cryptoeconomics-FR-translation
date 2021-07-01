@@ -5,6 +5,11 @@ Traduction française de l'ouvrage *Cryptoeconomics*, écrit par [Eric Voskuil](
 
 Ce dépôt est organisé comme la [traduction italienne](https://github.com/parsevalbtc/cryptoeconomics-IT-translation/) réalisée par [Parsevalbtc](https://twitter.com/parsevalbtc).
 
+## Introductions
+
+* [Introduction](introduction.md)
+* [.](acknowlegments.md)
+
 ## Index
 
 | Numéro | Titre                                                                           | Titre original                                                                                            |
