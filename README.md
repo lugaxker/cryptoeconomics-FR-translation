@@ -8,7 +8,7 @@ Ce dépôt est organisé comme la [traduction italienne](https://github.com/pars
 ## Introductions
 
 * [Introduction](introduction.md)
-* [.](acknowlegments.md)
+* [Remerciements](acknowledgements.md)
 
 ## Index
 
