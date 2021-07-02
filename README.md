@@ -1,9 +1,9 @@
 Cryptoéconomie
 ==============
 
-Traduction française de l'ouvrage *Cryptoeconomics*, écrit par [Eric Voskuil](https://twitter.com/evoskuil), qui est en libre accès en [PDF](https://voskuil.org/cryptoeconomics/cryptoeconomics.pdf) et sur le [wiki de Libbitcoin](https://github.com/libbitcoin/libbitcoin-system/wiki/Cryptoeconomics).
+Traduction française de l'ouvrage *Cryptoeconomics*, écrit par [Eric Voskuil](https://twitter.com/evoskuil), qui est en libre accès en [PDF](https://voskuil.org/cryptoeconomics/cryptoeconomics.pdf) et sur le [wiki de Libbitcoin](https://github.com/libbitcoin/libbitcoin-system/wiki/Cryptoeconomics). Ce dépôt est organisé comme la [traduction italienne](https://github.com/parsevalbtc/cryptoeconomics-IT-translation/) réalisée par [Parsevalbtc](https://twitter.com/parsevalbtc).
 
-Ce dépôt est organisé comme la [traduction italienne](https://github.com/parsevalbtc/cryptoeconomics-IT-translation/) réalisée par [Parsevalbtc](https://twitter.com/parsevalbtc).
+Ce livre ne doit pas être lu dans l'ordre : les chapitres sont listés par thématique mais se répondent les uns les autres. Chaque lecteur choisira de s'orienter en premier vers le domaine qui l'intéresse le plus : le modèle de sécurité de Bitcoin, le minage, les alternatives, l'économie, la monnaie, le système bancaire traditionnel, etc. Ce livre ne doit pas non plus être lu d'une traite : la plupart des chapitres traitent de sujets complexes faisant débat dans la communauté de Bitcoin, et nécessitent par conséquent une période de réflexion pour être appréciés à leur juste valeur.
 
 ## Introductions
 
