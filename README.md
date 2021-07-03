@@ -52,7 +52,7 @@ Ce livre ne doit pas être lu dans l'ordre : les chapitres sont listés par thé
 | 36     | [Défaut de la prime de proximité](chapters/ch036-proximity-premium-flaw.md)     | [Proximity Premium Flaw](https://github.com/libbitcoin/libbitcoin-system/wiki/Proximity-Premium-Flaw)     |
 | 37     | [Défaut du rabais de variance](chapters/ch037-variance-discount-flaw.md)        | [Variance Discount Flaw](https://github.com/libbitcoin/libbitcoin-system/wiki/Variance-Discount-Flaw)     |
 | 38     | [Risque de centralisation](chapters/ch038-centralization-risk.md)               | [Centralization Risk](https://github.com/libbitcoin/libbitcoin-system/wiki/Centralization-Risk)           |
-| 39     | [Risque de pression de regroupement](chapters/ch039-pooling-pressure-risk.md)   | [Pooling Pressure Risk](https://github.com/libbitcoin/libbitcoin-system/wiki/Pooling-Pressure-Risk)       |
+| 39     | [Risque de la pression de regroupement](chapters/ch039-pooling-pressure-risk.md)| [Pooling Pressure Risk](https://github.com/libbitcoin/libbitcoin-system/wiki/Pooling-Pressure-Risk)       |
 | 40     | [Sophisme du monopole des ASIC](chapters/ch040-asic-monopoly-fallacy.md)        | [ASIC Monopoly Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/ASIC-Monopoly-Fallacy)       |
 | 41     | [Sophisme de l'auditabilité](chapters/ch041-auditability-fallacy.md)            | [Auditability Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Auditability-Fallacy)         |
 | 42     | [Sophisme de l'équilibre des pouvoirs](chapters/ch042-balance-of-power-fallacy.md) | [Balance of Power Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Balance-of-Power-Fallacy) |

@@ -1,5 +1,5 @@
-Risque de pression de regroupement
-==================================
+Risque de la pression de regroupement
+=====================================
 
 La pression de [regroupement](ch101-glossary.md#regroupement) est l'ensemble des incitations économique favorisant l'[agrégation](ch101-glossary.md#agrégation) du [taux de hachage](ch101-glossary.md#taux-de-hachage), en particulier :
 
