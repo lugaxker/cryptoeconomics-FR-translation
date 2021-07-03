@@ -1,7 +1,7 @@
 Principe de risque custodial
 ============================
 
-Lorsqu'un contrat représente un actif, le contrat est une créance auprès du dépositaire de l’actif. Cette créance est souvent appelée un titre, avec l'implication voulue que la créance est un « droit » contre l'incapacité du dépositaire d'[échanger](ch101-glossary.md#échange) l'actif selon les termes du contrat. La [valeur](ch101-glossary.md#valeur) monétaire du titre est celle de l'actif sous-jacent moins les frais d'échange et d'exécution de la créance.
+Lorsqu'un contrat représente un actif, le contrat est une créance auprès du dépositaire de l’actif. Cette créance est souvent appelée un titre, avec le sous-entendu voulu que la créance soit un « droit » contre l'incapacité du dépositaire d'[échanger](ch101-glossary.md#échange) l'actif selon les termes du contrat. La [valeur](ch101-glossary.md#valeur) monétaire du titre est celle de l'actif sous-jacent moins les frais d'échange et d'exécution de la créance.
 
 Le risque custodial est un aspect central de toute [monnaie](ch005-money-taxonomy.md). L'utilité d'une monnaie est limitée par la fiabilité de son dépositaire. Étant [humain](ch101-glossary.md#personne), la fiabilité d'un dépositaire ne peut être assurée. Dans le cas de la monnaie [étatique](ch101-glossary.md#état), le dépositaire unique est l'État. Comme le montre le [Principe de réserve](ch017-reservation-principle.md), la monnaie étatique existe dans le but d'accumuler une [réserve](ch098-reserve-definition.md). Cela ne profite à l'État que parce que son rôle de dépositaire peut être abrogé à la fois par la liquidation de la réserve et par l'émission de titres frauduleux. En d'autres termes, le défaut custodial est la source de la monnaie étatique.
 
