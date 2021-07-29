@@ -3,16 +3,16 @@ Modèle de sécurité qualitatif
 
 **Modèle de décentralisation**
 
-Dans le [Principe de réseau social](ch024-social-network-principle.md), il est montré que Bitcoin est un réseau de relations [humaines](ch101-glossary.md#personne). Il peut être modélisé sous la forme d'un [graphe orienté](https://fr.wikipedia.org/wiki/Graphe_orient%C3%A9) dans lequel chaque sommet représente un [marchand](ch101-glossary.md#marchand) et chaque arête représente un [échange](ch101-glossary.md#commerce) pour du bitcoin. Les arêtes indiquent la direction du mouvement de [monnaie](ch101-glossary.md#monnaie) et sont quantifiés en nombre d'[unités](ch101-glossary.md#unité) échangées. Tous les [propriétaires](ch101-glossary.md#propriétaire) sont présumés avoir été des marchands au moment de la réception des pièces, y compris en tant que mineurs (vente de [confirmations](ch101-glossary.md#confirmation)) et en tant que bénéficiaires de charité (vente de [survaleur](https://fr.wikipedia.org/wiki/Goodwill)).
+Dans le [Principe de réseau social](ch024-social-network-principle.md), il est montré que Bitcoin est un réseau de relations [humaines](ch101-glossary.md#personne). Il peut être modélisé sous la forme d'un [graphe orienté](https://fr.wikipedia.org/wiki/Graphe_orient%C3%A9) dans lequel chaque sommet représente un [commerçant](ch101-glossary.md#commerçant) et chaque arête représente un [échange](ch101-glossary.md#commerce) pour du bitcoin. Les arêtes indiquent la direction du mouvement de [monnaie](ch101-glossary.md#monnaie) et sont quantifiés en nombre d'[unités](ch101-glossary.md#unité) échangées. Tous les [propriétaires](ch101-glossary.md#propriétaire) sont présumés avoir été des commerçants au moment de la réception des pièces, y compris en tant que mineurs (vente de [confirmations](ch101-glossary.md#confirmation)) et en tant que bénéficiaires de charité (vente de [survaleur](https://fr.wikipedia.org/wiki/Goodwill)).
 
 Si une personne n'accepte pas personnellement la monnaie ou ne [valide](ch101-glossary.md#validation) pas personnellement la monnaie acceptée, la personne ne peut pas rejeter la monnaie invalide. La personne confie cette tâche à une autorité centrale. **Toutes les personnes utilisant le même délégué sont réduites à un seul sommet qui représente le délégué.**
 
-Pour une période de temps donnée, la sécurité [économique](ch101-glossary.md#économie) est fonction du nombre de marchands et de la similarité des montants échangés. L'économie la plus forte serait celle dans laquelle toutes les personnes du monde échangeraient le même nombre d'unités pendant la période, idéal que l'on peut appeler une économie « distribuée » (ou entièrement décentralisée). L'économie la plus faible serait celle dans laquelle un délégué accepterait toutes les unités échangées au cours de la période, ce qui serait une économie « centralisée ».
+Pour une période de temps donnée, la sécurité [économique](ch101-glossary.md#économie) est fonction du nombre de commerçants et de la similarité des montants échangés. L'économie la plus forte serait celle dans laquelle toutes les personnes du monde échangeraient le même nombre d'unités pendant la période, idéal que l'on peut appeler une économie « distribuée » (ou entièrement décentralisée). L'économie la plus faible serait celle dans laquelle un délégué accepterait toutes les unités échangées au cours de la période, ce qui serait une économie « centralisée ».
 
-Plus précisément, le système le plus économiquement décentralisé est celui qui possède le plus grand nombre de sommets (marchands) et le coefficient de [variation](https://fr.wikipedia.org/wiki/Coefficient_de_variation) le plus bas pour les arêtes entrantes (recettes). En définissant une fonction distribution comme l'inverse du coefficient de variation, on obtient :
+Plus précisément, le système le plus économiquement décentralisé est celui qui possède le plus grand nombre de sommets (commerçants) et le coefficient de [variation](https://fr.wikipedia.org/wiki/Coefficient_de_variation) le plus bas pour les arêtes entrantes (recettes). En définissant une fonction distribution comme l'inverse du coefficient de variation, on obtient :
 
 ```
-décentralisation-économique = distribution( recettes ) * marchands
+décentralisation-économique = distribution( recettes ) * commerçants
 ```
 
 Similairement à la sécurité économique, la sécurité de confirmation peut être modélisée sous la forme d'un [graphe sans arête](https://fr.wikipedia.org/wiki/Graphe_nul). Chaque [mineur](ch101-glossary.md#mineur) est représenté par un sommet du graphe. Un [hacheur](ch101-glossary.md#hacheur) n'est pas un mineur car le hacheur n'a aucune capacité de décision, seul le mineur est représenté. La [puissance de hachage](ch101-glossary.md#puissance-de-hachage) totale employée par un mineur est le poids du sommet.
@@ -36,8 +36,8 @@ sécurité = activité * distribution * participation
 Étant donné qu'il n'y a pas de limite à l'humanité, au commerce ou au calcul, le niveau de sécurité sur chaque axe est illimité. La sécurité est également illimitée avec une distribution parfaite (c'est-à-dire une décentralisation infinie). Un niveau minimum de zéro sur chaque axe est atteint sans participation ou sans activité. La sécurité économique et la sécurité de confirmation peuvent ainsi être définies comme :
 
 ```
-sécurité-économique      = recettes             * distribution( recettes )             * [ marchands / humanité ]
-sécurité-de-confirmation = puissance-de-hachage * distribution( puissance-de-hachage ) * [ mineurs   / humanité ]
+sécurité-économique      = recettes             * distribution( recettes )             * [ commerçants / humanité ]
+sécurité-de-confirmation = puissance-de-hachage * distribution( puissance-de-hachage ) * [ mineurs     / humanité ]
 ```
 **Limites du modèle**
 

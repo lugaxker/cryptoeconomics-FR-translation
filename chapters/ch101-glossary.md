@@ -298,7 +298,7 @@ Ensemble spécifique d'[Outils](#outil).
 #### Relayeur
 [Personne](#personne) qui gère un [Relais](#relais).
 
-#### Marchand
+#### Commerçant
 [Personne](#personne) qui accepte des [Unités](#unité) dans le [Commerce](#commerce). Un autre nom courant est « utilisateur ».
 
 #### Propriétaire
@@ -394,7 +394,7 @@ Détermination de la [Propriété](#propriétaire).
 Niveau relatif de contrôle d'une [Personne](#personne) sur une [Chaîne](#chaîne) ou une [Monnaie](#monnaie).
 
 #### Économie
-Ensemble de tous les [Marchands](#marchand).
+Ensemble de tous les [Commerçants](#commerçant).
 
 #### Pouvoir économique
 Fraction de tous les biens offerts dans l'[Échange](#échange).
@@ -435,7 +435,7 @@ Tendance à une participation réduite dans le [Minage](#mine) ou la [Validation
 Tendance vers moins de [Mineurs](#miner), ce qui inclue la consolidation par [Relais](#relais).
 
 #### Centralisation
-Tendance vers moins de [Marchands](#marchand). Les marchands contrôlent directement la [Validation](#validation). Peut aussi concerner le [Regroupement](#regroupement).
+Tendance vers moins de [Commerçants](#commerçant). Les commerçants contrôlent directement la [Validation](#validation). Peut aussi concerner le [Regroupement](#regroupement).
 
 #### Décentralisation
 Tendance s'opposant à la [Centralisation](#centralisation)

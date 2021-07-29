@@ -11,7 +11,7 @@ La sécurité des confirmations augmente avec le coût de génération de chaque
 
 Le [travail](ch101-glossary.md#travail) engendre des coûts sous plusieurs formes : main-d'œuvre, matériel, services, terrain, etc. Toute autre preuve externe consomme ces mêmes ressources, mais éventuellement dans des proportions différentes. La question de la réduction du coût énergétique revient par conséquent à savoir si une composante énergétique du coût d'une preuve peut être remplacée par une autre composante de ressource ayant le même coût. Or le coût de la ressource de substitution inclut tous ses coûts de production, qui doivent se réduire à l'énergie consommée. La théorie est donc invalide.
 
-En outre, la sécurisation de toute [monnaie](ch101-glossary.md#monnaie) entraîne un coût pour les [marchands](ch101-glossary.md#marchand). De ce fait, leur utilisation de la monnaie implique qu'elle est préférée aux autres alternatives. Cela implique que les alternatives sont en fin de compte plus coûteuses. Comme tous les coûts se réduisent fondamentalement à la consommation d'énergie, il s'ensuit que la [monnaie](ch005-money-taxonomy.md) utilisée est la plus efficace sur le plan énergétique.
+En outre, la sécurisation de toute [monnaie](ch101-glossary.md#monnaie) entraîne un coût pour les [commerçants](ch101-glossary.md#commerçant). De ce fait, leur utilisation de la monnaie implique qu'elle est préférée aux autres alternatives. Cela implique que les alternatives sont en fin de compte plus coûteuses. Comme tous les coûts se réduisent fondamentalement à la consommation d'énergie, il s'ensuit que la [monnaie](ch005-money-taxonomy.md) utilisée est la plus efficace sur le plan énergétique.
 
 ---
 
