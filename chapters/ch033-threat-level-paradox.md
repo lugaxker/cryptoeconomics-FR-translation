@@ -5,7 +5,7 @@ Comme l'implique la [Propriété de somme nulle](ch032-zero-sum-property.md), il
 
 Si l'on accepte l'[Axiome de résistance](ch004-axiom-of-resistance.md), on doit supposer que l'impôt et la subvention seront utilisés tous les deux pour réduire le coût du contrôle de Bitcoin. En utilisant le pouvoir de subventionner le minage (via les recettes fiscales), les [États](ch101-glossary.md#état) peuvent provoquer un [regroupement](ch101-glossary.md#regroupement) dans la région de la subvention. Une fois que la [puissance de hachage majoritaire](ch101-glossary.md#puissance-de-hachage-majoritaire) est concentrée, l'État peut utiliser son pouvoir fiscal (réglementaire) dans la région pour imposer la [censure](ch101-glossary.md#censure).
 
-Par conséquent, pour profiter des avantages d'un Bitcoin, il semblerait que les [gens](ch101-glossary.md#personne) devront à terme miner à perte. Cependant, la censure crée l'occasion pour d'autres de miner de manière rentable dans la mesure où les gens sont prêts à compenser ce coût par des [frais](ch101-glossary.md#frais). Ce marché noir est la résistance à la censure de Bitcoin.
+Par conséquent, pour profiter des avantages d'un Bitcoin, il semblerait que les [gens](ch101-glossary.md#personne) devront à terme miner à perte. Cependant, la censure crée l'occasion pour d'autres de miner de manière rentable dans la mesure où les gens sont prêts à compenser ce coût par des [frais](ch101-glossary.md#frais). Ce marché noir constitue la résistance à la censure de Bitcoin.
 
 Les gens paient un prix plus élevé pour certaines transactions et, pour maintenir ce prix plus élevé, l'État doit également en supporter les dépenses, malgré son inefficacité.
 
