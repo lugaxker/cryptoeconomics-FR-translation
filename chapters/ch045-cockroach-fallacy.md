@@ -9,7 +9,7 @@ La théorie repose sur le fait que les [hacheurs](ch101-glossary.md#hacheur) mod
 >
 > imf.org
 
-De ce fait, on ne peut pas supposer qu'une grande mine puisse exister en dehors du [contrôle](ch101-glossary.md#pouvoir) de l'État. Une réduction du regroupement nécessite une augmentation du nombre de mineurs, et plus précisément de ceux qui sont disposés et capables d'opérer [en secret](https://www.theatlantic.com/magazine/archive/2017/09/big-in-venezuela/534177/). Cela nécessite que les hacheurs endurent le coût accru associé à un regroupement réduit.
+De ce fait, on ne peut pas supposer qu'une grande mine puisse exister en dehors du [contrôle](ch101-glossary.md#pouvoir) de l'État. Une réduction du regroupement nécessite une augmentation du nombre de mineurs, et plus précisément de ceux qui sont disposés et capables d'opérer [clandestinement](https://www.theatlantic.com/magazine/archive/2017/09/big-in-venezuela/534177/). Cela nécessite que les hacheurs endurent le coût accru associé à un regroupement réduit.
 
 Pourtant, on ne peut pas s'attendre à ce que les [gens](ch101-glossary.md#personne) travaillent contre leurs propres intérêts financiers. Pour que le partage des risques augmente, les pressions financières à son encontre doivent être inversées. L'hypothèse contraire est économiquement irrationnelle.
 

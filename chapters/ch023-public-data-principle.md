@@ -1,9 +1,9 @@
 Principe des données publiques
 ==============================
 
-Il découle du [Principe du partage des risques](ch023-risk-sharing-principle.md) que la sécurité du système dépend du [minage](ch101-glossary.md#mine) et du [commerce](ch101-glossary.md#commerce) exercés de manière secrète. Une [monnaie](ch101-glossary.md#monnaie) existe en tant que [marché](ch101-glossary.md#marché) [mutuellement avantageux](ch042-balance-of-power-fallacy.md) entre les [mineurs](ch101-glossary.md#mineur) et les [commerçants](ch101-glossary.md#commerçant) pour la [confirmation](ch101-glossary.md#confirmation) des [transactions](ch101-glossary.md#transaction) au sein de [blocs](ch101-glossary.md#bloc) en [échange](ch101-glossary.md#échange) de [frais](ch101-glossary.md#frais).
+Il découle du [Principe du partage des risques](ch023-risk-sharing-principle.md) que la sécurité du système dépend du [minage](ch101-glossary.md#mine) et du [commerce](ch101-glossary.md#commerce) clandestins. Une [monnaie](ch101-glossary.md#monnaie) existe en tant que [marché](ch101-glossary.md#marché) [mutuellement avantageux](ch042-balance-of-power-fallacy.md) entre les [mineurs](ch101-glossary.md#mineur) et les [commerçants](ch101-glossary.md#commerçant) pour la [confirmation](ch101-glossary.md#confirmation) des [transactions](ch101-glossary.md#transaction) au sein de [blocs](ch101-glossary.md#bloc) en [échange](ch101-glossary.md#échange) de [frais](ch101-glossary.md#frais).
 
-Les activités secrètes nécessaires sont répertoriées par rôle :
+Les activités clandestines nécessaires sont répertoriées par rôle :
 
 **Mineur**
 
