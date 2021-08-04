@@ -12,7 +12,7 @@ Les activités secrètes nécessaires sont répertoriées par rôle :
 3. Créer et distribuer des blocs [sur lesquels les autres seront incités à s'appuyer]
 4. Recevoir le paiement des confirmations [pour financer l'exploitation minière]
 
-**Marchand**
+**Commerçant**
 
 1. Obtenir des blocs [pour valider le paiement du client]
 2. Obtenir des transactions non confirmées (facultatif) [pour anticiper les paiements et les frais]

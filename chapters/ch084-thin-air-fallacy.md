@@ -159,23 +159,23 @@ Reprenons donc le scénario où la Banque crée du crédit à réserve négative
 | **Banque**     |           |           |   1000 oz |   1000 oz |   1000 oz |   1000 oz |
 | **Emprunteur** |           |           |   1000 oz |   1000 oz |   1000 oz |   1000 oz |
 
-Lorsque l'Emprunteur échange une once (de son compte de crédit) contre une voiture, son compte de crédit est diminué de une once et celui du Marchand est augmenté de une once. Notez que l'Emprunteur doit maintenant une once à la Banque, comme prévu par le contrat de prêt.
+Lorsque l'Emprunteur échange une once (de son compte de crédit) contre une voiture, son compte de crédit est diminué de une once et celui du Commerçant est augmenté de une once. Notez que l'Emprunteur doit maintenant une once à la Banque, comme prévu par le contrat de prêt.
 
 |                | Épargne   | Monnaie   | Crédit    | Dette     | Actif     | Passif    |
 |----------------|-----------|-----------|-----------|-----------|-----------|-----------|
 | **Banque**     |           |           |   1000 oz |   1000 oz |   1000 oz |   1000 oz |
 | **Emprunteur** |     -1 oz |           |   999 oz  |   1000 oz |   999 oz  |   1000 oz |
-| **Marchand**   |      1 oz |           |   1 oz    |           |   1 oz    |           |
+| **Commerçant** |      1 oz |           |   1 oz    |           |   1 oz    |           |
 
-Tout semble aller pour le mieux jusqu'à ce que le Marchand tente de retirer de la monnaie de son compte. À ce moment-là, la banque est en défaut de paiement et le Marchand n'est pas payé. Si le compte du Marchand est dans une autre banque, le paiement échoue dès que les deux banques tentent de régler les comptes. Avec une réserve négative hypothétique, les comptes se soldent comme suit, indiquant la [disparition de la Banque](https://en.wikipedia.org/wiki/Bank_failure) (monnaie négative) :
+Tout semble aller pour le mieux jusqu'à ce que le Commerçant tente de retirer de la monnaie de son compte. À ce moment-là, la banque est en défaut de paiement et le Commerçant n'est pas payé. Si le compte du Commerçant est dans une autre banque, le paiement échoue dès que les deux banques tentent de régler les comptes. Avec une réserve négative hypothétique, les comptes se soldent comme suit, indiquant la [disparition de la Banque](https://en.wikipedia.org/wiki/Bank_failure) (monnaie négative) :
 
 |                | Épargne   | Monnaie   | Crédit    | Dette     | Actif     | Passif    |
 |----------------|-----------|-----------|-----------|-----------|-----------|-----------|
 | **Banque**     |     -1 oz |     -1 oz |   1000 oz |    999 oz |    999 oz |    999 oz |
 | **Emprunteur** |     -1 oz |           |   999 oz  |   1000 oz |    999 oz |   1000 oz |
-| **Marchand**   |      1 oz |      1 oz |           |           |    1 oz   |           |
+| **Commerçant** |      1 oz |      1 oz |           |           |    1 oz   |           |
 
-La monnaie [doit effectivement passer](https://fr.wikipedia.org/wiki/Brink%27s) du contrôle de la Banque au Marchand ou à la banque du Marchand, ce qui n'est pas possible. Un exemple plus simple est l'échec de toute tentative de l'Emprunteur de [retirer](https://fr.wikipedia.org/wiki/Guichet_automatique_bancaire) de la monnaie de son compte. La Banque peut créer autant de substituts monétaires qu'elle le souhaite, mais la réserve négative n'est qu'une [promesse en l'air](https://cnrtl.fr/definition/promesse). Dans cet exemple, la Banque a créé 1000 onces de promesses qu'elle ne peut pas tenir.
+La monnaie [doit effectivement passer](https://fr.wikipedia.org/wiki/Brink%27s) du contrôle de la Banque au Commerçant ou à la banque du Commerçant, ce qui n'est pas possible. Un exemple plus simple est l'échec de toute tentative de l'Emprunteur de [retirer](https://fr.wikipedia.org/wiki/Guichet_automatique_bancaire) de la monnaie de son compte. La Banque peut créer autant de substituts monétaires qu'elle le souhaite, mais la réserve négative n'est qu'une [promesse en l'air](https://cnrtl.fr/definition/promesse). Dans cet exemple, la Banque a créé 1000 onces de promesses qu'elle ne peut pas tenir.
 
 L'incapacité à reconnaître ces principes résulte probablement de l'absence de prise en compte du [processus de règlement](https://www.youtube.com/watch?v=IzE038REw2k). Cela découle probablement de l'incapacité à reconnaître la *dualité inhérente de la monnaie et du crédit*, la première devant toujours exister pour régler les créances impliquées par la seconde. Cela découle probablement de l'habitude de se référer à la monnaie (par exemple l'or) dans les mêmes termes que les substituts monétaires (par exemple les crédits pour l'or).
 
