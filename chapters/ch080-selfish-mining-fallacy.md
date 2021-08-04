@@ -7,7 +7,7 @@ L'expression « [minage](ch101-glossary.md#mine) [égoïste](ch101-glossary.md#�
 >
 > Ittay Eyal and Emin Gün Sirer, Majority is not Enough
 
-Cette affirmation suppose un « protocole de minage de Bitcoin prescrit » qui exclut la [retenue](ch101-glossary.md#retenue), ce qui est un [homme de paille](https://fr.wikipedia.org/wiki/%C3%89pouvantail_(rh%C3%A9torique)). Les [règles de consensus](ch101-glossary.md#règles-de-consensus) de Bitcoin sont nécessairement silencieuses sur le moment des [annonces](ch101-glossary.md#annonce).
+Cette affirmation suppose un « protocole de minage de Bitcoin prescrit » qui exclut la [rétention](ch101-glossary.md#rétention), ce qui est un [homme de paille](https://fr.wikipedia.org/wiki/%C3%89pouvantail_(rh%C3%A9torique)). Les [règles de consensus](ch101-glossary.md#règles-de-consensus) de Bitcoin sont nécessairement silencieuses sur le moment des [annonces](ch101-glossary.md#annonce).
 
 > Nous présentons une attaque avec laquelle les mineurs en connivence obtiennent un revenu supérieur à leur juste part.
 

@@ -339,7 +339,7 @@ Changement d'[Outil](#outil) qui réduit le coût du [Minage](#mine).
 #### Annonce
 Première [Communication](#communication) d'un [Bloc](#bloc) à une autre [Personne](#personne).
 
-#### Retenue
+#### Rétention
 Retard intentionnel de l'[Annonce](#annonce).
 
 #### Honnête
