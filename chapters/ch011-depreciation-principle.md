@@ -30,7 +30,7 @@ taux-intérêt - taux-croissance > 0
 taux-intérêt > taux-croissance
 ```
 
-**Toutes les biens se déprécient, ce qui implique que l'intérêt économique est toujours supérieur à la croissance économique.**
+**Tous les biens se déprécient, ce qui implique que l'intérêt économique est toujours supérieur à la croissance économique.**
 
 Le taux d'intérêt économique peut être [observé](https://www.schroders.com/en/insights/global-investor-study/investors-expect-returns-of-10.2-with-millennials-hoping-for-more) dans le temps comme le rendement du capital investi.
 
