@@ -13,7 +13,7 @@ Les dollars que l’on peut tenir dans sa main sont de la monnaie fiduciaire, to
 
 Le dollar (comme toutes les monnaies fiduciaires étatiques) diffère du bitcoin en ce qu'il dépend d'une [protection de monopole](https://www.catallaxia.org/wiki/Murray_Rothbard:L%27Homme,_l%27%C3%A9conomie_et_l%27Etat_-_chapitre_10#A._D.C3.A9finitions_du_monopole) sur la production. C'est cette interdiction de la concurrence sur le marché qui permet à l'État de limiter l'offre et par conséquent d'extraire le profit du [seigneuriage](https://fr.wikipedia.org/wiki/Seigneuriage).
 
-> Le monopole est l'octroi d'un privilège par l'État, qui réserve un certain domaine de la production à un individu ou un groupe particulier.
+> « Le monopole est l'octroi d'un privilège par l'État, qui réserve un certain domaine de la production à un individu ou un groupe particulier. »
 >
 > Murray Rothbard, L'Homme, l'Économie et l'État, 10, 3, A.
 
