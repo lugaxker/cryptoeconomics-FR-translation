@@ -1,7 +1,7 @@
 Sophisme de la blockchain
 =========================
 
-Il existe une théorie selon laquelle la [propriété](ch101-glossary.md#propriétaire) des biens peut être garantie par une conservation immuable des [créances](ch101-glossary.md#créancier), à la fois contre la perte de créances et contre le [Risque custodial](ch009-custodial-risk-principle.md).
+Il existe une théorie selon laquelle la [propriété](ch101-glossary.md#propriétaire) des biens peut être garantie par une conservation immuable des [créances](ch101-glossary.md#créancier), à la fois contre la perte de créances et contre le [Risque de garde](ch009-custodial-risk-principle.md).
 
 Étant donné que la créance n'est pas en elle-même le bien, le contrôle du bien incombe au [dépositaire](ch101-glossary.md#dépositaire) contre qui la créance est faite. Un dépositaire a la capacité de céder ou de conserver le bien et est par conséquent un [tiers de confiance](https://fr.wikipedia.org/wiki/Tiers_de_confiance). La possibilité de l'abrogation d'une créance par son dépositaire est toujours contrebalancée par la signature, cryptographique ou autre, de ce dépositaire, l'exécution de la créance étant laissée à son titulaire.
 
@@ -13,8 +13,8 @@ Comme le montre le [Principe de partage des risques](ch016-risk-sharing-principl
 
 Cependant, un dépositaire est un tiers de confiance. Les créances immuables n'atténuent en aucun cas les attaques directes contre un dépositaire, ou par celui-ci. Lorsque le dépositaire est l'[État](ch101-glossary.md#état) ou est soumis à son contrôle, la créance n'offre aucune [garantie](https://fr.wikipedia.org/wiki/Executive_Order_6102) contre le remplacement de l'autorité de l'État à la place de la propriété prouvée de toute créance. La théorie est donc également invalide en ce qui concerne la défaillance des dépositaires.
 
-Bitcoin en tant que [monnaie](ch005-money-taxonomy.md) n'est pas custodial. Ses [unités](ch101-glossary.md#unité) ne représentent pas un actif détenu par un tiers de confiance. La monnaie est échangée directement entre le client et le [commerçant](ch101-glossary.md#commerçant). En ce sens, *tous les commerçants* sont les dépositaires de la [valeur](ch101-glossary.md#valeur) du bitcoin. **Le sophisme de la blockchain découle d'une méconnaissance du modèle de sécurité de Bitcoin, attribuant la sécurité à sa technologie par opposition à la distribution de ses commerçants.** Le terme « technologie blockchain » renforce cette erreur, en laissant entendre que c'est principalement la structure de données de Bitcoin qui le sécurise.
+Bitcoin en tant que [monnaie](ch005-money-taxonomy.md) ne repose pas sur un dépositaire. Ses [unités](ch101-glossary.md#unité) ne représentent pas un actif détenu par un tiers de confiance. La monnaie est échangée directement entre le client et le [commerçant](ch101-glossary.md#commerçant). En ce sens, *tous les commerçants* sont les dépositaires de la [valeur](ch101-glossary.md#valeur) du bitcoin. **Le sophisme de la blockchain découle d'une méconnaissance du modèle de sécurité de Bitcoin, attribuant la sécurité à sa technologie par opposition à la distribution de ses commerçants.** Le terme « technologie blockchain » renforce cette erreur, en laissant entendre que c'est principalement la structure de données de Bitcoin qui le sécurise.
 
 ---
 
-[Blockchain Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Blockchain-Fallacy)
+Texte original : [Blockchain Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/Blockchain-Fallacy)

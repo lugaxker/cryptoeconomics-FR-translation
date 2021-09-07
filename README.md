@@ -22,7 +22,7 @@ Ce livre ne doit pas être lu dans l'ordre : les chapitres sont listés par thé
 | 6      | [Banque pure](chapters/ch006-pure-bank.md)                                      | [Pure Bank](https://github.com/libbitcoin/libbitcoin-system/wiki/Pure-Bank)                               |
 | 7      | [Production et consommation](chapters/ch007-production-and-consumption.md)      | [Production and Consumption](https://github.com/libbitcoin/libbitcoin-system/wiki/Production-and-Consumption) |
 | 8      | [Travail et loisir](chapters/ch008-labor-and-leisure.md)                        | [Labor and Leisure](https://github.com/libbitcoin/libbitcoin-system/wiki/Labor-and-Leisure)               |
-| 9      | [Principe de risque custodial](chapters/ch009-custodial-risk-principle.md)      | [Custodial Risk Principle](https://github.com/libbitcoin/libbitcoin-system/wiki/Custodial-Risk-Principle) |
+| 9      | [Principe de risque de garde](chapters/ch009-custodial-risk-principle.md)       | [Custodial Risk Principle](https://github.com/libbitcoin/libbitcoin-system/wiki/Custodial-Risk-Principle) |
 | 10     | [Principe des coûts dédiés](chapters/ch010-dedicated-cost-principle.md)         | [Dedicated Cost Principle](https://github.com/libbitcoin/libbitcoin-system/wiki/Dedicated-Cost-Principle) |
 | 11     | [Principe de dépréciation](chapters/ch011-depreciation-principle.md)            | [Depreciation Principle](https://github.com/libbitcoin/libbitcoin-system/wiki/Depreciation-Principle)     |
 | 12     | [Principe d'expression](chapters/ch012-expression-principle.md)                 | [Expression Principle](https://github.com/libbitcoin/libbitcoin-system/wiki/Expression-Principle)         |
