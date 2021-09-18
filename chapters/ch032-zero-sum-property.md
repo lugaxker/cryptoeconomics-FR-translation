@@ -1,7 +1,7 @@
 Propriété de somme nulle
 ========================
 
-Le [minage](ch101-glossary.md#mine) de Bitcoin est un [jeu à somme nulle](https://fr.wikipedia.org/wiki/Jeu_%C3%A0_somme_nulle). En moyenne, la [chaîne](ch101-glossary.md#chaîne) augmente toutes les 10 minutes d'un [bloc](ch101-glossary.md#bloc), dont la [récompense](ch101-glossary.md#récompense) complète est contrôlée par le [mineur](ch101-glossary.md#mineur). Les mineurs se font concurrence pour obtenir cette récompense et, en excluant les [pressions de regroupement](ch039-pooling-pressure-risk.md), chacun d'entre eux obtient en moyenne un nombre de récompenses proportionnel à son [taux de hachage](ch101-glossary.md#taux-de-hachage). La différence entre le coût d’un mineur et cette récompense est au fil du temps l’[intérêt](ch101-glossary.md#intérêt) sur le capital [investi](ch101-glossary.md#prêter) dans la mine.
+Le [minage](ch101-glossary.md#mine) de Bitcoin est un [jeu à somme nulle](https://fr.wikipedia.org/wiki/Jeu_%C3%A0_somme_nulle). En moyenne, la [chaîne](ch101-glossary.md#chaîne) augmente toutes les 10 minutes d'un [bloc](ch101-glossary.md#bloc), dont la [récompense](ch101-glossary.md#récompense) complète est contrôlée par son [mineur](ch101-glossary.md#mineur). Les mineurs se font concurrence pour obtenir cette récompense et, en excluant les [pressions de regroupement](ch039-pooling-pressure-risk.md), chacun d'entre eux obtient en moyenne un nombre de récompenses proportionnel à son [taux de hachage](ch101-glossary.md#taux-de-hachage). La différence entre le coût d’un mineur et cette récompense est au fil du temps l’[intérêt](ch101-glossary.md#intérêt) sur le capital [investi](ch101-glossary.md#prêter) dans la mine.
 
 Il existe deux aspects de la propriété de somme nulle :
 
@@ -9,7 +9,7 @@ Il existe deux aspects de la propriété de somme nulle :
 
 * L'ampleur des récompenses, caculée en [unités](ch101-glossary.md#unité) de [monnaie](ch101-glossary.md#monnaie) ou selon le [prix](ch101-glossary.md#prix) d'[échange](ch101-glossary.md#échange), n'a aucun effet sur le taux de rendement du capital. 
 
-Le minage idéalisé de Bitcoin est un [système fermé](https://fr.wikipedia.org/wiki/Syst%C3%A8me_ferm%C3%A9). Le rendement du capital varie par rapport aux autres mines, en raison des défauts protocolaires de la [prime de proximité](ch036-proximity-premium-flaw.md) et du [rabais de variance](ch037-variance-discount-flaw.md), ainsi que de l'[économie d'échelle](https://fr.wikipedia.org/wiki/%C3%89conomie_d%27%C3%A9chelle) et de l'efficacité des opérateurs. **Pourtant, étant donné que ces raisons n'affectent que le coût relatif de la puissance de hachage, seule la proportionnalité des taux de rendement est affectée, pas les rendements globaux.**
+Le minage dans le Bitcoin idéalisé est un [système fermé](https://fr.wikipedia.org/wiki/Syst%C3%A8me_ferm%C3%A9). Le rendement du capital varie par rapport aux autres mines, en raison des défauts protocolaires de la [prime de proximité](ch036-proximity-premium-flaw.md) et du [rabais de variance](ch037-variance-discount-flaw.md), ainsi que de l'[économie d'échelle](https://fr.wikipedia.org/wiki/%C3%89conomie_d%27%C3%A9chelle) et de l'efficacité des exploitants. **Pourtant, comme ces facteurs n'ont d'incidence que sur le coût relatif de la puissance de hachage, seule la proportionnalité des taux de rendement est affectée, pas les rendements globaux.**
 
 Le Bitcoin réel n'est pas un système fermé. La pression de regroupement du [marché](ch101-glossary.md#marché) et celle hostile au marché, qui sont respectivement la [variation](ch101-glossary.md#variation) et la [distorsion](ch101-glossary.md#distorsion), sont externes. Fondamentalement, Bitcoin existe pour défendre les marchés, opposant nécessairement la distorsion à la variation (ou leur absence).
 
@@ -19,7 +19,7 @@ Un subventionneur n'attend aucun rendement de son capital, sinon il / elle serai
 
 Une taxe sur le minage a pour effet de déplacer la puissance de hachage vers des mines non taxées, hors de la portée de l'autorité fiscale, car le capital recherche les rendements du marché. Si elle est appliquée généralement, cela peut donner le contrôle à l'autorité par le biais de sa propre exploitation minière. En d'autres termes, l'autorité peut supprimer la concurrence. Cela peut également être accompli grâce à une taxe de 100 %, par laquelle l'autorité [coopte](ch101-glossary.md#cooptation) les mines. L'effet est le même, le mineur taxé est mis en faillite et le produit de la taxe est appliqué au contrôle.
 
-Les conséquences du minage à somme nulle et de la pression de regroupement inhérente sont explorées dans le [Paradoxe du niveau de menace](ch033-threat-level-paradox.md).
+Les conséquences du minage à somme nulle et de sa pression de regroupement inhérente sont explorées dans le [Paradoxe du niveau de menace](ch033-threat-level-paradox.md).
 
 ---
 
