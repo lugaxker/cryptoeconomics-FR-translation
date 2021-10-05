@@ -50,7 +50,7 @@ Ce livre ne doit pas être lu dans l'ordre : les chapitres sont listés par thé
 | 34     | [Modèle économique du mineur](chapters/ch034-miner-business-model.md)           | [Miner Business Model](https://github.com/libbitcoin/libbitcoin-system/wiki/Miner-Business-Model)         |
 | 35     | [Modèle de sécurité qualitatif](chapters/ch035-qualitative-security-model.md)   | [Qualitative Security Model](https://github.com/libbitcoin/libbitcoin-system/wiki/Qualitative-Security-Model) |
 | 36     | [Défaut de la prime de proximité](chapters/ch036-proximity-premium-flaw.md)     | [Proximity Premium Flaw](https://github.com/libbitcoin/libbitcoin-system/wiki/Proximity-Premium-Flaw)     |
-| 37     | [Défaut du rabais de variance](chapters/ch037-variance-discount-flaw.md)        | [Variance Discount Flaw](https://github.com/libbitcoin/libbitcoin-system/wiki/Variance-Discount-Flaw)     |
+| 37     | [Défaut de la décote de variance](chapters/ch037-variance-discount-flaw.md)     | [Variance Discount Flaw](https://github.com/libbitcoin/libbitcoin-system/wiki/Variance-Discount-Flaw)     |
 | 38     | [Risque de centralisation](chapters/ch038-centralization-risk.md)               | [Centralization Risk](https://github.com/libbitcoin/libbitcoin-system/wiki/Centralization-Risk)           |
 | 39     | [Risque de la pression de regroupement](chapters/ch039-pooling-pressure-risk.md)| [Pooling Pressure Risk](https://github.com/libbitcoin/libbitcoin-system/wiki/Pooling-Pressure-Risk)       |
 | 40     | [Sophisme du monopole des ASIC](chapters/ch040-asic-monopoly-fallacy.md)        | [ASIC Monopoly Fallacy](https://github.com/libbitcoin/libbitcoin-system/wiki/ASIC-Monopoly-Fallacy)       |
