@@ -21,7 +21,7 @@ Le théorème est en fait basé sur l'observation *empirique* de l'évolution mo
 
 L'un des nombreux problèmes de l'économie empirique est que de nouvelles observations peuvent invalider les conclusions précédentes. Bitcoin l'a fait pour ce théorème qui se prétendait non empirique. On peut clairement observer que [Satoshi avait l'intention de créer une monnaie](https://bitcoin.org/bitcoin.pdf), pour sa première utilisation comme monnaie.
 
-L'idée est une *théorie* empirique raisonnable sur l'évolution du concept de monnaie, mais invalide en tant que *théorème* rationnel pour distinguer la monnaie de la non-monnaie. La monnaie se distingue par certains comportements manifestés par les gens. Conclure que quelque chose est une monnaie consiste à observer ces comportements, une méthode strictement empirique.
+L'idée est une *théorie* empirique raisonnable sur l'évolution du concept de monnaie, mais invalide en tant que *théorème* rationnel pour distinguer la monnaie de la non-monnaie. La monnaie se distingue par certains comportements exprimés par des gens. Conclure que quelque chose est une monnaie consiste à observer ces comportements, une méthode strictement empirique.
 
 ---
 
