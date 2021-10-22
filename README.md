@@ -5,10 +5,142 @@ Traduction française de l'ouvrage *Cryptoeconomics*, écrit par [Eric Voskuil](
 
 Ce livre ne doit pas être lu dans l'ordre : les chapitres sont listés par thématique mais se répondent les uns les autres. Chaque lecteur choisira de s'orienter en premier vers le domaine qui l'intéresse le plus : le modèle de sécurité de Bitcoin, le minage, les alternatives, l'économie, la monnaie, le système bancaire traditionnel, etc. Ce livre ne doit pas non plus être lu d'une traite : la plupart des chapitres traitent de sujets complexes faisant débat dans la communauté de Bitcoin, et nécessitent par conséquent une période de réflexion pour être appréciés à leur juste valeur.
 
-## Introductions
+Merci à [Pierre Schweitzer](https://twitter.com/schweitzer_p) pour sa releture des sujets économiques.
+
+## Contenu
+
+### Introductions
 
 * [Introduction](introduction.md)
 * [Remerciements](acknowledgements.md)
+* [Cryptoéconomie (préface)](chapters/ch001-cryptoeconomics.md)
+* [Avant-propos d'Amir Taaki](chapters/ch002-foreword-by-amir-taaki.md)
+
+### Modèle de sécurité
+
+* [Proposition de valeur](chapters/ch003-value-proposition.md)
+* [Axiome de résistance](chapters/ch004-axiom-of-resistance.md)
+* [Principe d'absence de permission](chapters/ch022-permissionless-principle.md)
+* [Erreur de Hearn](chapters/ch088-hearn-error.md)
+* [Principe de résistance aux brevets](chapters/ch015-patent-resistance-principle.md)
+* [Principe de partage des risques](chapters/ch016-risk-sharing-principle.md)
+* [Propriété de résistance à la censure](chapters/ch028-censorship-resistance-property.md)
+* [Principe des autres moyens](chapters/ch014-other-means-principle.md)
+* [Paradoxe du niveau de menace](chapters/ch033-threat-level-paradox.md)
+* [Propriété de consensus](chapters/ch029-consensus-property.md)
+* [Principe de réseau social](chapters/ch024-social-network-principle.md)
+* [Risque de centralisation](chapters/ch038-centralization-risk.md)
+* [Principe de risque de garde](chapters/ch009-custodial-risk-principle.md)
+* [Principes cryptodynamiques](chapters/ch027-cryptodynamic-principles.md)
+* [Principe des données publiques](chapters/ch023-public-data-principle.md)
+* [Modèle de sécurité qualitatif](chapters/ch035-qualitative-security-model.md)
+* [Sophisme du cafard](chapters/ch045-cockroach-fallacy.md)
+* [Sophisme de la preuve de travail](chapters/ch073-proof-of-work-fallacy.md)
+* [Sophisme de l'arbitrage juridictionnel](chapters/ch064-jurisdictional-arbitrage-fallacy.md)
+* [Sophisme du dilemme du prisonnier](chapters/ch067-prisoners-dilemma-fallacy.md)
+* [Sophisme de la clé privée](chapters/ch068-private-key-fallacy.md)
+* [Sophisme de la thésaurisation](chapters/ch058-hoarding-fallacy.md)
+
+### Étatisme
+
+* [Principe de la banque d'État](chapters/ch025-state-banking-principle.md)
+* [Objectifs de Fedcoin](chapters/ch087-fedcoin-objectives.md) 
+* [Principe de réserve](chapters/ch017-reservation-principle.md)
+* [Sophisme de la monnaie de réserve](chapters/ch077-reserve-currency-fallacy.md)
+* [Sophisme de la qualité inflationniste](chapters/ch063-inflationary-quality-fallacy.md)
+
+### Minage
+
+* [Propriété de somme nulle](chapters/ch032-zero-sum-property.md)
+* [Modèle économique du mineur](chapters/ch034-miner-business-model.md)
+* [Sophisme de la causalité](chapters/ch044-causation-fallacy.md)
+* [Sophisme du stockage d'énergie](chapters/ch052-energy-store-fallacy.md)
+* [Sophisme du halving](chapters/ch057-halving-fallacy.md)
+* [Sophisme du gaspillage d'énergie](chapters/ch053-energy-waste-fallacy.md)
+* [Sophisme de l'épuisement d'énergie](chapters/ch051-energy-exhaustion-fallacy.md)
+* [Principe des coûts dédiés](chapters/ch010-dedicated-cost-principle.md)
+* [Sophisme du minage par sous-produits](chapters/ch043-byproduct-mining-fallacy.md)
+* [Paradoxe de l'efficacité](chapters/ch094-efficiency-paradox.md)
+* [Sophisme de l'équilibre des pouvoirs](chapters/ch042-balance-of-power-fallacy.md)
+* [Sophisme du minage impuissant](chapters/ch061-impotent-mining-fallacy.md)
+* [Risque de la pression de regroupement](chapters/ch039-pooling-pressure-risk.md)
+* [Défaut de la prime de proximité](chapters/ch036-proximity-premium-flaw.md)
+* [Défaut de la remise de variance](chapters/ch037-variance-discount-flaw.md)
+* [Sophisme du minage découplé](chapters/ch048-decoupled-mining-fallacy.md)
+* [Sophisme du relais](chapters/ch075-relay-fallacy.md) 
+* [Sophisme du monopole des ASIC](chapters/ch040-asic-monopoly-fallacy.md)
+* [Sophisme de la récupération des frais](chapters/ch054-fee-recovery-fallacy.md)
+* [Sophisme des frais annexes](chapters/ch081-side-fee-fallacy.md)
+* [Sophisme du bloc vide](chapters/ch050-empty-block-fallacy.md)
+* [Sophisme du minage égoïste](chapters/ch080-selfish-mining-fallacy.md)
+* [Appellation impropre du spam](chapters/ch093-spam-misnomer.md)
+
+### Alternatives
+
+* [Principe de consolidation](chapters/ch020-consolidation-principle.md)
+* [Principe de fragmentation](chapters/ch021-fragmentation-principle.md)
+* [Sophisme de l'effet de réseau](chapters/ch066-network-effect-fallacy.md)
+* [Sophisme de la blockchain](chapters/ch071-proof-of-ownership-fallacy.md)
+* [Sophisme de la preuve de coût](chapters/ch069-proof-of-cost-fallacy.md)
+* [Faux-semblant de la preuve de mémoire](chapters/ch070-proof-of-memory-fallacy.md)
+* [Sophisme de la preuve d'enjeu](chapters/ch072-proof-of-stake-fallacy.md)
+* [Sophisme du minage hybride](chapters/ch059-hybrid-mining-fallacy.md)
+* [Étiquettes de Bitcoin](chapters/ch096-bitcoin-labels.md)
+* [Usurpation de marque](chapters/ch097-brand-arrogation.md)
+* [Définition du maximalisme](chapters/ch099-maximalism-definition.md)
+* [Définition du shitcoin](chapters/ch100-shitcoin-definition.md)
+* [Sophisme de la pureté génétique](chapters/ch055-genetic-purity-fallacy.md)
+* [Sophisme de la protection contre la rediffusion](chapters/ch076-replay-protection-fallacy.md)
+* [Sophisme de la vente à bas prix](chapters/ch049-dumping-fallacy.md)
+* [Dilemme du spéculateur de scission](chapters/ch095-split-speculator-dilemma.md)
+* [Sophisme de l'expansion du crédit par scission](chapters/ch082-split-credit-expansion-fallacy.md)
+
+### Économie
+
+* [Production et consommation](chapters/ch007-production-and-consumption.md)
+* [Travail et loisir](chapters/ch008-labor-and-leisure.md)
+* [Sophisme de la préférence temporelle](chapters/ch085-time-preference-fallacy.md)
+* [Principe d'expression](chapters/ch012-expression-principle.md)
+* [Principe de dépréciation](chapters/ch011-depreciation-principle.md) 
+* [Relation d'épargne](chapters/ch091-savings-relation.md)
+* [Consommation spéculative](chapters/ch092-speculative-consumption.md)
+* [Banque pure](chapters/ch006-pure-bank.md)
+* [Principe d'inflation](chapters/ch013-inflation-principle.md)
+* [Principe d'inflation subjective](chapters/ch019-subjective-inflation-principle.md)
+* [Sophisme de l'expansion du crédit](chapters/ch046-credit-expansion-fallacy.md)
+* [Sophisme de la réserve intégrale](chapters/ch056-full-reserve-fallacy.md)
+
+### Monnaie
+
+* [Taxonomie des monnaies](chapters/ch005-money-taxonomy.md)
+* [Sophisme de la régression](chapters/ch074-regression-fallacy.md)
+* [Tautologie du collectionnable](chapters/ch089-collectible-tautology.md)
+* [Définition de la réserve](chapters/ch098-reserve-definition.md)
+* [Sophisme de la boucle de dettes](chapters/ch047-debt-loop-fallacy.md)
+* [Sophisme de la création ex nihilo](chapters/ch084-thin-air-fallacy.md)
+* [Sophisme du rendement sans risque](chapters/ch078-risk-free-return-fallacy.md)
+* [Sophisme de la monnaie imprêtable](chapters/ch086-unlendable-money-fallacy.md)
+* [Sophisme de la monnaie idéale](chapters/ch060-ideal-money-fallacy.md)
+* [Sophisme de l'inflation](chapters/ch062-inflation-fallacy.md) 
+
+### Prix
+
+* [Estimation du prix](chapters/ch090-price-estimation.md)
+* [Propriété de stabilité](chapters/ch030-stability-property.md)
+* [Sophisme lunaire](chapters/ch065-lunar-fallacy.md)
+* [Sophisme de la rareté](chapters/ch079-scarcity-fallacy.md)
+* [Sophisme du ratio stock-flux](chapters/ch083-stock-to-flow-fallacy.md)
+
+### Scalabilité
+
+* [Principe de scalabilité](chapters/ch018-scalability-principle.md)
+* [Propriété du seuil d'utilité](chapters/ch031-utility-threshold-property.md)
+* [Principe de substitution](chapters/ch026-substitution-principle.md)
+* [Sophisme de l'auditabilité](chapters/ch041-auditability-fallacy.md)
+
+### Appendice
+
+* [Lexique](chapters/ch101-glossary.md)
 
 ## Index
 
