@@ -1,4 +1,4 @@
-Défaut de la décote de variance
+Défaut de la remise de variance
 ===============================
 
 La [variance](ch101-glossary.md#variance) est la fréquence variable d'obtention d'une [récompense](ch101-glossary.md#récompense). La variance est inhérente à la nature probabiliste du minage et ne peut être éliminée.

@@ -4,7 +4,7 @@ Risque de la pression de regroupement
 La pression de [regroupement](ch101-glossary.md#regroupement) est l'ensemble des incitations économiques favorisant l'[agrégation](ch101-glossary.md#agrégation) du [taux de hachage](ch101-glossary.md#taux-de-hachage), en particulier :
 
 * La [prime de proximité](ch036-proximity-premium-flaw.md)
-* La [décote de variance](ch037-variance-discount-flaw.md)
+* La [remise de variance](ch037-variance-discount-flaw.md)
 * La [variation du marché](ch101-glossary.md#variation)
 * La [distorsion du marché](ch101-glossary.md#distorsion)
 * L'[économie d'échelle](https://fr.wikipedia.org/wiki/%C3%89conomie_d%27%C3%A9chelle)
