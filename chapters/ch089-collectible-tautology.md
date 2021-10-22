@@ -5,15 +5,15 @@ En essayant d'appliquer le [théorème de régression](ch074-regression-fallacy.
 
 Cela semble cohérent avec le [théorème](https://mises.org/library/human-action-0/html/pp/778), qui soutient que toute [monnaie](ch005-money-taxonomy.md) *doit* provenir d'une [marchandise](https://fr.wikipedia.org/wiki/Marchandise) qui obtient une valeur dans le troc, puis une valeur d'[échange](ch101-glossary.md#échange) monétaire. Pourtant, si la valeur de la marchandise peut provenir d'un potentiel en tant que monnaie, le théorème est [tautologique](https://fr.wikipedia.org/wiki/Tautologie), n'impliquant rien d'autre qu'une monnaie est une monnaie.
 
-> Or, le théorème de régression vise à interpréter l'apparition d'une demande monétaire pour un bien qui avait antérieurement été demandé exclusivement à des fins industrielles, comme influencée par la valeur d'échange qui lui était assignée à ce moment-là en raison de ses seuls usages non monétaires.
+> « Or, le théorème de régression vise à interpréter l'apparition d'une demande monétaire pour un bien qui avait antérieurement été demandé exclusivement à des fins industrielles, comme influencée par la valeur d'échange qui lui était assignée à ce moment-là en raison de ses seuls usages non monétaires. »
 >
 > Ludwig von Mises, L'action humaine, partie 4, chapitre XVII, section 4.
 
 Le postulat tire parti de l'ambiguïté familière du mot « marchandise », malgré la référence explicite à la valeur d'usage « industrielle » dans le théorème lui-même. **Si tout peut être une marchandise, alors le théorème de régression impliquerait, contrairement à son affirmation, que tout peut être de une monnaie.**
 
-> En économie, une marchandise est un bien ou un service économique qui a une fongibilité totale ou substantielle, c'est-à-dire que le marché traite les exemplaires du bien comme équivalents ou presque sans se soucier de qui les a produits. [...]
+> « En économie, une marchandise est un bien ou un service économique qui a une fongibilité totale ou substantielle, c'est-à-dire que le marché traite les exemplaires du bien comme équivalents ou presque sans se soucier de qui les a produits. [...]
 >
-> La plupart des marchandises sont des matières premières, des ressources de base, des produits agricoles ou miniers, tels que le minerai de fer, le sucre ou des céréales comme le riz et le blé. Les marchandises peuvent également être des produits non spécialisés fabriqués en série tels que les produits chimiques et la mémoire informatique.
+> La plupart des marchandises sont des matières premières, des ressources de base, des produits agricoles ou miniers, tels que le minerai de fer, le sucre ou des céréales comme le riz et le blé. Les marchandises peuvent également être des produits non spécialisés fabriqués en série tels que les produits chimiques et la mémoire informatique. »
 >
 > Wikipédia : [Commodity](https://en.wikipedia.org/wiki/Commodity)
 

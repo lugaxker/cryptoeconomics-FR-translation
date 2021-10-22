@@ -5,23 +5,23 @@ Il existe une théorie selon laquelle la banque à [réserves fractionnaires](ht
 
 Cette théorie s'articule autour de la définition du mot « banque ». [Rothbard](https://fr.wikipedia.org/wiki/Murray_Rothbard) présente l'argument ci-dessus dans [*L'Homme, l'Économie et l'État*](https://fr.wikipedia.org/wiki/L%27Homme,_l%27%C3%89conomie_et_l%27%C3%89tat), mais limite explicitement sa définition d'une [banque](https://mises.org/library/man-economy-and-state-power-and-market/html/pp/1086) à celle d'un « entrepôt » de monnaie :
 
-> Lorsqu'un homme dépose des biens dans un entrepôt, un reçu lui est remis et il paie au propriétaire de l'entrepôt une certaine somme pour le service de stockage. Il reste propriétaire du bien ; le propriétaire de l'entrepôt ne fait que le garder pour lui. Lorsque le reçu de l'entrepôt est présenté, le propriétaire est tenu de restituer le bien déposé. Un entrepôt spécialisé dans la monnaie est appelé « banque ».
+> « Lorsqu'un homme dépose des biens dans un entrepôt, un reçu lui est remis et il paie au propriétaire de l'entrepôt une certaine somme pour le service de stockage. Il reste propriétaire du bien ; le propriétaire de l'entrepôt ne fait que le garder pour lui. Lorsque le reçu de l'entrepôt est présenté, le propriétaire est tenu de restituer le bien déposé. Un entrepôt spécialisé dans la monnaie est appelé "banque". »
 >
 > Murray Rothbard, L'Homme, l'Économie et l'État, 11, 6, B.
 
 Les banques offrent effectivement ce service d'entreposage, sous le nom de [coffre-fort](https://fr.wikipedia.org/wiki/Coffre-fort). Mais les banques ne sont pas définies de manière aussi étroite. Elles proposent aussi généralement des comptes rémunérés, tels que les [dépôts d'épargne](https://fr.wikipedia.org/wiki/Types_de_d%C3%A9p%C3%B4ts_bancaires#Compte_d'%C3%A9pargne) et les [dépôts à terme](https://fr.wikipedia.org/wiki/Types_de_d%C3%A9p%C3%B4ts_bancaires#D%C3%A9p%C3%B4ts_%C3%A0_terme_et_plans_d'%C3%A9pargne). Rothbard utilise l'attente d'un [intérêt](ch101-glossary.md#intérêt) pour différencier l'entreposage de monnaie du [prêt](ch101-glossary.md#prêter) de monnaie :
 
-> Le bien de quelqu'un d'autre est pris par l'entrepôt et utilisé à des fins lucratives. Il n'est pas emprunté, puisqu'aucun intérêt n'est payé pour l'utilisation de la monnaie.
+> « Le bien de quelqu'un d'autre est pris par l'entrepôt et utilisé à des fins lucratives. Il n'est pas emprunté, puisqu'aucun intérêt n'est payé pour l'utilisation de la monnaie. »
 
 En d'autres termes, son exigence de réserve intégrale ne s'applique pas aux comptes rémunérés. Cependant, il oublie de préciser que les intérêts perçus sur la monnaie représentée par les dépôts peuvent légitimement compenser les frais de compte par ailleurs nécessaires.
 
 Les banques proposent souvent des [dépôts à vue](https://fr.wikipedia.org/wiki/Compte_courant) (des comptes chèques par exemple) sans intérêt. Le fait d'avoir un rendement positif sur le compte ne constitue pas la démarcation entre l'entreposage et le prêt, même selon sa propre définition. Lorsqu'un compte bancaire rapporte 5 % avec un taux de frais de 6 %, il n'y a aucune différence avec un rendement de 0 % avec un taux de frais de 1 %. La distinction réside dans l'accord contractuel entre le déposant et la banque.
 
-> Puisqu'il est pratique de transférer du papier dans l'échange plutôt que de transporter de l'or, les entrepôts de monnaie (ou les banques) qui suscitent la confiance du public constateront que peu de gens encaissent leurs certificats.
+> « Puisqu'il est pratique de transférer du papier dans l'échange plutôt que de transporter de l'or, les entrepôts de monnaie (ou les banques) qui suscitent la confiance du public constateront que peu de gens encaissent leurs certificats. »
 
 Les certificats monétaires représentant de la monnaie entreposée contituent une [monnaie représentative](https://en.wikipedia.org/wiki/Representative_money), une forme de [substitut monétaire](https://www.wikiberal.org/wiki/Support_mon%C3%A9taire). Aux États-Unis, les [banques d'État](https://fr.wikipedia.org/wiki/Banque_publique) et autres émettaient autrefois de tels certificats. Ceux-ci ont fini par être remplacés par les [certificats or](https://fr.wikipedia.org/wiki/Gold_certificate) et les [certificats argent](https://fr.wikipedia.org/wiki/Silver_Certificate) émis par la [banque centrale](https://fr.wikipedia.org/wiki/Banque_centrale).
 
-> Les banques seront particulièrement sujettes à la tentation de commettre des fraudes et d'émettre des pseudo-certificats monétaires qui circuleront parallèlement à des certificats monétaires authentiques en tant que substituts monétaires acceptables. Le fait que la monnaie soit un bien homogène signifie que les gens ne se soucient pas de savoir si la monnaie qu'ils encaissent est la monnaie qu'ils ont originellement déposée. Cela rend les fraudes bancaires plus faciles à réaliser.
+> « Les banques seront particulièrement sujettes à la tentation de commettre des fraudes et d'émettre des pseudo-certificats monétaires qui circuleront parallèlement à des certificats monétaires authentiques en tant que substituts monétaires acceptables. Le fait que la monnaie soit un bien homogène signifie que les gens ne se soucient pas de savoir si la monnaie qu'ils encaissent est la monnaie qu'ils ont originellement déposée. Cela rend les fraudes bancaires plus faciles à réaliser. »
 
 À supposer que les certificats des banques centrales ont jamais représenté la totalité de la monnaie entreposée (par exemple l'or et l'argent), ils ont fini par suivre le cours décrit par Rothbard.
 
@@ -29,13 +29,13 @@ Lorsque la somme des certificats est devenue trop importante pour rester convert
 
 **La théorie ne limite pas sa condamnation des banques à la fraude dans l'entreposage (dépôt en coffre-fort), elle s'étend aux prêts honnêtes des dépôts bancaires en général, y compris aux dépôts à vue, aux dépôts d'épargne et souvent aux dépôts à terme.** De ce fait, la théorie est invalide. De plus, elle implique une condamnation du prêt et de l'investissement en général. Et comme Rothbard lui-même le [souligne](https://mises.org/library/man-economy-and-state-power-and-market/html/p/996), le prêt est indistinct de l'investissement :
 
-> Que le capital épargné soit canalisé vers des investissements via des actions ou via des prêts n'a aucune importance. La seule différence réside dans les aspects juridiques. De fait, même la différence juridique entre le créancier et le propriétaire est négligeable.
+> « Que le capital épargné soit canalisé vers des investissements via des actions ou via des prêts n'a aucune importance. La seule différence réside dans les aspects juridiques. De fait, même la différence juridique entre le créancier et le propriétaire est négligeable. »
 >
 > Murray Rothbard, L'Homme, l'Économie et l'État, 6, 9.
 
 Tous les prêts proviennent du capital accumulé d'une personne, qu'il soit déposé dans une banque ou autre. Il n'y a pas d'autre source de prêt que l'épargne déposée. Il existe une [théorie apparentée](https://en.wikipedia.org/wiki/Jes%C3%BAs_Huerta_de_Soto#Austrian_business_cycle_and_full_reserve_banking) selon laquelle les gens sont trop stupides pour comprendre les conditions contractuelles d'un dépôt.
 
-> Huerta de Soto envisage la possibilité « qu'un certain groupe de clients de la banque (ou, pour les besoins de l'argumentation, tous) concluent un contrat de dépôt en sachant et en acceptant pleinement que les banques investissent (ou prêtent, etc.) une grande partie de la monnaie qu'ils déposent ». Dans ce cas, affirme Huerta de Soto, « l'autorisation supposée des déposants n'a pas de validité juridique » car peu de profanes comprennent l'instabilité inhérente de la banque à réserves fractionnaires : ils croient que leur dépôt est garanti, ce que Huerta de Soto considère comme une illusion (quasi universellement répandue).
+> « Huerta de Soto envisage la possibilité "qu'un certain groupe de clients de la banque (ou, pour les besoins de l'argumentation, tous) concluent un contrat de dépôt en sachant et en acceptant pleinement que les banques investissent (ou prêtent, etc.) une grande partie de la monnaie qu'ils déposent". Dans ce cas, affirme Huerta de Soto, "l'autorisation supposée des déposants n'a pas de validité juridique" car peu de profanes comprennent l'instabilité inhérente de la banque à réserves fractionnaires : ils croient que leur dépôt est garanti, ce que Huerta de Soto considère comme une illusion (quasi universellement répandue). »
 > 
 > Wikipedia, Jesús Huerta de Soto
 
@@ -43,7 +43,7 @@ Pourtant, ceux qui avancent cet argument se croient capables de le comprendre. D
 
 Une théorie apparentée veut que le fait que les substituts monétaires s'échangent à la même valeur que la monnaie représente une fraude. Dans la mesure où les substituts monétaires (par exemple les comptes de dépôt) sont [assurés par le contribuable](https://www.fdic.gov/), la décote par rapport à la monnaie qu'ils remplacent est plus faible. Cependant, même si l'assurance est totale, c'est une erreur de supposer que ces substituts s'échangent au même niveau que la monnaie. Les substituts monétaires se présentent sous la forme de comptes de dépôt et sont généralement négociés par voie électronique. Le [règlement](https://fr.wikipedia.org/wiki/%C3%89change,_compensation_et_r%C3%A8glement) des comptes monétaires entraîne des coûts en matière de temps, d'argent et de risque. La fraude par carte de crédit et par chèque est très [répandue](https://en.wikipedia.org/wiki/Credit_card_fraud), et ce coût est répercuté sur tous les frais de transaction et de compte. Le règlement peut prendre des [jours](https://fr.wikipedia.org/wiki/Ch%C3%A8que#D%C3%A9lai_d'encaissement), voire des [mois](https://www.economie.gouv.fr/cedef/chargeback-retrofacturation). Les commerçants [escomptent nécessairement les substituts monétaires](https://en.wikipedia.org/wiki/Merchant_account#Discount_rates) par rapport à la monnaie. Même le transfert électronique direct entre les banques engendre un [coût de règlement important](https://en.wikipedia.org/wiki/Fedwire) :
 
-> Les banques doivent payer des frais de transfert bruts de 0,82 $ pour chaque transaction, mais il existe un barème de réduction à trois niveaux, ce qui fait que les frais de transaction réels coûtent entre 0,034 $ et 0,82 $ par transaction, selon le volume de la transaction.
+> « Les banques doivent payer des frais de transfert bruts de 0,82 $ pour chaque transaction, mais il existe un barème de réduction à trois niveaux, ce qui fait que les frais de transaction réels coûtent entre 0,034 $ et 0,82 $ par transaction, selon le volume de la transaction. »
 >
 > Wikipedia, Fedwire
 
@@ -55,7 +55,7 @@ Une théorie apparentée affirme que les banques ne peuvent légitimement prête
 
 Une théorie apparentée affirme que les banques ne peuvent légitimement prêter que par rapport aux dépôts à terme. Il n'y a aucune distinction économique entre un dépôt à terme et un dépôt à vue, car tous deux impliquent une réserve fractionnaire. La nature du dépôt, même le dépôt sécurisé, implique que le temps et d'autres contraintes (par exemple l'identification) sont nécessaires pour le retrait. Même les comptes chèques et les comptes d'épargne assurés par le contribuable sont [effectivement des dépôts à terme](https://www.chase.com/content/dam/chasecom/en/checking/documents/deposit_account_agreement.pdf) :
 
-> Pour tous les comptes d'épargne et tous les comptes chèques personnels rémunérés, nous nous réservons le droit d'exiger un préavis de retrait écrit de sept jours.
+> « Pour tous les comptes d'épargne et tous les comptes chèques personnels rémunérés, nous nous réservons le droit d'exiger un préavis de retrait écrit de sept jours. »
 >
 > Chase Bank, Deposit Agreement
 

@@ -7,7 +7,7 @@ L'énergie humaine peut être dépensée [en loisir ou en travail](https://mises
 
 L'épargne est par conséquent la seule source de production et de loisir. La question se pose alors de savoir à quoi s'applique l'épargne. Même dans le cas de la nourriture digérée, la question reste posée. Le capital appliqué à la production est échangé contre la propriété de ce qui finit par être produit. Cette propriété d'un bien futur est appelée « épargne-investissement » (ou simplement « investissement »). Le capital qui n'est pas appliqué à la production est appelé « épargne-réserve » (ou simplement « réserve »). L'épargne est la somme du capital thésaurisé *et* investi d'une personne. Le processus d'application du capital thésaurisé à l'investissement ou au loisir est appelé « [déthésaurisation](https://mises.org/library/man-economy-and-state-power-and-market/html/p/992) ».
 
-> Après avoir vendu ses services, il acquiert son revenu monétaire de la production, augmentant ainsi son stock de monnaie. Il répartit ensuite ce revenu entre la consommation et l'épargne-investissement, et nous supposons qu'il n'y a pas de thésaurisation ou de déthésaurisation.
+> « Après avoir vendu ses services, il acquiert son revenu monétaire de la production, augmentant ainsi son stock de monnaie. Il répartit ensuite ce revenu entre la consommation et l'épargne-investissement, et nous supposons qu'il n'y a pas de thésaurisation ou de déthésaurisation. »
 >
 > Murray Rothbard, L'Homme, l'Économie et l'État, 6, 5.
 

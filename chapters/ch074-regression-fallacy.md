@@ -3,7 +3,7 @@ Sophisme de la régression
 
 Le [théorème de régression](https://wiki.mises.org/wiki/Regression_theorem) repose sur l'hypothèse que les premières [personnes](ch101-glossary.md#personne) à [valoriser](ch101-glossary.md#valeur) quelque chose comme une [monnaie](ch005-money-taxonomy.md) doivent le faire en se fondant sur le souvenir de sa [valeur d'usage](https://fr.wikipedia.org/wiki/Valeur_d%27usage) antérieure, cette chose finissant par obtenir une [utilité](ch101-glossary.md#utilité) dans le [troc](https://fr.wikipedia.org/wiki/Troc) et [enfin une valeur monétaire](https://mises.org/library/human-action-0/html/pp/778).
 
-> Nul bien ne peut être employé comme instrument d’échange si, au moment où l’on a commencé à s’en servir comme tel, il n’avait pas une valeur d’échange en raison d’autres emplois. 
+> « Nul bien ne peut être employé comme instrument d’échange si, au moment où l’on a commencé à s’en servir comme tel, il n’avait pas une valeur d’échange en raison d’autres emplois. »
 >
 > Ludwig von Mises, L'action humaine, partie 4, chapitre XVII, section 4.
 
@@ -17,7 +17,7 @@ Le théorème contredit la [théorie subjective de la valeur](https://fr.wikiped
 
 Le théorème est en fait basé sur l'observation *empirique* de l'évolution monétaire. Pourtant, la [théorie économique rationnelle](https://en.wikipedia.org/wiki/Catallactics) sur laquelle il est basé, et le théorème lui-même, rejettent explicitement l'empirisme.
 
-> Toutes ces affirmations impliquées dans le théorème de régression sont énoncées apodictiquement conformément à la nature aprioriste de la praxéologie. Cela *doit* se produire ainsi. Personne ne peut ni ne pourra parvenir à construire un cas hypothétique dans lequel les choses se produiraient différemment.
+> « Toutes ces affirmations impliquées dans le théorème de régression sont énoncées apodictiquement conformément à la nature aprioriste de la praxéologie. Cela *doit* se produire ainsi. Personne ne peut ni ne pourra parvenir à construire un cas hypothétique dans lequel les choses se produiraient différemment. »
 
 L'un des nombreux problèmes de l'économie empirique est que de nouvelles observations peuvent invalider les conclusions précédentes. Bitcoin l'a fait pour ce théorème qui se prétendait non empirique. On peut clairement observer que [Satoshi avait l'intention de créer une monnaie](https://bitcoin.org/bitcoin.pdf), pour sa première utilisation comme monnaie.
 

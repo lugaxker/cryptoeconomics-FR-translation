@@ -7,7 +7,7 @@ Cependant, cette protection a un coût en termes de [latence](ch101-glossary.md#
 
 Une façon d'améliorer la diffusion est d'*optimiser* le réseau pair-à-pair. L'autre consiste à rejoindre un réseau distinct, appelé [relais](ch101-glossary.md#relais), qui présente une latence plus faible en raison de l'élimination des protections contre le déni de service, par [exemple](http://bitcoinfibre.org) :
 
-> Le format du message cmpctblock a été conçu pour qu'il s'intègre parfaitement dans un mécanisme de relais basé sur UDP-FEC. La seule différence est que nous l'envoyons par UDP avec une FEC. [...] De cette façon, les sauts supplémentaires n'introduisent pas plus de latence. Malheureusement, en raison de la nature de notre encodage de la FEC, nous ne pouvons pas savoir si les paquets individuels font partie d'un bloc légitime, ou de n'importe quel bloc, et nous ne permettons donc cette optimisation qu'entre les nœuds gérés par le même groupe.
+> « Le format du message cmpctblock a été conçu pour qu'il s'intègre parfaitement dans un mécanisme de relais basé sur UDP-FEC. La seule différence est que nous l'envoyons par UDP avec une FEC. [...] De cette façon, les sauts supplémentaires n'introduisent pas plus de latence. Malheureusement, en raison de la nature de notre encodage de la FEC, nous ne pouvons pas savoir si les paquets individuels font partie d'un bloc légitime, ou de n'importe quel bloc, et nous ne permettons donc cette optimisation qu'entre les nœuds gérés par le même groupe. »
 >
 > bitcoinfibre.org
 

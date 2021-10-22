@@ -5,7 +5,7 @@ Il existe une théorie selon laquelle l'[agrégation](ch101-glossary.md#agrégat
 
 La théorie repose sur le fait que les [hacheurs](ch101-glossary.md#hacheur) modifient leur allégeance aux mineurs. Ceci est basé sur le [Sophisme de l'équilibre des pouvoirs](ch042-balance-of-power-fallacy.md), qui modélise à tort les mineurs comme une menace. Un transfert de [puissance de hachage](ch101-glossary.md#puissance-de-hachage) d'une [mine](ch101-glossary.md#mine) à une autre ne réduit pas le [regroupement](ch101-glossary.md#regroupement) ni le [risque](ch039-pooling-pressure-risk.md) qui y est associé. Le risque est que les [États](ch101-glossary.md#état) [cooptent](ch101-glossary.md#cooptation) de grandes quantités de puissance de hachage, ce qui réduirait considérablement le coût d'une [attaque](ch101-glossary.md#attaque). C'est une erreur de supposer que les États ne [collaborent](https://www.imf.org/en/About) pas pour défendre leur [seigneuriage](https://fr.wikipedia.org/wiki/Seigneuriage).
 
-> Le Fonds monétaire international (FMI) est une organisation de 190 pays, œuvrant pour promouvoir la coopération monétaire internationale...
+> « Le Fonds monétaire international (FMI) est une organisation de 190 pays, œuvrant pour promouvoir la coopération monétaire internationale... »
 >
 > imf.org
 

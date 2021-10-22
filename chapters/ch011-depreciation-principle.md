@@ -34,13 +34,13 @@ taux-intérêt > taux-croissance
 
 Le taux d'intérêt économique peut être [observé](https://www.schroders.com/en/insights/global-investor-study/investors-expect-returns-of-10.2-with-millennials-hoping-for-more) dans le temps comme le rendement du capital investi.
 
-> Les investisseurs s'attendent à des rendements de 10,2 % et la génération Y espère davantage.
+> « Les investisseurs s'attendent à des rendements de 10,2 % et la génération Y espère davantage. »
 >
 > Shroders, Global Investor Study
 
 Le taux de dépréciation peut être dérivé du taux d'intérêt et du [taux de croissance du capital](https://www.worldbank.org/en/publication/global-economic-prospects) observés.
 
-> La croissance mondiale de 2019 a été revue à la baisse à 2,6 %, [...] reflétant un commerce et des investissements internationaux plus faibles que prévus en début d'année. La croissance devrait progressivement remonter à 2,8 % d'ici 2021.
+> « La croissance mondiale de 2019 a été revue à la baisse à 2,6 %, [...] reflétant un commerce et des investissements internationaux plus faibles que prévus en début d'année. La croissance devrait progressivement remonter à 2,8 % d'ici 2021. »
 >
 > Banque Mondiale, Global Economic Prospects
 
@@ -53,7 +53,7 @@ taux-dépréciation = 10,2 % - 2,6 % = 7,6 %
 
 Ce résultat est conforme aux estimations de la dépréciation du capital. Alors que les bâtiments et les machines ont des taux de dépréciation faibles, les véhicules, le matériel de bureau et les stocks alimentaires (par exemple) ont un taux beaucoup [plus élevé](https://www.oecd.org/sdd/productivity-stats/35409605.pdf).
 
-> Pour la période 1960 - 2000, les trois estimations pour les machines et équipements sont de 5,61 %, 5,42 % et 5,68 %. Pour les bâtiments, les estimations sont de 3,36 %, 3,43 % et 3,43 %.
+> « Pour la période 1960 - 2000, les trois estimations pour les machines et équipements sont de 5,61 %, 5,42 % et 5,68 %. Pour les bâtiments, les estimations sont de 3,36 %, 3,43 % et 3,43 %. »
 > 
 > OCDE, Estimating Depreciation Rates
 

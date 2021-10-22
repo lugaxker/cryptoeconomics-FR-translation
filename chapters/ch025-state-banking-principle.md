@@ -35,14 +35,14 @@ Le montant total de dollars étasuniens en [circulation](https://en.wikipedia.or
 
 Lorsque les emprunts des banques membres sont réduits, par exemple par la Fed qui augmente ses taux d'intérêt, les obligations de la Fed peuvent être détruites avec l'effet inverse de leur impression. Si la Fed a [contracté M0](https://tradingeconomics.com/united-states/money-supply-m0) de près de 20 % en quatre ans depuis son pic en 2015, cela a un coût pour les recettes fiscales. La Fed se fait passer pour une organisation à but non lucratif, remettant chaque année [au Trésor des États-Unis](https://www.stlouisfed.org/on-the-economy/2018/september/fed-payments-treasury-rising-interest-rates) le revenu net de ses prêts.
 
-> La Réserve fédérale a augmenté l'objectif du taux des fonds fédéraux à sept reprises entre décembre 2015 et juin 2018. Cela a des conséquences sur la trajectoire du déficit et de la dette fédérale de deux manières :
+> « La Réserve fédérale a augmenté l'objectif du taux des fonds fédéraux à sept reprises entre décembre 2015 et juin 2018. Cela a des conséquences sur la trajectoire du déficit et de la dette fédérale de deux manières :
 > 
 > * Directement par les paiements d'intérêts nets
 > * Indirectement par le biais des remises annuelles de la Fed au département du Trésor des États-Unis
 >
 > Les versements annuels au Trésor sont essentiellement les recettes restantes de la Fed après les dépenses de fonctionnement. Selon la loi, ce revenu supplémentaire doit être reversé au Trésor.
 >
-> Les recettes envoyées au Trésor ont atteint un pic de 97,7 milliards de dollars en 2015 et n'ont cessé de baisser depuis. En janvier, la Fed a envoyé 80,2 milliards de dollars au Trésor.
+> Les recettes envoyées au Trésor ont atteint un pic de 97,7 milliards de dollars en 2015 et n'ont cessé de baisser depuis. En janvier, la Fed a envoyé 80,2 milliards de dollars au Trésor. »
 > 
 > Banque fédérale de réserve de St. Louis
 

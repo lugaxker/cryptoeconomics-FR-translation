@@ -66,7 +66,7 @@ Si ces relations sont toutes valables, alors le dollar individuel est préféré
 
 La relation or-bitcoin suppose que les coûts de [compensation](https://fr.wikipedia.org/wiki/Compensation_(finance)), liés au transport de l'or et à la [confirmation](ch101-glossary.md#confirmation) du bitcoin, sont [négligeables](https://www.gold.org/about-gold/history-of-gold/the-gold-standard) dans le contexte d'un règlement international. La compensation nécessite un mouvement périodique des seuls déséquilibres de paiement entre les États.
 
-> ... toute correction d'un déséquilibre économique serait accélérée et il ne serait normalement pas nécessaire d'attendre le moment où des quantités substantielles d'or aient besoin d'être transportées d'un pays à l'autre.
+> « ... toute correction d'un déséquilibre économique serait accélérée et il ne serait normalement pas nécessaire d'attendre le moment où des quantités substantielles d'or aient besoin d'être transportées d'un pays à l'autre. »
 >
 > *gold.org*
 

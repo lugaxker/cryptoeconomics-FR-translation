@@ -7,7 +7,7 @@ La conséquence espérée est la possibilité de se séparer de certaines monnai
 
 La monnaie idéale est une monnaie étatique avec un taux d'inflation nul :
 
-> ... il n'y a pas de taux d'inflation idéal qui devrait être sélectionné et choisi comme cible, mais le concept idéal serait plutôt et nécessairement celui d'un taux zéro de ce qu'on appelle l'inflation.
+> « ... il n'y a pas de taux d'inflation idéal qui devrait être sélectionné et choisi comme cible, mais le concept idéal serait plutôt et nécessairement celui d'un taux zéro de ce qu'on appelle l'inflation. »
 >
 > John F.Nash Jr., Ideal Money and Asymptotically Ideal Money
 
@@ -17,7 +17,7 @@ Si nous supposons également que les gens ne sont pas soumis aux [lois imposant 
 
 Reconsidérons maintenant les hypothèses. La monnaie fiat exige l’existence de lois imposant le cours légal et, de ce fait, la [loi de Gresham](https://fr.wikipedia.org/wiki/Loi_de_Gresham) (formulée pour la première fois par [Nicole Oresme](https://fr.wikipedia.org/wiki/Nicole_Oresme) dans *De origine, natura, jure et mutationibus monetarum* vers 1360) régit toujours la monnaie fiat :
 
-> Ces exemples montrent que, en l’absence de lois efficaces ayant cours légal, la loi de Gresham fonctionne dans le sens inverse. Si on leur donne le choix de la monnaie à accepter, les gens feront des transactions avec de la monnaie qu'ils croient être de la plus grande valeur à long terme. Cependant, s'ils n'ont pas le choix et sont tenus d'accepter toutes les monnaies, bonnes et mauvaises, ils auront tendance à garder la monnaie de plus grande valeur perçue en leur possession, et à transmettre la mauvaise monnaie à quelqu'un d'autre. En bref, en l'absence de lois imposant le cours légal, le vendeur n'acceptera rien d'autre que la monnaie d'une valeur certaine (bonne monnaie), tandis que l'existence de lois imposant le cours légal amènera l'acheteur à n'offrir que de la monnaie avec la valeur la plus basse (mauvaise monnaie) car le créancier doit accepter cette monnaie à sa valeur nominale.
+> « Ces exemples montrent que, en l’absence de lois efficaces ayant cours légal, la loi de Gresham fonctionne dans le sens inverse. Si on leur donne le choix de la monnaie à accepter, les gens feront des transactions avec de la monnaie qu'ils croient être de la plus grande valeur à long terme. Cependant, s'ils n'ont pas le choix et sont tenus d'accepter toutes les monnaies, bonnes et mauvaises, ils auront tendance à garder la monnaie de plus grande valeur perçue en leur possession, et à transmettre la mauvaise monnaie à quelqu'un d'autre. En bref, en l'absence de lois imposant le cours légal, le vendeur n'acceptera rien d'autre que la monnaie d'une valeur certaine (bonne monnaie), tandis que l'existence de lois imposant le cours légal amènera l'acheteur à n'offrir que de la monnaie avec la valeur la plus basse (mauvaise monnaie) car le créancier doit accepter cette monnaie à sa valeur nominale. »
 >
 > Wikipedia, [Gresham's Law](https://en.wikipedia.org/wiki/Gresham%27s_law)
 
