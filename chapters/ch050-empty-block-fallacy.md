@@ -3,7 +3,7 @@ Sophisme du bloc vide
 
 Il existe une théorie selon laquelle le [minage](ch101-glossary.md#mine) de [blocs](ch101-glossary.md#bloc) vides constitue une [attaque](ch101-glossary.md#attaque). La théorie ne requiert pas que les blocs soient minés sur une [branche](ch101-glossary.md#branche) [faible](ch101-glossary.md#faible) dans le but de permettre une [double dépense](ch101-glossary.md#double-dépense), ni ne spécifie quelle [personne](ch101-glossary.md#personne) est attaquée.
 
-Considérerons ce qui suit :
+Considérons ce qui suit :
 
 * Le terme « attaque » sous-entend le vol. Le [livre blanc de Bitcoin](https://bitcoin.org/bitcoin.pdf), par exemple, n'utilise le terme que pour décrire les tentatives de double dépense.
 
