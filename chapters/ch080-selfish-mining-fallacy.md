@@ -3,7 +3,7 @@ Sophisme du minage égoïste
 
 L'expression « [minage](ch101-glossary.md#mine) [égoïste](ch101-glossary.md#égoïste) » fait référence à une *optimisation* du minage. Cependant, un [article universitaire](https://www.cs.cornell.edu/~ie53/publications/btcProcFC.pdf) présente l'optimisation comme suit :
 
-> « La sagesse conventionnelle affirme que le protocole de minage respecte la compatilité des incitations et est sécurisé contre les groupes minoritaires en collusion, c'est-à-dire qu'il incite les mineurs à suivre le protocole tel qu'il est prescrit. Nous montrons que le protocole de minage de Bitcoin ne respecte pas la constrainte de compatilité des incitations. »
+> « La sagesse conventionnelle affirme que le protocole de minage respecte la compatibilité des incitations et est sécurisé contre les groupes minoritaires en collusion, c'est-à-dire qu'il incite les mineurs à suivre le protocole tel qu'il est prescrit. Nous montrons que le protocole de minage de Bitcoin ne respecte pas la contrainte de compatibilité des incitations. »
 >
 > Ittay Eyal et Emin Gün Sirer, Majority is not Enough
 
