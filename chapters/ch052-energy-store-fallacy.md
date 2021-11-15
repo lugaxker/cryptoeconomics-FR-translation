@@ -1,7 +1,7 @@
 Sophisme du stockage d'énergie
 ==============================
 
-Il existe une théorie selon laquelle la [valeur](ch101-glossary.md#valeur) de l'énergie dépensée par la [preuve du travail](ch101-glossary.md#preuve-de-travail) est convertie en valeur de [monnaie](ch101-glossary.md#monnaie), ce qui revient à « stocker » la valeur pour une consommation ultérieure. En supposant que l'énergie et la monnaie auront de la valeur pour des [gens](ch101-glossary.md#personne) à un moment donné dans le futur, elles pourront à nouveau être [échangées](ch101-glossary.md#commerce).
+Il existe une théorie selon laquelle la [valeur](ch101-glossary.md#valeur) de l'énergie dépensée par la [preuve de travail](ch101-glossary.md#preuve-de-travail) est convertie en valeur de [monnaie](ch101-glossary.md#monnaie), ce qui revient à « stocker » la valeur pour une consommation ultérieure. En supposant que l'énergie et la monnaie auront de la valeur pour des [gens](ch101-glossary.md#personne) à un moment donné dans le futur, elles pourront à nouveau être [échangées](ch101-glossary.md#commerce).
 
 Pourtant, il s'agit au mieux d'un piètre métaphore. Les mineurs échangent de l'énergie contre des [unités](ch101-glossary.md#unité). Cependant, *tous* les [commerçants](ch101-glossary.md#commerçant) qui acceptent des unités de la monnaie fournissent quelque chose en échange, et *toutes les choses* offertes dans le commerce représentent une demande. La théorie se trompe en insinuant que la valeur énergétique dépensée dans le [minage](ch101-glossary.md#mine) est unique dans sa contribution à la valeur. **En dehors de son ampleur, une source de demande ne peut pas être un facteur de valeur généralement plus important qu'une autre source.** De ce fait, la théorie est invalide.
 
