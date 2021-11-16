@@ -3,7 +3,7 @@ Sophisme de la preuve de coût
 
 Dans un [marché](ch101-glossary.md#marché) concurrentiel (libre), le [minage](ch101-glossary.md#mine) de bitcoin consomme en coût pour le [mineur](ch101-glossary.md#mineur) ce qu'il crée en [valeur](ch101-glossary.md#valeur) pour lui, à la fois par l'émission de nouvelles [unités](ch101-glossary.md#unité) et par le service de [confirmation](ch101-glossary.md#confirmation). C'est le cas, que la [récompense](ch101-glossary.md#récompense) d'un [bloc](ch101-glossary.md#bloc) miné reflète le rendement total du mineur ou non.
 
-La quantité de calcul effectué lors du minage est reflétée de manière probabiliste dans la [difficulté](ch101-glossary.md#difficulté) du bloc. Ce calcul est appelé [travail](ch101-glossary.md#travail). Un entête de bloc [valide](ch101-glossary.md#validité) est la [preuve](ch101-glossary.md#preuve) probabiliste que ce travail a été effectué. C'est la base du terme « preuve de travail ».
+La quantité de calcul effectué lors du minage est reflétée de manière probabiliste dans la [difficulté](ch101-glossary.md#difficulté) du bloc. Ce calcul est appelé [travail](ch101-glossary.md#travail). Un entête de bloc [valide](ch101-glossary.md#validité) est la [preuve](ch101-glossary.md#preuve) probabiliste que ce travail a été effectué. C'est la base de l'expression « preuve de travail ».
 
 La quantité d'énergie consommée dans la production des blocs n'est pas prouvable, que ce soit de manière spécifique ou probabiliste. L'efficacité énergétique est variable. L'entête d'un bloc ne reflète pas la « preuve d'énergie » consommée. De telles affirmations sont des approximations.
 
