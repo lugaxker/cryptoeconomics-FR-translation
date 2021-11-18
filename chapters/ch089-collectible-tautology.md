@@ -7,9 +7,9 @@ Cela semble cohérent avec le [théorème](https://mises.org/library/human-actio
 
 > « Or, le théorème de régression vise à interpréter l'apparition d'une demande monétaire pour un bien qui avait antérieurement été demandé exclusivement à des fins industrielles, comme influencée par la valeur d'échange qui lui était assignée à ce moment-là en raison de ses seuls usages non monétaires. »
 >
-> Ludwig von Mises, L'action humaine, partie 4, chapitre XVII, section 4.
+> Ludwig von Mises, L'action humaine, 4, XVII, 4.
 
-Le postulat tire parti de l'ambiguïté familière du mot « marchandise », malgré la référence explicite à la valeur d'usage « industrielle » dans le théorème lui-même. **Si tout peut être une marchandise, alors le théorème de régression impliquerait, contrairement à son affirmation, que tout peut être de une monnaie.**
+Le postulat tire parti de l'ambiguïté familière du mot « marchandise », malgré la référence explicite à la valeur d'usage « industrielle » dans le théorème lui-même. **Si tout peut être une marchandise, alors le théorème de régression impliquerait, contrairement à son affirmation, que tout peut être une monnaie.**
 
 > « En économie, une marchandise est un bien ou un service économique qui a une fongibilité totale ou substantielle, c'est-à-dire que le marché traite les exemplaires du bien comme équivalents ou presque sans se soucier de qui les a produits. [...]
 >
