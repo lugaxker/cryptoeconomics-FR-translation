@@ -36,9 +36,9 @@ ratio-intérêt > ratio-croissance
 La contraction économique (diminution de la richesse) implique un taux d'[intérêt](ch101-glossary.md#intérêt) croissant, comme l'implique la théorie de l'[utilité marginale](https://fr.wikipedia.org/wiki/Utilit%C3%A9_marginale), jusqu'à ce qu'une croissance positive soit rétablie. De ce fait, la contraction est une situation qui se corrige d'elle-même.
 
 ```
-ratio-dépréciation > ratio-intérêt > 100%
+ratio-dépréciation > ratio-intérêt > 100 %
 ratio-intérêt / ratio-croissance = ratio-dépréciation
-ratio-intérêt / ratio-croissance > 100%
+ratio-intérêt / ratio-croissance > 100 %
 ratio-intérêt > ratio-croissance
 ```
 
