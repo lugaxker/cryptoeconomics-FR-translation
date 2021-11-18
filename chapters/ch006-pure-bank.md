@@ -29,12 +29,12 @@ Compte tenu de la définition précédente d'une Banque Pure, les relations suiv
 ```
 réservé      = emprunté - prêté
 demeurage    = taux de demeurage * réservé
-dépréciation = taux d'intérêt* réservé
+dépréciation = taux d'intérêt * réservé
 intérêt      = taux d'intérêt * prêté
 rendement    = ratio des dépenses * intérêts
 ```
 
-Pour la Banque Pure, le [ratio de réserve](https://fr.wikipedia.org/wiki/R%C3%A9serves_obligatoires) détermine entièrement le [ratio de capital](https://en.wikipedia.org/wiki/Capital_requirement), le [ratio d'endettement](https://en.wikipedia.org/wiki/Debt_ratio) et le ratio d'épargne
+Pour la Banque Pure, le [ratio de réserve](https://fr.wikipedia.org/wiki/R%C3%A9serves_obligatoires) détermine entièrement le [ratio de capital](https://en.wikipedia.org/wiki/Capital_requirement), le [ratio d'endettement](https://en.wikipedia.org/wiki/Debt_ratio) et le ratio d'épargne.
 
 #### Ratio de réserve
 
