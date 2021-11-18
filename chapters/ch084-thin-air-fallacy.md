@@ -27,7 +27,7 @@ Dans la vision naïve, le prêteur potentiel a épargné à la fois les liquidit
 |--------------|-----------|-----------|----------|----------|
 | **Personne** |    100 oz |    100 oz |          |          |
 
-Dans cette vision du prêt personnel, la Personne remet 81 onces d'or à l'Emprunteur. L'Emprunteur accepte l'obligation de rembourser la Personne avec les intérêts à l'[échéance du prêt](https://fr.wikipedia.org/wiki/%C3%89ch%C3%A9ance_(finance)). Pour simplifier la comptabilité, nous supposerons que l'intérêt est nul et que le risque de remboursement n'est pas pris en compte (c'est-à-dire qu'il n'est pas escompté) :
+Dans cette vision du prêt personnel, la Personne remet 81 onces d'or à l'Emprunteur. L'Emprunteur accepte l'obligation de rembourser la Personne avec les intérêts à l'[échéance du prêt](https://fr.wikipedia.org/wiki/%C3%89ch%C3%A9ance_(finance)). Pour simplifier la comptabilité, nous supposerons que l'intérêt est nul et que le risque de remboursement n'est pas pris en compte (c'est-à-dire qu'il n'est pas actualisé) :
 
 |                | Épargne   | Monnaie   | Crédit    | Dette     |
 |----------------|-----------|-----------|-----------|-----------|
@@ -50,7 +50,7 @@ L'entreprise de la Personne fonctionne avec une réserve de 10 %, car 90 % de la
 | **Banque**     |           |      9 oz |     81 oz |     90 oz |
 | **Emprunteur** |           |     81 oz |           |     81 oz |
 
-En tenant correctement compte de la Personne ayant de la monnaie à risque (c'est-à-dire du déposant), nous pouvons voir que tous les prêts sont réservés de manière fractionnée. Dans ce scénario, il y a deux prêts réservés à 10 %, ce qui donne des substituts monétaires (crédit) de 171 % de la monnaie. Étant donnée l'hypothèse d'une [préférence temporelle](ch085-time-preference-fallacy.md) uniforme, l'Emprunteur prêtera 90 % de son épargne, comme le feront tous les emprunteurs suivants. En supposant un prêt pratique minimum de une once, après 43 prêts, l'expansion du crédit s'arrête à 8,903 fois la quantité de monnaie.
+En tenant correctement compte de la Personne ayant de la monnaie à risque (c'est-à-dire du déposant), nous pouvons voir que tous les prêts sont réservés de manière fractionnée. Dans ce scénario, il y a deux prêts réservés à 10 %, ce qui donne des substituts monétaires (crédit) de 171 % de la monnaie. Étant donnée l'hypothèse d'une [préférence temporelle](ch085-time-preference-fallacy.md) uniforme, l'Emprunteur prêtera 90 % de son épargne, comme le feront tous les emprunteurs suivants. En supposant un prêt pratique minimum d'une once, après 43 prêts, l'expansion du crédit s'arrête à 8,903 fois la quantité de monnaie.
 
 Là où `r` est le niveau uniforme de réserve individuelle et `m` est la quantité de monnaie, le montant total du crédit `c` pour tout nombre de prêts `n` est donné par la [somme partielle](https://www.wolframalpha.com/input/?i=sum+of+m+*+%281-r%29%5En+as+n+goes+from+1+to+infinity) suivante :
 
@@ -184,7 +184,7 @@ Les écritures de compensation de l'actif et du passif ont servi uniquement à c
 * Empêcher le transfert physique juste pour redéposer la monnaie à la Banque.
 * Encourager le redépôt à la Banque plutôt que vers une banque concurrente (ou vers la réserve de l'Emprunteur).
 
-Lorsque la Banque n'a pas assez de réserves pour satisfaire les retraits, que ce soit en raison de prêts en défaut ou d'une [panique bancaire](https://fr.wikipedia.org/wiki/Panique_bancaire) (« course aux guichets »), elle n'a que deux options : faire défaut ou emprunter. Pour éviter le premier cas, le système de la [banque centrale](https://fr.wikipedia.org/wiki/Banque_centrale) existe pour assurer le second cas. C'est la signification du terme « [prêteur en dernier ressort](https://fr.wikipedia.org/wiki/Pr%C3%AAteur_en_dernier_ressort) ». Le [Principe de la banque d'État](ch025-state-banking-principle.md) fournit une explication détaillée de cette source réelle d'[inflation monétaire](https://fr.wikipedia.org/wiki/Cr%C3%A9ation_mon%C3%A9taire).
+Lorsque la Banque n'a pas assez de réserves pour satisfaire les retraits, que ce soit en raison de prêts en défaut ou d'une [panique bancaire](https://fr.wikipedia.org/wiki/Panique_bancaire) (« course aux guichets »), elle n'a que deux options : faire défaut ou emprunter. Dans le but d'éviter le premier cas, le modèle de [banque centrale](https://fr.wikipedia.org/wiki/Banque_centrale) existe pour assurer le second cas. C'est la signification de l'expression « [prêteur en dernier ressort](https://fr.wikipedia.org/wiki/Pr%C3%AAteur_en_dernier_ressort) ». Le [Principe de la banque d'État](ch025-state-banking-principle.md) fournit une explication détaillée de cette source réelle d'[inflation monétaire](https://fr.wikipedia.org/wiki/Cr%C3%A9ation_mon%C3%A9taire).
 
 En résumé, il a été démontré que :
 
