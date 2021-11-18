@@ -104,7 +104,7 @@ Merci à [Pierre Schweitzer](https://twitter.com/schweitzer_p) pour sa releture 
 * [Principe de dépréciation](chapters/ch011-depreciation-principle.md) 
 * [Relation d'épargne](chapters/ch091-savings-relation.md)
 * [Consommation spéculative](chapters/ch092-speculative-consumption.md)
-* [Banque pure](chapters/ch006-pure-bank.md)
+* [Banque Pure](chapters/ch006-pure-bank.md)
 * [Principe d'inflation](chapters/ch013-inflation-principle.md)
 * [Principe d'inflation subjective](chapters/ch019-subjective-inflation-principle.md)
 * [Sophisme de l'expansion du crédit](chapters/ch046-credit-expansion-fallacy.md)
@@ -151,7 +151,7 @@ Merci à [Pierre Schweitzer](https://twitter.com/schweitzer_p) pour sa releture 
 | 3      | [Proposition de valeur](chapters/ch003-value-proposition.md)                    | [Value Proposition](https://github.com/libbitcoin/libbitcoin-system/wiki/Value-Proposition)               |
 | 4      | [Axiome de résistance](chapters/ch004-axiom-of-resistance.md)                   | [Axiom of Resistance](https://github.com/libbitcoin/libbitcoin-system/wiki/Axiom-of-Resistance)           |
 | 5      | [Taxonomie des monnaies](chapters/ch005-money-taxonomy.md)                      | [Money Taxonomy](https://github.com/libbitcoin/libbitcoin-system/wiki/Money-Taxonomy)                     |
-| 6      | [Banque pure](chapters/ch006-pure-bank.md)                                      | [Pure Bank](https://github.com/libbitcoin/libbitcoin-system/wiki/Pure-Bank)                               |
+| 6      | [Banque Pure](chapters/ch006-pure-bank.md)                                      | [Pure Bank](https://github.com/libbitcoin/libbitcoin-system/wiki/Pure-Bank)                               |
 | 7      | [Production et consommation](chapters/ch007-production-and-consumption.md)      | [Production and Consumption](https://github.com/libbitcoin/libbitcoin-system/wiki/Production-and-Consumption) |
 | 8      | [Travail et loisir](chapters/ch008-labor-and-leisure.md)                        | [Labor and Leisure](https://github.com/libbitcoin/libbitcoin-system/wiki/Labor-and-Leisure)               |
 | 9      | [Principe de risque de garde](chapters/ch009-custodial-risk-principle.md)       | [Custodial Risk Principle](https://github.com/libbitcoin/libbitcoin-system/wiki/Custodial-Risk-Principle) |
