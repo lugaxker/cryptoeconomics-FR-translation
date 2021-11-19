@@ -37,7 +37,7 @@ Acte de rejeter une donnée [Invalide](#validité).
 ## Objets
 
 #### Unité
-Montant minimal transférable de biens représentés par une [Monnaie](#monnaie). Le satoshi est l'unité de Bitcoin.
+Montant minimal [Transférable](#transfert) de biens représentés par une [Monnaie](#monnaie). Le satoshi est l'unité de Bitcoin.
 
 #### Transfert
 Modification du contrôle sur certaines [Unités](#unité).
@@ -60,10 +60,10 @@ Ensemble d'[Opérations](#opération) autorisant un [Transfert](#transfert).
 Déclaration d'intention insécable.
 
 #### Contrat
-[Script](#script) qui exprime des conditions de [Transfert](#transfert). Parfois désigné par le terme anachronique « script de clé publique ».
+[Script](#script) qui exprime des conditions de [Transfert](#transfert). Parfois désigné par l'expression anachronique « script de clé publique ».
 
 #### Approbation
-[Script](#script) qui satisfait un [Contrat](#contrat). Parfois désignée par le terme anachronique « script de signature ».
+[Script](#script) qui satisfait un [Contrat](#contrat). Parfois désignée par l'expression anachronique « script de signature ».
 
 #### Point
 Référence à une [Sortie](#sortie) ou une [Entrée](#entrée).
@@ -98,7 +98,7 @@ Marque [Valide](#validité).
 [Preuve](#preuve) probabilistique d'une quantité de [Travail](#travail) effectuée (PDT).
 
 #### Preuve de mémoire
-[Preuve](#preuve) probabilistique d'une quantité mémoire de calcul utilisable (PDM).
+[Preuve](#preuve) probabilistique d'une quantité de mémoire informatique utilisable (PDM).
 
 #### Preuve d'enjeu
 [Preuve](#preuve) cryptographique d'une quantité de [Propriété](#propriétaire) (PDE)
@@ -107,10 +107,10 @@ Marque [Valide](#validité).
 Séquence [Valide](#validité) de [Blocs](#bloc).
 
 #### Faible
-Une [Branche](#branche) avec moins de [Preuve](#preuve) cumulée qu'une autre. Aussi appelée « orpheline » par abus de langage.
+Une [Branche](#branche) ayant moins de [Preuve](#preuve) cumulée qu'une autre. Aussi appelée « orpheline » par abus de langage.
 
 #### Forte
-Une [Branche](#branche) avec plus de [Preuve](#preuve) cumulée qu'une autre.
+Une [Branche](#branche) ayant plus de [Preuve](#preuve) cumulée qu'une autre.
 
 ## Enchaînement
 
@@ -121,10 +121,10 @@ Inclusion d'une [Transaction](#transaction) dans un [Bloc](#bloc).
 Une [Transaction](#transaction) qui n'existe pas dans un [Bloc](#bloc) de la [Chaîne](#chaîne).
 
 #### Réserve des transactions
-Ensemble des [Transactions non confirmées](#non-confirmée). Aussi appelée « zone mémoire » par abus de langage.
+Ensemble des [Transactions](#transaction) [Non confirmées](#non-confirmée). Aussi appelée « zone mémoire » par abus de langage.
 
 #### Réserve des blocs
-Ensemble des [Blocs faibles](#faible). Aussi appelée « réserve des orphelins » par abus de langage.
+Ensemble des [Blocs](#bloc) [Faibles](#faible). Aussi appelée « réserve des orphelins » par abus de langage.
 
 #### Genèse
 Premier [Bloc](#bloc) de toutes les [Branches](#branche) d'une [Monnaie](#monnaie).
@@ -171,7 +171,7 @@ Augmentation de l'[Offre](#offre) résultant de la [Subvention](#subvention). Au
 Somme de la [Subvention](#subvention) et des [Frais](#frais) pour un [Bloc](#bloc).
 
 #### Base de pièce
-[Transaction](#transaction) qui [transfère](#transfert) une [Récompense](#récompense).
+[Transaction](#transaction) qui [Transfère](#transfert) une [Récompense](#récompense).
 
 #### Maturité
 [Profondeur](#profondeur) à laquelle la [Sortie](#sortie) d'une [Base de pièce](#base-de-pièce) devient [Transférable](#transfert).
@@ -230,7 +230,7 @@ Augmentation des [Prix](#prix) au fil du temps.
 Taux d'accroissement en [Utilité](#utilité) du [Prêt](#prêter).
 
 #### Profit
-Retour sur [Investissement](#investissement) au-dessus du taux de [Marché](#marché) de l'[Intérêt](#intérêt)
+Retour sur [Investissement](#investissement) au-dessus du taux d'[Intérêt](#intérêt) du [Marché](#marché).
 
 #### Perte
 Échec d'un [Investissement](#prêter) à générer un [Intérêt](#intérêt) au-dessus du taux du [Marché](#marché).
@@ -308,7 +308,7 @@ Ensemble spécifique d'[Outils](#outil).
 [Personne](#personne) qui crée une [Implémentation](#implémentation).
 
 #### Créancier
-[Personne](#personne) qui détient une créance sur un bien sous le contrôle d'un [Dépositaire](#dépositaire). On parle aussi de titulaire de privilège, d'actionnaire, de [prêteur](#prêter) ou de déposant.
+[Personne](#personne) qui détient une créance sur un bien contrôlé par un [Dépositaire](#dépositaire). On parle aussi de titulaire de privilège, d'actionnaire, de [prêteur](#prêter) ou de déposant.
 
 #### Dépositaire
 [Personne](#personne) qui contrôle le bien d'autrui d'un commun accord.
