@@ -7,7 +7,7 @@ La [règle de consensus](ch101-glossary.md#règles-de-consensus) de la limite de
 
 Quelle que soit la taille des blocs, le système reste non scalable en raison de la nécessité de la finalité des [confirmations](ch101-glossary.md#vconfirmation). Un ensemble fini de transactions doit être sélectionné, ce qui implique que d'autres peuvent être exclues. Cette exclusion est motivée financièrement par le [coût d'opportunité](https://fr.wikipedia.org/wiki/Co%C3%BBt_d%27opportunit%C3%A9) de la non-utilisation du capital [minier](ch101-glossary.md#mine) déployé, et constitue une manifestation de la non-scalabilité. Cette limite intrinsèque nécessite un [marché](ch101-glossary.md#marché) concurrentiel pour la confirmation et elle le finance au prorata de la demande pour la [monnaie](ch005-money-taxonomy.md).
 
-La capacité de transport effective des transactions, et donc l'utilité, peut être augmentée par le traitement en [surcouche](ch101-glossary.md#surcouche). Cela représente un compromis de sécurité *local* et *limité dans le temps*, contrairement au compromis de sécurité *systémique* et *persistant* de l'augmentation de la taille des blocs.
+La capacité de transport effective des transactions, et donc l'utilité, peut être augmentée par le traitement en [surcouche](ch101-glossary.md#surcouche). Cela représente un compromis de sécurité *local* et *limité dans le temps*, contrairement au compromis de sécurité *systémique* et *permanent* de l'augmentation de la taille des blocs.
 
 Les deux compromis abaissent le [seuil d'utilité](ch031-utility-threshold-property.md) mais ne l'éliminent pas, ce qui implique que la [propriété de stabilité](ch030-stability-property.md) est préservée.
 
