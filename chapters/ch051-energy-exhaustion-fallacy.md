@@ -8,13 +8,13 @@ L'objectif de toute mesure de sécurité est de créer un coût nécessaire pour
 La barrière de sécurité (S) d'un [bloc](ch101-glossary.md#bloc) est le produit du coût unitaire du [hachage](ch101-glossary.md#hachage) (C), du [taux de hachage](ch101-glossary.md#taux-de-hachage) (H) et de la [période](ch101-glossary.md#période) (T).
 
 ```
-S = C * H * T
+S = C × H × T
 ```
 
 L'[ajustement](ch101-glossary.md#ajustement) fait varier le taux de hachage afin de maintenir une période constante pour un coût de hachage et une sécurité donnés.
 
 ```
-T = S / (C * H)
+T = S / (C × H)
 ```
 
 Une période constante implique que le taux de hachage est inversement proportionnel au coût pour une sécurité donnée.

@@ -12,7 +12,7 @@ Pour une période de temps donnée, la sécurité [économique](ch101-glossary.m
 Plus précisément, le système le plus économiquement décentralisé est celui qui possède le plus grand nombre de sommets (commerçants) et le coefficient de [variation](https://fr.wikipedia.org/wiki/Coefficient_de_variation) le plus bas pour les arêtes entrantes (recettes). En définissant une fonction de distribution comme l'inverse du coefficient de variation, on obtient :
 
 ```
-décentralisation-économique = distribution( recettes ) * commerçants
+décentralisation-économique = distribution( recettes ) × commerçants
 ```
 
 Similairement à la sécurité économique, la sécurité de confirmation peut être modélisée sous la forme d'un [graphe sans arête](https://fr.wikipedia.org/wiki/Graphe_nul). Chaque [mineur](ch101-glossary.md#mineur) est représenté par un sommet du graphe. Un [hacheur](ch101-glossary.md#hacheur) n'est pas un mineur car le hacheur n'a aucune capacité de décision, seul le mineur est représenté. La [puissance de hachage](ch101-glossary.md#puissance-de-hachage) totale employée par un mineur est le poids du sommet.
@@ -22,7 +22,7 @@ Pour une période de temps donnée, la sécurité de confirmation est fonction d
 Plus précisément, le système le plus décentralisé dans la confirmation est celui qui possède le plus grand nombre de sommets (mineurs) et la distribution de poids la plus élevée (puissance de hachage) :
 
 ```
-décentralisation-de-confirmation = distribution( puissance-de-hachage ) * mineurs
+décentralisation-de-confirmation = distribution( puissance-de-hachage ) × mineurs
 ```
 
 **Modèle de sécurité**
@@ -30,14 +30,14 @@ décentralisation-de-confirmation = distribution( puissance-de-hachage ) * mineu
 La [décentralisation](ch101-glossary.md#décentralisation) à elle seule n’est pas la sécurité. La sécurité est le produit de l'activité, de la distribution de cette activité et de la fraction de l'humanité participante.
 
 ```
-sécurité = activité * distribution * participation
+sécurité = activité × distribution × participation
 ```
 
 Étant donné qu'il n'y a pas de limite à l'humanité, au commerce ou au calcul, le niveau de sécurité sur chaque axe est illimité. La sécurité est également illimitée avec une distribution parfaite (c'est-à-dire une décentralisation infinie). Un niveau minimum de zéro sur chaque axe est atteint en l'absence de participation ou d'activité. La sécurité économique et la sécurité de confirmation peuvent ainsi être définies comme :
 
 ```
-sécurité-économique      = recettes             * distribution( recettes )             * [ commerçants / humanité ]
-sécurité-de-confirmation = puissance-de-hachage * distribution( puissance-de-hachage ) * [ mineurs     / humanité ]
+sécurité-économique      = recettes             × distribution( recettes )             × [ commerçants / humanité ]
+sécurité-de-confirmation = puissance-de-hachage × distribution( puissance-de-hachage ) × [ mineurs     / humanité ]
 ```
 **Limites du modèle**
 

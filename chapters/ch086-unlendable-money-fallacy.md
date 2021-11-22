@@ -20,7 +20,7 @@ ratio-croissance-monnaie-offre-fixe = ratio-croissance-monnaie-marchandise / rat
 Une monnaie à offre fixe est souvent supposée changer de [pouvoir d'achat](ch013-inflation-principle.md) en proportion des produits qu'elle représente. En d'autres termes, avec deux fois la quantité de produits, chaque [unité](ch101-glossary.md#unité) de monnaie s'[échangera](ch101-glossary.md#commerce) contre deux fois la quantité de produits qu'elle représentait auparavant.
 
 ```
-pouvoir-achat-cette-année = pouvoir-achat-année-dernière * ratio-croissance-annuelle
+pouvoir-achat-cette-année = pouvoir-achat-année-dernière × ratio-croissance-annuelle
 100 × 103 % = 103
 ```
 

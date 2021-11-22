@@ -28,10 +28,10 @@ Compte tenu de la définition précédente d'une Banque Pure, les relations suiv
 
 ```
 réservé      = emprunté - prêté
-demeurage    = taux de demeurage * réservé
-dépréciation = taux d'intérêt * réservé
-intérêt      = taux d'intérêt * prêté
-rendement    = ratio des dépenses * intérêts
+demeurage    = taux-demeurage × réservé
+dépréciation = taux-intérêt × réservé
+intérêt      = taux-intérêt × prêté
+rendement    = ratio-dépense × intérêt
 ```
 
 Pour la Banque Pure, le [ratio de réserve](https://fr.wikipedia.org/wiki/R%C3%A9serves_obligatoires) détermine entièrement le [ratio de capital](https://en.wikipedia.org/wiki/Capital_requirement), le [ratio d'endettement](https://en.wikipedia.org/wiki/Debt_ratio) et le ratio d'épargne.
@@ -39,29 +39,29 @@ Pour la Banque Pure, le [ratio de réserve](https://fr.wikipedia.org/wiki/R%C3%A
 #### Ratio de réserve
 
 ```
-ratio de réserve = réservé / emprunté
-ratio de réserve = (emprunté - prêté) / emprunté
+ratio-réserve = réservé / emprunté
+ratio-réserve = ( emprunté - prêté ) / emprunté
 ```
 
 #### Ratio de capital
 
 ```
-ratio de capital = réservé / prêté
-ratio de capital = (emprunté - prêté) / prêté
+ratio-capital = réservé / prêté
+ratio-capital = ( emprunté - prêté ) / prêté
 ```
 
 #### Ratio d'endettement
 
 ```
-ratio d'endettement = emprunté / réservé
-ratio d'endettement = emprunté / (emprunté - prêté)
+ratio-endettement = emprunté / réservé
+ratio-endettement = emprunté / ( emprunté - prêté )
 ```
 
 #### Ratio d'épargne
 
 ```
-ratio d'épargne = prêté / réservé
-ratio d'épargne = prêté / (emprunté - prêté)
+ratio-épargne = prêté / réservé
+ratio-épargne = prêté / ( emprunté - prêté )
 ```
 
 #### Bilan
@@ -77,7 +77,7 @@ La Banque Pure n'a pas de passif, seulement le capital propre des actionnaires.
 Le taux de rendement du créancier est en outre fonction du taux d'intérêt. Le taux de rendement du créancier est inférieur au taux d'intérêt du débiteur en raison du délai de trésorerie, la dépense nécessaire en demande de retrait. Pour réduire ces dépenses, des contraintes temporelles sont généralement incluses dans les [contrats de banques réelles](https://www.chase.com/content/dam/chasecom/en/checking/documents/deposit_account_agreement.pdf). Par exemple, en vertu de la loi s'appliquant aux États-Unis, tout retrait d'un compte bancaire portant intérêt peut être retardé de sept jours. Le créancier ne peut éliminer le [délai de trésorerie](https://www.investopedia.com/terms/p/performance_drag.asp) qu'en l'investissant directement (c'est-à-dire sans garantie de règlement).
 
 ```
-taux de rendement = taux d'intérêt * prêté / emprunté
+taux-rendement = taux-intérêt × prêté / emprunté
 ```
 
 Comme le montre la [Relation d'épargne](ch091-saving-relation.md), les ratios de capital individuels déterminent entièrement le taux d'intérêt du [marché](ch101-glossary.md#marché). Lorsque nous considérons chaque personne opérant comme une banque pure, il devient clair que le ratio de capital détermine le taux d'intérêt. Un ratio de capital de 0 % pour toutes les personnes implique que le capital est gratuit et n'a pas de rendement. À des ratios de capital croissants, le taux d'intérêt augmente en conséquence. À un niveau de thésaurisation totale, le coût du capital est « infini » - aucune quantité de capital ne peut être obtenue pour la production.
@@ -87,9 +87,9 @@ La supposition de la [relation monétaire](ch013-inflation-principle.md) est que
 Pourtant, les ratios de capital déterminent pleinement le taux d'intérêt. Comme chaque personne tente individuellement d'obtenir un ratio idéal basé sur ses propres préférences, un taux d'intérêt du marché en résulte. La substitution du ratio de capital au taux d'intérêt démontre l'effet de la réserve sur la Banque Pure, sous l'hypothèse supplémentaire que tout le monde fonctionne comme une Banque Pure et avec le même ratio de capital. Le ratio de capital comprend la dépréciation des biens présents, ce qui, pour la monnaie, est le demeurage. Le ratio de demeurage de la Banque Pure est de 1, donc on peut l'éliminer.
 
 ```
-taux de rendement = ( réservé * ratio de demeurage / prêté ) * (prêté / emprunté)
-taux de rendement = ( réservé / emprunté ) * ratio de demeurage
-taux de rendement = réservé / emprunté
+taux-rendement = ( réservé × ratio de demeurage / prêté ) × ( prêté / emprunté )
+taux-rendement = ( réservé / emprunté ) × ratio de demeurage
+taux-rendement = réservé / emprunté
 ```
 
 Le taux de rendement de l'investissement de la Banque Pure devient le ratio de réserve. Cela n'implique pas qu'une Banque Pure individuelle puisse définir son propre rendement en fixant son ratio de capital. Cela reflète simplement que le ratio de capital du marché détermine le rendement du capital. Si *tous les prêteurs* doublaient leur ratio de capital actuel, leurs rendements doubleraient nécessairement, car le coût du capital, et donc son rendement, doublerait.
@@ -99,26 +99,26 @@ Le taux de rendement de l'investissement de la Banque Pure devient le ratio de r
 Les ratios de capital indépendants de toutes les personnes, basés sur la préférence temporelle individuelle, déterminent le taux d'intérêt du marché. La substitution ci-dessus du ratio de capital propre de la banque en tant que taux d'intérêt implique que la banque fixe le taux d'intérêt. Cependant, cela est propre au concept de préférence temporelle. Une banque peut définir le niveau d'intérêt qu'elle préfère. Il n'y a aucune hypothèse pour les banques réelles que le marché suivra, de sorte que l'intérêt du marché et, par conséquent, les rendements du marché sont présumés.
 
 ``` 
-taux de rendement du marché = taux d'intérêt du marché * ( prêté / emprunté )
-taux de rendement du marché = ratio de capital du marché * ( prêté / emprunté )
+taux-rendement-marché = taux-intérêt-marché × ( prêté / emprunté )
+taux-rendement-marché = ratio-capital-marché × ( prêté / emprunté )
 ```
 
 La Banque Libre diffère également de la Banque Pure par les dépenses de fonctionnement, ce qui réduit directement le taux de rendement.
 
 ```
-taux de rendement de la banque libre = taux de rendement sur le marché * ratio des dépenses
+taux-rendement-banque-libre = taux-rendement-marché × ratio-dépense
 ```
 
 La Banque Réelle ne diffère de la banque libre que par l'impôt (y compris les dépenses réglementaires), ce qui réduit directement le taux de rendement.
 
 ```
-taux de rendement réel = taux de rendement de la banque libre * ratio des dépenses fiscales
+taux-rendement-banque-réelle = taux-rendement-banque-libre × ratio-dépense-fiscale
 ```
 
 La Banque Centrale (l'État) ne diffère de la banque réelle que par la subvention par les contribuables (y compris les emprunts aux taux directeurs), ce qui augmente directement le taux de rendement.
 
 ```
-taux de rendement de la banque centrale = taux de rendement bancaire * taux de rendement bancaire
+taux-rendement-banque-centrale = taux-rendement-banque-réelle × ratio-revenu-subvention
 ```
 
 Lorsque l'impôt comprend le seigneuriage de la monnaie bancaire, l'[équation de Fisher](https://fr.wikipedia.org/wiki/%C3%89quation_de_Fisher) doit être appliquée ci-dessus pour convertir le taux d'intérêt d'un taux nominal à un taux réel. Aucun autre changement n'est impliqué en dehors de l'impôt, qui est comptabilisé par la Banque Réelle ci-dessus. Cet impôt est généralement la source de subvention, qui est comptabilisée par la Banque Centrale ci-dessus.

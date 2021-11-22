@@ -30,7 +30,7 @@ Un employeur et un employé réels obtiennent chacun un taux d'intérêt du [mar
 Le taux d'intérêt obtenu par les deux classes de production est le même. La différence de rendement est strictement fonction de la quantité de capital investi, soit dans la production individuelle (employé), soit dans la gestion de la production collective (employeur). La valorisation maximale qu'une personne donne au loisir peut être déduite du taux de salaire qu'elle accepte, en [actualisant](https://fr.wikipedia.org/wiki/Valeur_actuelle_nette) le capital impliqué par rapport au taux d'intérêt du marché.
 
 ```
-taux-salaire = taux-loisir * (1 + taux-intérêt + taux-dépréciation-corporelle)
+taux-salaire = taux-loisir × ( 1 + taux-intérêt + taux-dépréciation-corporelle )
 ```
 
 L'employé échange du temps de loisir contre du temps de travail dans la mesure où il valorise le montant de l'intérêt plus que la valeur qu'il attribue au temps de loisir. La préférence pour le loisir est une reformulation de la préférence temporelle, où le propre corps d'une personne est le bien économique prêté à la production en échange d'un intérêt.

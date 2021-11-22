@@ -55,9 +55,9 @@ En tenant correctement compte de la Personne ayant de la monnaie à risque (c'es
 Là où `r` est le niveau uniforme de réserve individuelle et `m` est la quantité de monnaie, le montant total du crédit `c` pour tout nombre de prêts `n` est donné par la [somme partielle](https://www.wolframalpha.com/input/?i=sum+of+m+*+%281-r%29%5En+as+n+goes+from+1+to+infinity) suivante :
 
 ```
-c = ∑(n=1..n)[ m * (1 - r)^n ]
-  = ( m * (r - 1) ((1 - r)^n - 1) ) / r
-  = ( 100 oz * (10 % - 1) ((1 - 10 %)^43 - 1) ) / 10 % = 890,3 oz
+c = ∑(n=1..n)[ m × (1 - r)^n ]
+  = ( m × (r - 1) ((1 - r)^n - 1) ) / r
+  = ( 100 oz × (10 % - 1) ((1 - 10 %)^43 - 1) ) / 10 % = 890,3 oz
 ```
 
 Le [taux de réserve](https://fr.wikipedia.org/wiki/R%C3%A9serves_obligatoires) `rr` est donné par le rapport entre la monnaie et le crédit :
