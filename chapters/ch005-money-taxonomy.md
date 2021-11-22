@@ -25,7 +25,7 @@ La monnaie et le substitut monétaire constituent tous les deux des [devises](ht
 
 Le tableau suivant présente des exemples de chacune des classifications susmentionnées.
 
-* devise
+* devise (*currency*)
     * monnaie [présent]
         * marchandise [valeur d'usage]
             * monopole
