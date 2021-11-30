@@ -1,7 +1,7 @@
 Sophisme de la monnaie idéale
 -----------------------------
 
-Il a été [avancé](http://personal.psu.edu/gjb6/nash/money.pdf) que l'existence d'un « indice de valeur » international apolitique (c'est-à-dire objectif) conduirait les [gens](ch101-glossary.md#personne) à contraindre les [États](ch101-glossary.md#état) à « axer la valeur » de leurs monnaies sur l'indice, éliminant ainsi l'[inflation des prix](https://fr.wikipedia.org/wiki/Inflation). Il a également été suggéré que le bitcoin constitue un tel indice et qu'il précipitera la réalisation de ce scénario.
+Il a été [avancé](http://personal.psu.edu/gjb6/nash/money.pdf) que l'existence d'un « indice de valeur » international [apolitique](ch101-glossary.md#politique) (c'est-à-dire objectif) conduirait les [gens](ch101-glossary.md#personne) à contraindre les [États](ch101-glossary.md#état) à « axer la valeur » de leurs monnaies sur l'indice, éliminant ainsi l'[inflation des prix](https://fr.wikipedia.org/wiki/Inflation). Il a également été suggéré que le bitcoin constitue un tel indice et qu'il précipitera la réalisation de ce scénario.
 
 La conséquence espérée est la possibilité de se séparer de certaines monnaies étatiques pour d'autres monnaies. Le mouvement va des monnaies ayant une inflation plus élevée à celle ayant une inflation plus basse, sur la base d'une comparaison avec l'indice. La conséquence est que les États doivent de plus en plus faire tendre leurs taux individuels d'inflation des prix vers l'indice. Ce résultat est que les monnaies étatiques s'approchent « asymptotiquement » de la condition de la [monnaie idéale](https://en.wikipedia.org/wiki/Ideal_money) représentée par l'indice.
 
