@@ -20,7 +20,7 @@ La centralisation se manifeste par :
 * Les portefeuilles web et autres portefeuilles impliquant de faire confiance
 * Les API hébergées pour accéder à la chaîne
 
-Dans un environnement à [faible menace](ch033-threat-level-paradox.md), le commerçant a moins d'intérêt financier à subventionner la sécurité de Bitcoin. À mesure que le coût des [alternatives](https://fr.wikipedia.org/wiki/Contr%C3%B4le_des_changes) augmente, la remise devient inévitable. À ce stade, le client décide de payer un prix plus élevé ou le commerçant ferme son entreprise car le capital recherche les taux de rendement du [marché](ch101-glossary.md#marché).
+Dans un environnement à [faible menace](ch033-threat-level-paradox.md), le commerçant a moins d'intérêt financier à subventionner la sécurité de Bitcoin. À mesure que le [coût des alternatives](https://fr.wikipedia.org/wiki/Contr%C3%B4le_des_changes) augmente, la remise devient inévitable. À ce stade, le client décide de payer un prix plus élevé ou le commerçant ferme son entreprise car le capital recherche les taux de rendement du [marché](ch101-glossary.md#marché).
 
 ---
 
