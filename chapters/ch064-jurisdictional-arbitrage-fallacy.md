@@ -3,7 +3,7 @@ Sophisme de l'arbitrage juridictionnel
 
 Il existe une théorie selon laquelle, dans le cas d'une interdiction de Bitcoin, la [monnaie](ch101-glossary.md#monnaie) pourrait survivre par le déménagement du [minage](ch101-glossary.md#mine) et des autres activités vers les États permissifs, puisqu'il serait improbable que tous les [États](ch101-glossary.md#état) participent à cette interdiction.
 
-Ceux qui ne se conforment pas opèrent sur le [marché noir](https://fr.wikipedia.org/wiki/March%C3%A9_noir) du point de vue de l'autorité qui interdit. Un autre État en violation d'une interdiction est considéré comme un [État voyou](https://fr.wikipedia.org/wiki/%C3%89tat_voyou) de ce point de vue. Une interdiction est une simple action politique contre laquelle Bitcoin n'offre aucune protection.
+Ceux qui ne se conforment pas opèrent sur le [marché noir](https://fr.wikipedia.org/wiki/March%C3%A9_noir) du point de vue de l'autorité qui interdit. Un autre État en violation d'une interdiction est considéré comme un [État voyou](https://fr.wikipedia.org/wiki/%C3%89tat_voyou) de ce point de vue. Une interdiction est une simple action [politique](ch101-glossary.md#politique) contre laquelle Bitcoin n'offre aucune protection.
 
 Il y a un [sophisme apparenté](ch088-hearn-error.md) selon lequel une telle action serait incroyablement difficile dans le cas où Bitcoin serait populaire. C’est l’idée que Bitcoin est sécurisé par le vote, ce qui réduit son modèle de sécurité à celui du statu quo de la monnaie étatique, éliminant ainsi la [proposition de valeur](ch003-value-proposition.md) de Bitcoin.
 
