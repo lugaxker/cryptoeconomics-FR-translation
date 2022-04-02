@@ -7,7 +7,7 @@ Prouver des affirmations à propos de Bitcoin requiert de s'appuyer sur des syst
 
 > > Vous ne trouverez pas de solution aux problèmes politiques dans la cryptographie.
 >
-> Oui, mais nous pouvons remporter une bataille majeure dans la course aux armements et gagner un nouvel espace de liberté pour plusieurs années.
+> Oui, mais nous pouvons remporter une bataille majeure dans la course aux armements et conquérir un nouveau territoire de liberté pour plusieurs années.
 >
 > Les gouvernements sont bons pour couper les têtes des réseaux contrôlés de manière centralisée comme Napster, mais les réseaux purement pair-à-pair comme Gnutella et Tor semblent tenir le coup.
 >
