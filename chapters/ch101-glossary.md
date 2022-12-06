@@ -88,7 +88,7 @@ Nombre insuffisant d'[Unités](#unité) pour le [Transfert](#transfert) par une 
 #### Horodatage
 Déclaration du temps de la production du [Bloc](#bloc).
 
-#### Temps passé médian
+#### Temps médian passé
 Moyenne des [Horodatages](#horodatage) des précédents [Blocs](#bloc).
 
 #### Preuve
