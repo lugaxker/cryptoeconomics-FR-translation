@@ -13,8 +13,8 @@ Merci à [Pierre Schweitzer](https://twitter.com/schweitzer_p) pour sa releture 
 
 * [Introduction](introduction.md)
 * [Remerciements](acknowledgements.md)
-* [Cryptoéconomie (préface)](chapters/ch001-cryptoeconomics.md)
-* [Avant-propos d'Amir Taaki](chapters/ch002-foreword-by-amir-taaki.md)
+* [Cryptoéconomie (avant-propos)](chapters/ch001-cryptoeconomics.md)
+* [Préface d'Amir Taaki](chapters/ch002-foreword-by-amir-taaki.md)
 
 ### Modèle de sécurité
 

@@ -1,5 +1,5 @@
-Avant-propos d'Amir Taaki
-=========================
+Préface d'Amir Taaki
+====================
 
 La [crypto-anarchie](https://fr.wikipedia.org/wiki/Crypto-anarchisme) n'est ni une stratégie cherchant à imposer une hégémonie politique, ni une méthode visant à discréditer d'autres attitudes ou intentions possibles. C'est simplement un ensemble de concepts ou d'idées qui peuvent être utilisés de manière tactique pour rendre possibles des modes de vie alternatifs. L'histoire est le résultat de la volonté et de l'action humaines, mais cela se produit toujours dans un cadre de convictions, de croyances et de représentations qui donnent un sens et une direction à une poursuite donnée. De cette façon, la crypto-anarchie cherche à armer l'individu d'outils conceptuels puissants afin qu'il construise ses propres visions créatives.
 

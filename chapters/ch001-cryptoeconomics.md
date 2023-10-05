@@ -1,5 +1,5 @@
-Cryptoéconomie (préface)
-========================
+Cryptoéconomie (avant-propos)
+=============================
 
 Au départ, c'était un moyen d'éviter de retaper les mêmes idées,  [140 caractères](https://fr.wikipedia.org/wiki/Twitter) à la fois. Pour rester dans cet environnement, les sujets étaient aussi courts que possible, et informels. Je n'avais pas l'intention d'écrire un livre, et je ne peux toujours pas le faire. La plupart des sujets (y compris celui-ci) ont été écrits sur mon téléphone, au cours d'un vol d'avion, dans un train ou dans un café. Beaucoup de sujets sont des observations rapides qui découlent d'une connaissance intime du code de base de Bitcoin, ou d'une longue étude personnelle et d'une expérience dans diverses disciplines.
 
